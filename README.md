@@ -2,7 +2,11 @@
 
 叉燒 ChaShao 是一套為法規閱讀、理解、整理與長期研習設計的 Windows 桌面工具。它不是單純把法條顯示在畫面上，而是把閱讀法規時常見的工作——查找條文、追蹤引用、標記名詞、拆解要件、建立筆記、比較版本、整理研讀成果與備份資料——集中在同一個閱讀環境中。
 
-工具適合需要反覆閱讀法規的學生、研究者、實務工作者，以及希望建立個人法規知識庫的使用者。核心閱讀與整理功能可在離線環境中使用；使用者的法規與研習資料由自己掌握。
+<img width="3825" height="2022" alt="image" src="https://github.com/user-attachments/assets/fd4f4d3d-b751-44fd-87e4-6defe9e91f4c" />
+<img width="3817" height="2001" alt="image" src="https://github.com/user-attachments/assets/e8d25fa5-7258-4d0b-99a8-4046b6e8bb29" />
+
+
+核心閱讀與整理功能可在離線環境中使用；使用者的法規與研習資料由自己掌握。
 
 > 本儲存庫是成品與法規資料下載頁，只提供 Windows 執行檔、已整理的法規 JSON，以及使用與安全性說明；不包含應用程式原始碼、開發專案或建置檔案。
 
@@ -16,6 +20,8 @@
 - 深色與淺色外觀可依閱讀環境切換，適合長時間研讀。
 
 ### 直接追蹤條文引用
+
+<img width="3817" height="2030" alt="image" src="https://github.com/user-attachments/assets/17db779b-5dda-4f45-bb2a-a60d02d604e6" />
 
 - 辨識條文中的「前項」、「前款」及其他條文引用。
 - 點選引用後，可在目前閱讀脈絡中查看所指內容，減少來回翻找。
@@ -31,12 +37,18 @@
 
 ### 專有名詞與法律概念連結
 
+<img width="3802" height="1992" alt="image" src="https://github.com/user-attachments/assets/495722e6-9454-4425-890e-bf13b5542ea4" />
+
+<img width="3817" height="1998" alt="image" src="https://github.com/user-attachments/assets/dcdeff04-1a12-4f8d-8941-a7e918c7f1ae" />
+
 - 同時辨識相近或互相包含的詞語，例如「保險人」與「被保險人」。
 - 優先保留完整詞語，避免較短名稱切斷較長名詞。
 - 點選已標記名詞，可查看對應解釋或相關整理。
 - 適合跨條文累積同一法律概念的脈絡，而不是只記住單一條文中的一句話。
 
 ### 跨法規搜尋與篩選
+
+<img width="3776" height="1994" alt="image" src="https://github.com/user-attachments/assets/43e31987-54cf-4b92-b0c9-a1bf459af8a1" />
 
 - 搜尋條號、關鍵字、筆記、要件與專有名詞。
 - 可搭配法規、標籤或重要程度縮小範圍。
