@@ -75,22 +75,22 @@
 
 ## 下載 Windows 執行檔
 
-直接下載：[ChaShao-Law-Reader-1.26.0.exe](https://github.com/fehu1991/ChaShaolawrader/raw/refs/heads/main/ChaShao-Law-Reader-1.26.0.exe)
+直接下載：[ChaShao-Law-Reader-1.26.1.exe](https://github.com/fehu1991/ChaShaolawrader/raw/refs/heads/main/ChaShao-Law-Reader-1.26.1.exe)
 
-- 目前版本：1.26.0
-- 檔案大小：19,596,288 bytes（約 18.7 MB）
+- 目前版本：1.26.1
+- 檔案大小：19,595,776 bytes（約 18.7 MB）
 - 單一 EXE，無須安裝。
 
 SHA-256：
 
 ```text
-FBD4DE727B2751C67919461D71EEBA8B7762918B7426FF82A9E33005261B2607
+BDAC4CFCF4BFAD59189982E1F7C01402A814547A3FE5A24611C4D9A6CD323839
 ```
 
 PowerShell 驗證方式：
 
 ```powershell
-Get-FileHash .\ChaShao-Law-Reader-1.26.0.exe -Algorithm SHA256
+Get-FileHash .\ChaShao-Law-Reader-1.26.1.exe -Algorithm SHA256
 ```
 
 ### Windows 安全性提醒
@@ -101,7 +101,7 @@ Get-FileHash .\ChaShao-Law-Reader-1.26.0.exe -Algorithm SHA256
 
 工具第一次啟動時是空的，不會預先放入法規、示範筆記或 AI 產生內容。建議依下列順序開始：
 
-1. 下載並執行 `ChaShao-Law-Reader-1.26.0.exe`。
+1. 下載並執行 `ChaShao-Law-Reader-1.26.1.exe`。
 2. 從本儲存庫的 [json 資料夾](https://github.com/fehu1991/ChaShaolawrader/tree/main/json)下載需要的法規。
 3. 在工具中選擇「匯入 JSON」。
 4. 選擇一份或多份法規檔案。
@@ -214,8 +214,8 @@ Get-FileHash .\ChaShao-Law-Reader-1.26.0.exe -Algorithm SHA256
 
 ## 目前版本
 
-最新正式版本：**1.26.0**
+最新正式版本：**1.26.1**
 
-本版本修正條文引用暫時標記、完整專有名詞辨識，並加入點擊左上角 Logo 查看工具與版本說明的功能。
+本版本修正條文引用暫時標記、完整專有名詞辨識，以及反白內容與筆記標題可能錯位的問題；並保留點擊左上角 Logo 查看工具與版本說明的功能。
 
-版本修正內容可參考 [v1.26.0 說明](https://github.com/fehu1991/ChaShaolawrader/releases/tag/v1.26.0)。
+版本修正內容可參考本儲存庫的[提交紀錄](https://github.com/fehu1991/ChaShaolawrader/commits/main)。
