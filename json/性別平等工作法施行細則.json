@@ -1,0 +1,492 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-gender-equality-employment-act-enforcement-rules",
+    "code": "UNKNOWN",
+    "name": "性別平等工作法施行細則",
+    "shortName": "性別平等工作法施行細則",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [
+      "性別工作平等法施行細則"
+    ],
+    "version": {
+      "id": "tw-gender-equality-employment-act-enforcement-rules-20240117",
+      "label": "修正日期：民國 113 年 01 月 17 日",
+      "promulgationDate": "2024-01-17",
+      "effectiveDate": "2024-01-19",
+      "effectiveDateNote": "本版本施行條文明定自公布（發布）日施行，依中央法規標準法第13條，自公布（發布）之日起算至第三日起發生效力，故施行日為公布（發布）日之後二日。 另依第15條第2項，中華民國一百十一年一月十八日修正發布之第7條自一百十一年一月十八日施行，第9條自一百十一年五月一日施行；一百十三年一月十七日修正發布之第4條之2、第4條之3自一百十三年三月八日（2024-03-08）施行。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "本細則依性別平等工作法（以下簡稱本法）第三十九條規定訂定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則依性別平等工作法（以下簡稱本法）第三十九條規定訂定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-1-1",
+        "articleNumber": "1-1",
+        "displayNumber": "第 1-1 條",
+        "title": null,
+        "plainText": "本法中華民國一百十二年八月十六日修正公布之第五條第二項至第四項施行前，各級主管機關已依本法第五條設性別平等工作會，且委員任期於修正施行後屆滿者，得繼續擔任至任期屆滿之日止。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法中華民國一百十二年八月十六日修正公布之第五條第二項至第四項施行前，各級主管機關已依本法第五條設性別平等工作會，且委員任期於修正施行後屆滿者，得繼續擔任至任期屆滿之日止。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "本法第七條至第十一條、第三十一條及第三十五條所稱差別待遇，指雇主因性別或性傾向因素而對受僱者或求職者為直接或間接不利之對待。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第七條至第十一條、第三十一條及第三十五條所稱差別待遇，指雇主因性別或性傾向因素而對受僱者或求職者為直接或間接不利之對待。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "本法第七條但書所稱工作性質僅適合特定性別者，指非由特定性別之求職者或受僱者從事，不能完成或難以完成之工作。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第七條但書所稱工作性質僅適合特定性別者，指非由特定性別之求職者或受僱者從事，不能完成或難以完成之工作。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "（刪除）",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "（刪除）"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-4-1",
+        "articleNumber": "4-1",
+        "displayNumber": "第 4-1 條",
+        "title": null,
+        "plainText": "1   實習生所屬學校知悉其實習期間遭受性騷擾時，所屬學校應督促實習之單位採取立即有效之糾正及補救措施，並應提供實習生必要協助。\n2   申訴案件之申訴人為實習生時，地方主管機關得請求教育主管機關及所屬學校共同調查。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   實習生所屬學校知悉其實習期間遭受性騷擾時，所屬學校應督促實習之單位採取立即有效之糾正及補救措施，並應提供實習生必要協助。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   申訴案件之申訴人為實習生時，地方主管機關得請求教育主管機關及所屬學校共同調查。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-4-2",
+        "articleNumber": "4-2",
+        "displayNumber": "第 4-2 條",
+        "title": null,
+        "plainText": "1   本法第十二條第三項第二款及第十三條第二項所稱共同作業，指基於共同目的於同一期間從事工作者。\n2   本法第十二條第三項第一款及第二款所稱持續性性騷擾，指該性騷擾行為於工作時間及非工作時間均發生，且時間具密接性者。\n3   本法第十三條第二項序文所定知悉，不以被害人須向雇主提出性騷擾申訴為限。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第十二條第三項第二款及第十三條第二項所稱共同作業，指基於共同目的於同一期間從事工作者。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法第十二條第三項第一款及第二款所稱持續性性騷擾，指該性騷擾行為於工作時間及非工作時間均發生，且時間具密接性者。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   本法第十三條第二項序文所定知悉，不以被害人須向雇主提出性騷擾申訴為限。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-4-3",
+        "articleNumber": "4-3",
+        "displayNumber": "第 4-3 條",
+        "title": null,
+        "plainText": "本法第十三條第四項所稱地方主管機關，指被害人勞務提供地之直轄市或縣（市）主管機關。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十三條第四項所稱地方主管機關，指被害人勞務提供地之直轄市或縣（市）主管機關。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-4-4",
+        "articleNumber": "4-4",
+        "displayNumber": "第 4-4 條",
+        "title": null,
+        "plainText": "本法中華民國一百十二年八月十六日修正公布之第三十四條施行之日起，中央主管機關性別平等工作會依本法第三十四條第二項規定所為之審定，雇主、受僱者或求職者如有不服，不經訴願程序，得依法提起行政訴訟。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法中華民國一百十二年八月十六日修正公布之第三十四條施行之日起，中央主管機關性別平等工作會依本法第三十四條第二項規定所為之審定，雇主、受僱者或求職者如有不服，不經訴願程序，得依法提起行政訴訟。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "1   本法第十三條第一項、第十九條及第二十三條第一項所定僱用人數之計算，包括分支機構及附屬單位之僱用人數。\n2   本法第十九條所定之僱用人數，依受僱者申請或請求當月第一個工作日雇主僱用之總人數計算。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第十三條第一項、第十九條及第二十三條第一項所定僱用人數之計算，包括分支機構及附屬單位之僱用人數。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法第十九條所定之僱用人數，依受僱者申請或請求當月第一個工作日雇主僱用之總人數計算。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "本法第十五條第一項規定產假期間之計算，應依曆連續計算。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十五條第一項規定產假期間之計算，應依曆連續計算。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "本法第十五條第五項規定之七日陪產檢及陪產假，除陪產檢於配偶妊娠期間請假外，受僱者陪產之請假，應於配偶分娩之當日及其前後合計十五日期間內為之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十五條第五項規定之七日陪產檢及陪產假，除陪產檢於配偶妊娠期間請假外，受僱者陪產之請假，應於配偶分娩之當日及其前後合計十五日期間內為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "受僱者於依本法第十六條第一項規定申請育嬰留職停薪期間屆滿前分娩或流產，於復職後仍在本法第十五條第一項所定之產假期間時，雇主仍應依本法規定給予產假。但得扣除自分娩或流產之日起至復職前之日數。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "受僱者於依本法第十六條第一項規定申請育嬰留職停薪期間屆滿前分娩或流產，於復職後仍在本法第十五條第一項所定之產假期間時，雇主仍應依本法規定給予產假。但得扣除自分娩或流產之日起至復職前之日數。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "受僱者依本法第十六條第二項規定繼續參加原有之社會保險，不包括參加勞工職業災害保險，並應於原投保單位繼續投保。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "受僱者依本法第十六條第二項規定繼續參加原有之社會保險，不包括參加勞工職業災害保險，並應於原投保單位繼續投保。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "依本法第十六條第二項規定繼續參加原有之社會保險者，其投保手續、投保金額、保險費繳納及保險給付等事項，依各該相關法令規定辦理。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "依本法第十六條第二項規定繼續參加原有之社會保險者，其投保手續、投保金額、保險費繳納及保險給付等事項，依各該相關法令規定辦理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "本法第十八條第一項所定親自哺乳，包括女性受僱者以容器貯存母乳備供育兒之情形。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十八條第一項所定親自哺乳，包括女性受僱者以容器貯存母乳備供育兒之情形。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "本法第十六條第一項、第十八條第一項及第十九條所稱子女，指婚生子女、非婚生子女及養子女。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十六條第一項、第十八條第一項及第十九條所稱子女，指婚生子女、非婚生子女及養子女。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "受僱者依本法第十五條至第二十條規定為申請或請求者，必要時雇主得要求其提出相關證明文件。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "受僱者依本法第十五條至第二十條規定為申請或請求者，必要時雇主得要求其提出相關證明文件。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "本法第二十三條第一項所定雇主應設置托兒設施或提供適當之托兒措施，包括與其他雇主聯合辦理或委託托兒服務機構辦理者。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第二十三條第一項所定雇主應設置托兒設施或提供適當之托兒措施，包括與其他雇主聯合辦理或委託托兒服務機構辦理者。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "1   本細則自發布日施行。\n2   本細則中華民國一百十一年一月十八日修正發布之第七條自一百十一年一月十八日施行，第九條自一百十一年五月一日施行；一百十三年一月十七日修正發布之第四條之二、第四條之三自一百十三年三月八日施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本細則自發布日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本細則中華民國一百十一年一月十八日修正發布之第七條自一百十一年一月十八日施行，第九條自一百十一年五月一日施行；一百十三年一月十七日修正發布之第四條之二、第四條之三自一百十三年三月八日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等工作法施行細則（PDF：法規-性別平等工作法施行細則.pdf）",
+          "lastModified": "2024-01-17"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "sexual-harassment-prevention-framework",
+        "name": "性騷擾防治法律框架",
+        "description": "彙整我國性騷擾之定義、防治義務、申訴調查程序與相關罰則所涉之法規；並涵蓋依場域與當事人身分關係而分流適用之性別平等工作法與性別平等教育法。",
+        "aliases": [
+          "性騷擾防治"
+        ],
+        "tags": [
+          "性騷擾",
+          "防治",
+          "申訴"
+        ],
+        "role": "supporting",
+        "sortOrder": 4
+      },
+      {
+        "id": "gender-equity-campus-framework",
+        "name": "校園性別事件處理法律框架",
+        "description": "彙整校園性侵害、性騷擾及性霸凌事件之防治、調查與處理程序所涉之法規，包含性別平等教育法及其授權訂定之準則與學校校內規定。",
+        "aliases": [
+          "校園性別事件"
+        ],
+        "tags": [
+          "校園",
+          "性別事件",
+          "性平教育"
+        ],
+        "role": "related",
+        "sortOrder": 5
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "conceptId": "gender-equity-campus-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用性別平等工作法",
+        "relationType": "authorization",
+        "conditionText": "本細則依性別平等工作法（以下簡稱本法）第三十九條規定訂定之。",
+        "targetRegulationId": "tw-gender-equality-employment-act",
+        "targetRegulationNames": [
+          "性別平等工作法"
+        ],
+        "targetArticleNumber": "39",
+        "triggerTerms": [
+          "本細則依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-gender-equality-employment-act-enforcement-rules-cite-1",
+        "sortOrder": 0
+      }
+    ],
+    "definedTerms": []
+  }
+}

@@ -1,0 +1,960 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。",
+      "以下法規經條文明文引用，但未包含於本次匯入批次，targetRegulationId 暫留 null，待該等法規匯入後可依名稱自動或人工連結：非訟事件法。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-stalking-harassment-prevention-act",
+    "code": "UNKNOWN",
+    "name": "跟蹤騷擾防制法",
+    "shortName": "跟蹤騷擾防制法",
+    "jurisdiction": "TW",
+    "authority": "內政部",
+    "aliases": [
+      "跟騷法"
+    ],
+    "version": {
+      "id": "tw-stalking-harassment-prevention-act-20211201",
+      "label": "公布日期：民國 110 年 12 月 01 日",
+      "promulgationDate": "2021-12-01",
+      "effectiveDate": "2022-06-01",
+      "effectiveDateNote": "依第23條，本法自公布後六個月施行；本法公布日為民國110年12月1日，故施行日為2022-06-01（並與跟蹤騷擾防制法施行細則第18條所定一百十一年六月一日施行相符）。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "為保護個人身心安全、行動自由、生活私密領域及資訊隱私，免於受到跟蹤騷擾行為侵擾，維護個人人格尊嚴，特制定本法。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "為保護個人身心安全、行動自由、生活私密領域及資訊隱私，免於受到跟蹤騷擾行為侵擾，維護個人人格尊嚴，特制定本法。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "1   本法所稱主管機關：在中央為內政部；在直轄市為直轄市政府；在縣（市）為縣（市）政府。\n2   本法所定事項，主管機關及目的事業主管機關應就其權責範圍，依跟蹤騷擾防制之需要，主動規劃所需保護、預防及宣導措施，對涉及相關機關之防制業務，並應全力配合。其權責如下：\n一、主管機關：負責防制政策、法規與方案之研究、規劃、訂定及解釋；案件之統計及公布；人員在職教育訓練；其他統籌及督導防制跟蹤騷擾行為等相關事宜。\n二、社政主管機關：跟蹤騷擾被害人保護扶助工作、配合推動跟蹤騷擾防制措施及宣導等相關事宜。\n三、衛生主管機關：跟蹤騷擾被害人身心治療、諮商及提供經法院命完成相對人治療性處遇計畫等相關事宜。\n四、教育主管機關：各級學校跟蹤騷擾防制教育之推動、跟蹤騷擾被害人就學權益維護及學校輔導諮商支持、校園跟蹤騷擾事件處理之改善等相關事宜。\n五、勞動主管機關：被害人之職業安全、職場防制教育、提供或轉介當事人身心治療及諮商等相關事宜。\n六、法務主管機關：跟蹤騷擾犯罪之偵查、矯正及再犯預防等刑事司法相關事宜。\n七、其他跟蹤騷擾行為防制措施，由相關目的事業主管機關依職權辦理。\n3   中央主管機關為推動前述事項應設置防制跟蹤騷擾推動諮詢小組，遴聘（派）學者專家、民間團體及相關機關代表之人數，不得少於總數二分之一，且任一性別人數不得少於總數三分之一。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法所稱主管機關：在中央為內政部；在直轄市為直轄市政府；在縣（市）為縣（市）政府。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法所定事項，主管機關及目的事業主管機關應就其權責範圍，依跟蹤騷擾防制之需要，主動規劃所需保護、預防及宣導措施，對涉及相關機關之防制業務，並應全力配合。其權責如下："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、主管機關：負責防制政策、法規與方案之研究、規劃、訂定及解釋；案件之統計及公布；人員在職教育訓練；其他統籌及督導防制跟蹤騷擾行為等相關事宜。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、社政主管機關：跟蹤騷擾被害人保護扶助工作、配合推動跟蹤騷擾防制措施及宣導等相關事宜。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、衛生主管機關：跟蹤騷擾被害人身心治療、諮商及提供經法院命完成相對人治療性處遇計畫等相關事宜。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、教育主管機關：各級學校跟蹤騷擾防制教育之推動、跟蹤騷擾被害人就學權益維護及學校輔導諮商支持、校園跟蹤騷擾事件處理之改善等相關事宜。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、勞動主管機關：被害人之職業安全、職場防制教育、提供或轉介當事人身心治療及諮商等相關事宜。"
+          },
+          {
+            "type": "item",
+            "number": "六",
+            "text": "六、法務主管機關：跟蹤騷擾犯罪之偵查、矯正及再犯預防等刑事司法相關事宜。"
+          },
+          {
+            "type": "item",
+            "number": "七",
+            "text": "七、其他跟蹤騷擾行為防制措施，由相關目的事業主管機關依職權辦理。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   中央主管機關為推動前述事項應設置防制跟蹤騷擾推動諮詢小組，遴聘（派）學者專家、民間團體及相關機關代表之人數，不得少於總數二分之一，且任一性別人數不得少於總數三分之一。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "1   本法所稱跟蹤騷擾行為，指以人員、車輛、工具、設備、電子通訊、網際網路或其他方法，對特定人反覆或持續為違反其意願且與性或性別有關之下列行為之一，使之心生畏怖，足以影響其日常生活或社會活動：\n一、監視、觀察、跟蹤或知悉特定人行蹤。\n二、以盯梢、守候、尾隨或其他類似方式接近特定人之住所、居所、學校、工作場所、經常出入或活動之場所。\n三、對特定人為警告、威脅、嘲弄、辱罵、歧視、仇恨、貶抑或其他相類之言語或動作。\n四、以電話、傳真、電子通訊、網際網路或其他設備，對特定人進行干擾。\n五、對特定人要求約會、聯絡或為其他追求行為。\n六、對特定人寄送、留置、展示或播送文字、圖畫、聲音、影像或其他物品。\n七、向特定人告知或出示有害其名譽之訊息或物品。\n八、濫用特定人資料或未經其同意，訂購貨品或服務。\n2   對特定人之配偶、直系血親、同居親屬或與特定人社會生活關係密切之人，以前項之方法反覆或持續為違反其意願而與性或性別無關之各款行為之一，使之心生畏怖，足以影響其日常生活或社會活動，亦為本法所稱跟蹤騷擾行為。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法所稱跟蹤騷擾行為，指以人員、車輛、工具、設備、電子通訊、網際網路或其他方法，對特定人反覆或持續為違反其意願且與性或性別有關之下列行為之一，使之心生畏怖，足以影響其日常生活或社會活動："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、監視、觀察、跟蹤或知悉特定人行蹤。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、以盯梢、守候、尾隨或其他類似方式接近特定人之住所、居所、學校、工作場所、經常出入或活動之場所。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、對特定人為警告、威脅、嘲弄、辱罵、歧視、仇恨、貶抑或其他相類之言語或動作。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、以電話、傳真、電子通訊、網際網路或其他設備，對特定人進行干擾。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、對特定人要求約會、聯絡或為其他追求行為。"
+          },
+          {
+            "type": "item",
+            "number": "六",
+            "text": "六、對特定人寄送、留置、展示或播送文字、圖畫、聲音、影像或其他物品。"
+          },
+          {
+            "type": "item",
+            "number": "七",
+            "text": "七、向特定人告知或出示有害其名譽之訊息或物品。"
+          },
+          {
+            "type": "item",
+            "number": "八",
+            "text": "八、濫用特定人資料或未經其同意，訂購貨品或服務。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   對特定人之配偶、直系血親、同居親屬或與特定人社會生活關係密切之人，以前項之方法反覆或持續為違反其意願而與性或性別無關之各款行為之一，使之心生畏怖，足以影響其日常生活或社會活動，亦為本法所稱跟蹤騷擾行為。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "1   警察機關受理跟蹤騷擾行為案件，應即開始調查、製作書面紀錄，並告知被害人得行使之權利及服務措施。\n2   前項案件經調查有跟蹤騷擾行為之犯罪嫌疑者，警察機關應依職權或被害人之請求，核發書面告誡予行為人；必要時，並應採取其他保護被害人之適當措施。\n3   行為人或被害人對於警察機關核發或不核發書面告誡不服時，得於收受書面告誡或不核發書面告誡之通知後十日內，經原警察機關向其上級警察機關表示異議。\n4   前項異議，原警察機關認為有理由者，應立即更正之；認為無理由者，應於五日內加具書面理由送上級警察機關決定。上級警察機關認為有理由者，應立即更正之；認為無理由者，應予維持。\n5   行為人或被害人對於前項上級警察機關之決定，不得再聲明不服。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   警察機關受理跟蹤騷擾行為案件，應即開始調查、製作書面紀錄，並告知被害人得行使之權利及服務措施。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項案件經調查有跟蹤騷擾行為之犯罪嫌疑者，警察機關應依職權或被害人之請求，核發書面告誡予行為人；必要時，並應採取其他保護被害人之適當措施。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   行為人或被害人對於警察機關核發或不核發書面告誡不服時，得於收受書面告誡或不核發書面告誡之通知後十日內，經原警察機關向其上級警察機關表示異議。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   前項異議，原警察機關認為有理由者，應立即更正之；認為無理由者，應於五日內加具書面理由送上級警察機關決定。上級警察機關認為有理由者，應立即更正之；認為無理由者，應予維持。"
+          },
+          {
+            "type": "paragraph",
+            "number": "5",
+            "text": "5   行為人或被害人對於前項上級警察機關之決定，不得再聲明不服。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "1   行為人經警察機關依前條第二項規定為書面告誡後二年內，再為跟蹤騷擾行為者，被害人得向法院聲請保護令；被害人為未成年人、身心障礙者或因故難以委任代理人者，其配偶、法定代理人、三親等內之血親或姻親，得為其向法院聲請之。\n2   檢察官或警察機關得依職權向法院聲請保護令。\n3   保護令之聲請、撤銷、變更、延長及抗告，均免徵裁判費，並準用民事訴訟法第七十七條之二十三第四項規定。\n4   家庭暴力防治法所定家庭成員間、現有或曾有親密關係之未同居伴侶間之跟蹤騷擾行為，應依家庭暴力防治法規定聲請民事保護令，不適用本法關於保護令之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   行為人經警察機關依前條第二項規定為書面告誡後二年內，再為跟蹤騷擾行為者，被害人得向法院聲請保護令；被害人為未成年人、身心障礙者或因故難以委任代理人者，其配偶、法定代理人、三親等內之血親或姻親，得為其向法院聲請之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   檢察官或警察機關得依職權向法院聲請保護令。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   保護令之聲請、撤銷、變更、延長及抗告，均免徵裁判費，並準用民事訴訟法第七十七條之二十三第四項規定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   家庭暴力防治法所定家庭成員間、現有或曾有親密關係之未同居伴侶間之跟蹤騷擾行為，應依家庭暴力防治法規定聲請民事保護令，不適用本法關於保護令之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "1   保護令之聲請，應以書狀為之，由被害人之住居所地、相對人之住居所地或跟蹤騷擾行為地或結果地之地方法院管轄。\n2   法院為定管轄權，得調查被害人或相對人之住居所。經聲請人或被害人要求保密被害人之住居所者，法院應以秘密方式訊問，將該筆錄及相關資料密封，並禁止閱覽。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   保護令之聲請，應以書狀為之，由被害人之住居所地、相對人之住居所地或跟蹤騷擾行為地或結果地之地方法院管轄。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   法院為定管轄權，得調查被害人或相對人之住居所。經聲請人或被害人要求保密被害人之住居所者，法院應以秘密方式訊問，將該筆錄及相關資料密封，並禁止閱覽。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "1   前條聲請書應載明下列各款事項：\n一、聲請人、被害人之姓名及住所或居所；聲請人為機關者，其名稱及公務所。\n二、相對人之姓名、住所或居所及身分證明文件字號。\n三、有法定代理人、代理人者，其姓名、住所或居所及法定代理人與當事人之關係。\n四、聲請之意旨及其原因事實；聲請之意旨應包括聲請核發之具體措施。\n五、供證明或釋明用之證據。\n六、附屬文件及其件數。\n七、法院。\n八、年、月、日。\n2   前項聲請書得不記載聲請人或被害人之住所及居所，僅記載其送達處所。\n3   聲請人或其代理人應於聲請書內簽名；其不能簽名者，得使他人代書姓名，由聲請人或其代理人蓋章或按指印。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   前條聲請書應載明下列各款事項："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、聲請人、被害人之姓名及住所或居所；聲請人為機關者，其名稱及公務所。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、相對人之姓名、住所或居所及身分證明文件字號。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、有法定代理人、代理人者，其姓名、住所或居所及法定代理人與當事人之關係。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、聲請之意旨及其原因事實；聲請之意旨應包括聲請核發之具體措施。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、供證明或釋明用之證據。"
+          },
+          {
+            "type": "item",
+            "number": "六",
+            "text": "六、附屬文件及其件數。"
+          },
+          {
+            "type": "item",
+            "number": "七",
+            "text": "七、法院。"
+          },
+          {
+            "type": "item",
+            "number": "八",
+            "text": "八、年、月、日。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項聲請書得不記載聲請人或被害人之住所及居所，僅記載其送達處所。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   聲請人或其代理人應於聲請書內簽名；其不能簽名者，得使他人代書姓名，由聲請人或其代理人蓋章或按指印。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "聲請保護令之程式或要件有欠缺者，法院應以裁定駁回之。但其情形可以補正者，應定期間先命補正。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "聲請保護令之程式或要件有欠缺者，法院應以裁定駁回之。但其情形可以補正者，應定期間先命補正。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "法院收受聲請書後，除得定期間命聲請人以書狀或於期日就特定事項詳為陳述外，應速將聲請書繕本送達於相對人，並限期命其陳述意見。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "法院收受聲請書後，除得定期間命聲請人以書狀或於期日就特定事項詳為陳述外，應速將聲請書繕本送達於相對人，並限期命其陳述意見。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "1   保護令案件之審理不公開。\n2   法院得依職權或依聲請調查事實及必要之證據，並得隔別訊問；必要時得依聲請或依職權於法庭外為之，或採有聲音及影像相互傳送之科技設備或其他適當隔離措施。\n3   法院為調查事實，得命當事人或法定代理人親自到場。\n4   法院認為當事人之聲明或陳述不明瞭或不完足者，得曉諭其敘明或補充之。\n5   法院受理保護令之聲請後，應即行審理程序，不得以被害人、聲請人及相對人間有其他案件偵查或訴訟繫屬為由，延緩核發保護令。\n6   因職務或業務知悉或持有被害人姓名、出生年月日、住居所及其他足資識別其身分之資料者，除法律另有規定外，應予保密。警察人員必要時應採取保護被害人之安全措施。\n7   行政機關、司法機關所製作必須公示之文書，不得揭露被害人之姓名、出生年月日、住居所及其他足資識別被害人身分之資訊。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   保護令案件之審理不公開。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   法院得依職權或依聲請調查事實及必要之證據，並得隔別訊問；必要時得依聲請或依職權於法庭外為之，或採有聲音及影像相互傳送之科技設備或其他適當隔離措施。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   法院為調查事實，得命當事人或法定代理人親自到場。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   法院認為當事人之聲明或陳述不明瞭或不完足者，得曉諭其敘明或補充之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "5",
+            "text": "5   法院受理保護令之聲請後，應即行審理程序，不得以被害人、聲請人及相對人間有其他案件偵查或訴訟繫屬為由，延緩核發保護令。"
+          },
+          {
+            "type": "paragraph",
+            "number": "6",
+            "text": "6   因職務或業務知悉或持有被害人姓名、出生年月日、住居所及其他足資識別其身分之資料者，除法律另有規定外，應予保密。警察人員必要時應採取保護被害人之安全措施。"
+          },
+          {
+            "type": "paragraph",
+            "number": "7",
+            "text": "7   行政機關、司法機關所製作必須公示之文書，不得揭露被害人之姓名、出生年月日、住居所及其他足資識別被害人身分之資訊。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "1   被害人以外之聲請人因死亡、喪失資格或其他事由致不能續行程序者，其他有聲請權人得於該事由發生時起十日內聲明承受程序；法院亦得依職權通知承受程序。\n2   前項情形雖無人承受程序，法院認為必要時，應續行之。\n3   被害人或相對人於裁定確定前死亡者，關於本案視為程序終結。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   被害人以外之聲請人因死亡、喪失資格或其他事由致不能續行程序者，其他有聲請權人得於該事由發生時起十日內聲明承受程序；法院亦得依職權通知承受程序。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項情形雖無人承受程序，法院認為必要時，應續行之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   被害人或相對人於裁定確定前死亡者，關於本案視為程序終結。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "1   法院於審理終結後，認有跟蹤騷擾行為之事實且有必要者，應依聲請或依職權核發包括下列一款或數款之保護令：\n一、禁止相對人為第三條第一項各款行為之一，並得命相對人遠離特定場所一定距離。\n二、禁止相對人查閱被害人戶籍資料。\n三、命相對人完成治療性處遇計畫。\n四、其他為防止相對人再為跟蹤騷擾行為之必要措施。\n2   相對人治療性處遇計畫相關規範，由中央衛生主管機關定之。\n3   保護令得不記載聲請人之住所、居所及其他聯絡資訊。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   法院於審理終結後，認有跟蹤騷擾行為之事實且有必要者，應依聲請或依職權核發包括下列一款或數款之保護令："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、禁止相對人為第三條第一項各款行為之一，並得命相對人遠離特定場所一定距離。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、禁止相對人查閱被害人戶籍資料。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、命相對人完成治療性處遇計畫。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、其他為防止相對人再為跟蹤騷擾行為之必要措施。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   相對人治療性處遇計畫相關規範，由中央衛生主管機關定之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   保護令得不記載聲請人之住所、居所及其他聯絡資訊。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "1   保護令有效期間最長為二年，自核發時起生效。\n2   保護令有效期間屆滿前，法院得依被害人或第五條第一項後段規定聲請權人之聲請或依職權撤銷、變更或延長之；保護令有效期間之延長，每次不得超過二年。\n3   檢察官或警察機關得為前項延長保護令之聲請。\n4   被害人或第五條第一項後段規定聲請權人聲請變更或延長保護令，於法院裁定前，原保護令不失其效力。檢察官及警察機關依前項規定聲請延長保護令，亦同。\n5   法院受理延長保護令之聲請後，應即時通知被害人、聲請人、相對人、檢察官及警察機關。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   保護令有效期間最長為二年，自核發時起生效。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   保護令有效期間屆滿前，法院得依被害人或第五條第一項後段規定聲請權人之聲請或依職權撤銷、變更或延長之；保護令有效期間之延長，每次不得超過二年。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   檢察官或警察機關得為前項延長保護令之聲請。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   被害人或第五條第一項後段規定聲請權人聲請變更或延長保護令，於法院裁定前，原保護令不失其效力。檢察官及警察機關依前項規定聲請延長保護令，亦同。"
+          },
+          {
+            "type": "paragraph",
+            "number": "5",
+            "text": "5   法院受理延長保護令之聲請後，應即時通知被害人、聲請人、相對人、檢察官及警察機關。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "1   法院應於核發保護令後二十四小時內發送被害人、聲請人、相對人、裁定內容所指定之人及執行之機關。\n2   有關保護令之送達、期日、期間及證據，準用民事訴訟法之規定。\n3   保護令由直轄市、縣（市）主管機關執行之；執行之方法、應遵行程序及其他相關事項之辦法，由中央主管機關定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   法院應於核發保護令後二十四小時內發送被害人、聲請人、相對人、裁定內容所指定之人及執行之機關。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   有關保護令之送達、期日、期間及證據，準用民事訴訟法之規定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   保護令由直轄市、縣（市）主管機關執行之；執行之方法、應遵行程序及其他相關事項之辦法，由中央主管機關定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "1   保護令之程序，除本法別有規定外，準用非訟事件法有關規定。\n2   關於保護令之裁定，除有特別規定者外，得為抗告；抗告中不停止執行。\n3   對於抗告法院之裁定，不得再抗告。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   保護令之程序，除本法別有規定外，準用非訟事件法有關規定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   關於保護令之裁定，除有特別規定者外，得為抗告；抗告中不停止執行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   對於抗告法院之裁定，不得再抗告。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "1   被害人、聲請人或相對人對於執行保護令之方法、應遵行之程序或其他侵害利益之情事，得於執行程序終結前，向執行之機關聲明異議。\n2   前項聲明異議，執行之機關認其有理由者，應即停止執行並撤銷或更正已為之執行行為；認其無理由者，應於十日內加具意見，送核發保護令之法院裁定之。\n3   對於前項法院之裁定，不得抗告。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   被害人、聲請人或相對人對於執行保護令之方法、應遵行之程序或其他侵害利益之情事，得於執行程序終結前，向執行之機關聲明異議。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項聲明異議，執行之機關認其有理由者，應即停止執行並撤銷或更正已為之執行行為；認其無理由者，應於十日內加具意見，送核發保護令之法院裁定之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   對於前項法院之裁定，不得抗告。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "1   外國法院關於跟蹤騷擾行為之保護令，經聲請中華民國法院裁定承認後，得執行之。\n2   被害人或聲請權人向法院聲請承認外國法院關於跟蹤騷擾行為之保護令，有民事訴訟法第四百零二條第一項第一款至第三款所列情形之一者，法院應駁回其聲請。\n3   外國法院關於跟蹤騷擾行為之保護令，其核發地國對於中華民國法院之保護令不予承認者，法院得駁回其聲請。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   外國法院關於跟蹤騷擾行為之保護令，經聲請中華民國法院裁定承認後，得執行之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   被害人或聲請權人向法院聲請承認外國法院關於跟蹤騷擾行為之保護令，有民事訴訟法第四百零二條第一項第一款至第三款所列情形之一者，法院應駁回其聲請。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   外國法院關於跟蹤騷擾行為之保護令，其核發地國對於中華民國法院之保護令不予承認者，法院得駁回其聲請。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-18",
+        "articleNumber": "18",
+        "displayNumber": "第 18 條",
+        "title": null,
+        "plainText": "1   實行跟蹤騷擾行為者，處一年以下有期徒刑、拘役或科或併科新臺幣十萬元以下罰金。\n2   攜帶凶器或其他危險物品犯前項之罪者，處五年以下有期徒刑、拘役或科或併科新臺幣五十萬元以下罰金。\n3   第一項之罪，須告訴乃論。\n4   檢察官偵查第一項之罪及司法警察官因調查犯罪情形、蒐集證據，認有調取通信紀錄及通訊使用者資料之必要時，不受通訊保障及監察法第十一條之一第一項所定最重本刑三年以上有期徒刑之罪之限制。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   實行跟蹤騷擾行為者，處一年以下有期徒刑、拘役或科或併科新臺幣十萬元以下罰金。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   攜帶凶器或其他危險物品犯前項之罪者，處五年以下有期徒刑、拘役或科或併科新臺幣五十萬元以下罰金。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   第一項之罪，須告訴乃論。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   檢察官偵查第一項之罪及司法警察官因調查犯罪情形、蒐集證據，認有調取通信紀錄及通訊使用者資料之必要時，不受通訊保障及監察法第十一條之一第一項所定最重本刑三年以上有期徒刑之罪之限制。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-19",
+        "articleNumber": "19",
+        "displayNumber": "第 19 條",
+        "title": null,
+        "plainText": "違反法院依第十二條第一項第一款至第三款所為之保護令者，處三年以下有期徒刑、拘役或科或併科新臺幣三十萬元以下罰金。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "違反法院依第十二條第一項第一款至第三款所為之保護令者，處三年以下有期徒刑、拘役或科或併科新臺幣三十萬元以下罰金。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-20",
+        "articleNumber": "20",
+        "displayNumber": "第 20 條",
+        "title": null,
+        "plainText": "法院審理前二條犯罪案件不公開。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "法院審理前二條犯罪案件不公開。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-21",
+        "articleNumber": "21",
+        "displayNumber": "第 21 條",
+        "title": null,
+        "plainText": "行為人經法官訊問後，認其犯第十八條第二項、第十九條之罪嫌疑重大，有事實足認為有反覆實行之虞，而有羈押之必要者，得羈押之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "行為人經法官訊問後，認其犯第十八條第二項、第十九條之罪嫌疑重大，有事實足認為有反覆實行之虞，而有羈押之必要者，得羈押之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-22",
+        "articleNumber": "22",
+        "displayNumber": "第 22 條",
+        "title": null,
+        "plainText": "本法施行細則，由主管機關定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法施行細則，由主管機關定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      },
+      {
+        "id": "article-23",
+        "articleNumber": "23",
+        "displayNumber": "第 23 條",
+        "title": null,
+        "plainText": "本法自公布後六個月施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法自公布後六個月施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法（PDF：法規-跟蹤騷擾防制法.pdf）",
+          "lastModified": "2021-12-01"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "stalking-harassment-prevention-framework",
+        "name": "跟蹤騷擾防制法律框架",
+        "description": "彙整跟蹤騷擾行為之定義、書面告誡、保護令與相關罰則所涉之法規。",
+        "aliases": [
+          "跟騷防制"
+        ],
+        "tags": [
+          "跟蹤騷擾",
+          "保護令"
+        ],
+        "role": "primary",
+        "sortOrder": 0
+      },
+      {
+        "id": "domestic-violence-prevention-framework",
+        "name": "家庭暴力防治法律框架",
+        "description": "彙整家庭成員間身體、精神或經濟不法侵害行為之定義、民事保護令聲請與執行、刑事程序特別規定，以及與跟蹤騷擾防制法、性剝削防制等鄰近領域交界事項所涉之法規。",
+        "aliases": [
+          "家暴防治"
+        ],
+        "tags": [
+          "家庭暴力",
+          "保護令"
+        ],
+        "role": "related",
+        "sortOrder": 1
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "id": "link-tw-stalking-harassment-prevention-act-1",
+        "conceptId": "stalking-harassment-prevention-framework",
+        "sourceArticleId": null,
+        "label": "授權訂定施行細則",
+        "relationType": "authorization",
+        "conditionText": "本法施行細則，由主管機關定之。",
+        "targetRegulationId": "tw-stalking-harassment-prevention-act-enforcement-rules",
+        "targetRegulationNames": [
+          "跟蹤騷擾防制法施行細則"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "施行細則"
+        ],
+        "linkMode": "automatic",
+        "sortOrder": 0
+      },
+      {
+        "conceptId": "stalking-harassment-prevention-framework",
+        "sourceArticleId": "article-5",
+        "label": "引用民事訴訟法",
+        "relationType": "application",
+        "conditionText": "3   保護令之聲請、撤銷、變更、延長及抗告，均免徵裁判費，並準用民事訴訟法第七十七條之二十三第四項規定。",
+        "targetRegulationId": "tw-code-civil-procedure",
+        "targetRegulationNames": [
+          "民事訴訟法"
+        ],
+        "targetArticleNumber": "77",
+        "triggerTerms": [
+          "，並準用"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-stalking-harassment-prevention-act-cite-2",
+        "sortOrder": 1
+      },
+      {
+        "conceptId": "domestic-violence-prevention-framework",
+        "sourceArticleId": "article-5",
+        "label": "引用家庭暴力防治法",
+        "relationType": "application",
+        "conditionText": "4   家庭暴力防治法所定家庭成員間、現有或曾有親密關係之未同居伴侶間之跟蹤騷擾行為，應依家庭暴力防治法規定聲請民事保護令，不適用本法關於保護令之規定。",
+        "targetRegulationId": "tw-domestic-violence-prevention-act",
+        "targetRegulationNames": [
+          "家庭暴力防治法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "4   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-stalking-harassment-prevention-act-cite-3",
+        "sortOrder": 2
+      },
+      {
+        "conceptId": "stalking-harassment-prevention-framework",
+        "sourceArticleId": "article-14",
+        "label": "引用民事訴訟法",
+        "relationType": "application",
+        "conditionText": "2   有關保護令之送達、期日、期間及證據，準用民事訴訟法之規定。",
+        "targetRegulationId": "tw-code-civil-procedure",
+        "targetRegulationNames": [
+          "民事訴訟法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "據，準用"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-stalking-harassment-prevention-act-cite-4",
+        "sortOrder": 3
+      },
+      {
+        "conceptId": "stalking-harassment-prevention-framework",
+        "sourceArticleId": "article-15",
+        "label": "引用非訟事件法",
+        "relationType": "mutatis_mutandis",
+        "conditionText": "1   保護令之程序，除本法別有規定外，準用非訟事件法有關規定。",
+        "targetRegulationId": null,
+        "targetRegulationNames": [
+          "非訟事件法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "準用"
+        ],
+        "linkMode": "automatic_or_manual",
+        "id": "link-tw-stalking-harassment-prevention-act-cite-5",
+        "sortOrder": 4
+      },
+      {
+        "conceptId": "stalking-harassment-prevention-framework",
+        "sourceArticleId": "article-17",
+        "label": "引用民事訴訟法",
+        "relationType": "application",
+        "conditionText": "2   被害人或聲請權人向法院聲請承認外國法院關於跟蹤騷擾行為之保護令，有民事訴訟法第四百零二條第一項第一款至第三款所列情形之一者，法院應駁回其聲請。",
+        "targetRegulationId": "tw-code-civil-procedure",
+        "targetRegulationNames": [
+          "民事訴訟法"
+        ],
+        "targetArticleNumber": "402",
+        "triggerTerms": [
+          "護令，有"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-stalking-harassment-prevention-act-cite-6",
+        "sortOrder": 5
+      }
+    ],
+    "definedTerms": [
+      {
+        "id": "competent-authority",
+        "name": "主管機關",
+        "aliases": [],
+        "definition": "在中央為內政部；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
+        "definitionArticleId": "article-2",
+        "definitionText": "1   本法所稱主管機關：在中央為內政部；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
+        "scope": "regulation",
+        "targetRegulationNames": [],
+        "sortOrder": 0
+      },
+      {
+        "id": "stalking-harassment-conduct",
+        "name": "跟蹤騷擾行為",
+        "aliases": [],
+        "definition": "以人員、車輛、工具、設備、電子通訊、網際網路或其他方法，對特定人反覆或持續為違反其意願且與性或性別有關之下列行為之一，使之心生畏怖，足以影響其日常生活或社會活動：\n一、監視、觀察、跟蹤或知悉特定人行蹤。\n二、以盯梢、守候、尾隨或其他類似方式接近特定人之住所、居所、學校、工作場所、經常出入或活動之場所。\n三、對特定人為警告、威脅、嘲弄、辱罵、歧視、仇恨、貶抑或其他相類之言語或動作。\n四、以電話、傳真、電子通訊、網際網路或其他設備，對特定人進行干擾。\n五、對特定人要求約會、聯絡或為其他追求行為。\n六、對特定人寄送、留置、展示或播送文字、圖畫、聲音、影像或其他物品。\n七、向特定人告知或出示有害其名譽之訊息或物品。\n八、濫用特定人資料或未經其同意，訂購貨品或服務。",
+        "definitionArticleId": "article-3",
+        "definitionText": "1   本法所稱跟蹤騷擾行為，指以人員、車輛、工具、設備、電子通訊、網際網路或其他方法，對特定人反覆或持續為違反其意願且與性或性別有關之下列行為之一，使之心生畏怖，足以影響其日常生活或社會活動：\n一、監視、觀察、跟蹤或知悉特定人行蹤。\n二、以盯梢、守候、尾隨或其他類似方式接近特定人之住所、居所、學校、工作場所、經常出入或活動之場所。\n三、對特定人為警告、威脅、嘲弄、辱罵、歧視、仇恨、貶抑或其他相類之言語或動作。\n四、以電話、傳真、電子通訊、網際網路或其他設備，對特定人進行干擾。\n五、對特定人要求約會、聯絡或為其他追求行為。\n六、對特定人寄送、留置、展示或播送文字、圖畫、聲音、影像或其他物品。\n七、向特定人告知或出示有害其名譽之訊息或物品。\n八、濫用特定人資料或未經其同意，訂購貨品或服務。",
+        "scope": "regulation",
+        "targetRegulationNames": [],
+        "sortOrder": 1
+      }
+    ]
+  }
+}

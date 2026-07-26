@@ -1,0 +1,572 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-gender-equity-education-act-enforcement-rules",
+    "code": "UNKNOWN",
+    "name": "性別平等教育法施行細則",
+    "shortName": "性別平等教育法施行細則",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-gender-equity-education-act-enforcement-rules-20240215",
+      "label": "修正日期：民國 113 年 02 月 15 日",
+      "promulgationDate": "2024-02-15",
+      "effectiveDate": "2024-02-17",
+      "effectiveDateNote": "本版本施行條文明定自公布（發布）日施行，依中央法規標準法第13條，自公布（發布）之日起算至第三日起發生效力，故施行日為公布（發布）日之後二日。 另依第18條，第7條、第8條及第10條自中華民國一百十三年三月八日（2024-03-08）施行。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "本細則依性別平等教育法（以下簡稱本法）第四十七條規定訂定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則依性別平等教育法（以下簡稱本法）第四十七條規定訂定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "1   本法第一條第一項及第三條第一款所稱性別地位之實質平等，指任何人不因其生理性別、性傾向、性別特質或性別認同等不同，而受到差別之待遇。\n2   本法第三條第三款所定性騷擾或性霸凌之認定，應就個案審酌事件發生之背景、工作環境、當事人之關係、行為人之言詞、行為及相對人之認知等具體事實為之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第一條第一項及第三條第一款所稱性別地位之實質平等，指任何人不因其生理性別、性傾向、性別特質或性別認同等不同，而受到差別之待遇。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法第三條第三款所定性騷擾或性霸凌之認定，應就個案審酌事件發生之背景、工作環境、當事人之關係、行為人之言詞、行為及相對人之認知等具體事實為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "性別平等教育委員會依本法第四條第一款、第五條第一項第一款及第六條第一款規定研擬實施計畫時，其內容應包括下列事項：\n一、目標：評估前一年實施成效，擬定年度主題並確定未來發展方向。\n二、策略：內部各單位計畫或事務之統整，與相關機關（構）之合作聯繫及資源整合。\n三、項目：明列年度具體工作項目。\n四、資源：研擬經費及人力需求。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "性別平等教育委員會依本法第四條第一款、第五條第一項第一款及第六條第一款規定研擬實施計畫時，其內容應包括下列事項："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、目標：評估前一年實施成效，擬定年度主題並確定未來發展方向。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、策略：內部各單位計畫或事務之統整，與相關機關（構）之合作聯繫及資源整合。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、項目：明列年度具體工作項目。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、資源：研擬經費及人力需求。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "1   性別平等教育委員會依本法第四條第三款與第五條第一項第三款及主管機關依本法第十一條規定進行督導考核時，得以統合視導方式為之，並得邀請性別平等教育相關專家學者及民間團體代表參加。\n2   督導考核應定期為之，於半年前公告考核基準及細目，其結果並應作為統合視導評比及校務評鑑之參據。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   性別平等教育委員會依本法第四條第三款與第五條第一項第三款及主管機關依本法第十一條規定進行督導考核時，得以統合視導方式為之，並得邀請性別平等教育相關專家學者及民間團體代表參加。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   督導考核應定期為之，於半年前公告考核基準及細目，其結果並應作為統合視導評比及校務評鑑之參據。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "本法第四條第四款、第五條第一項第四款及第六條第三款所定課程、教學、評量之研究發展，其內容包括下列事項：\n一、課程部分：\n（一）本法第十六條之教職員工之職前教育、新進人員培訓、在職進修及教育行政主管人員之儲訓課程。\n（二）學生依第十八條第一項所受之課程及活動。\n二、教學部分：\n（一）創新及開發性別平等教育相關之教學法。\n（二）提升教師運用性別平等教育相關教學法之能力。\n三、評量部分：\n（一）性別平等之認知、情意及實踐。\n（二）觀察、實作、表演、口試、筆試、作業、學習歷程檔案、研究報告等多元適性評量方式。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第四條第四款、第五條第一項第四款及第六條第三款所定課程、教學、評量之研究發展，其內容包括下列事項："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、課程部分："
+          },
+          {
+            "type": "subitem",
+            "number": "一",
+            "text": "（一）本法第十六條之教職員工之職前教育、新進人員培訓、在職進修及教育行政主管人員之儲訓課程。"
+          },
+          {
+            "type": "subitem",
+            "number": "二",
+            "text": "（二）學生依第十八條第一項所受之課程及活動。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、教學部分："
+          },
+          {
+            "type": "subitem",
+            "number": "一",
+            "text": "（一）創新及開發性別平等教育相關之教學法。"
+          },
+          {
+            "type": "subitem",
+            "number": "二",
+            "text": "（二）提升教師運用性別平等教育相關教學法之能力。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、評量部分："
+          },
+          {
+            "type": "subitem",
+            "number": "一",
+            "text": "（一）性別平等之認知、情意及實踐。"
+          },
+          {
+            "type": "subitem",
+            "number": "二",
+            "text": "（二）觀察、實作、表演、口試、筆試、作業、學習歷程檔案、研究報告等多元適性評量方式。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "本法第四條第六款及第五條第一項第五款所定諮詢服務事項如下：\n一、協助提供性別平等教育相關書籍、期刊、論文、人才檔案、學術及民間團體等資料。\n二、協助其他性別平等教育委員會之組成及運作。\n三、協助成立性別平等教育相關研究及教學單位。\n四、提供其他有關落實本法之諮詢服務。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第四條第六款及第五條第一項第五款所定諮詢服務事項如下："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、協助提供性別平等教育相關書籍、期刊、論文、人才檔案、學術及民間團體等資料。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、協助其他性別平等教育委員會之組成及運作。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、協助成立性別平等教育相關研究及教學單位。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、提供其他有關落實本法之諮詢服務。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "本法第七條第一項、第八條第一項、第三項及第九條第一項所稱性別平等教育相關領域，指從事性別、性教育、多元文化議題等有關之研究、教學或實務工作。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第七條第一項、第八條第一項、第三項及第九條第一項所稱性別平等教育相關領域，指從事性別、性教育、多元文化議題等有關之研究、教學或實務工作。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "本法第七條第一項、第八條第一項、第三項、第九條第一項、第二十條第一項及第三十三條第三項所稱性別平等意識，指個人認同性別平等之價值，瞭解性別不平等之現象及其成因，並具有協助改善現況之意願。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第七條第一項、第八條第一項、第三項、第九條第一項、第二十條第一項及第三十三條第三項所稱性別平等意識，指個人認同性別平等之價值，瞭解性別不平等之現象及其成因，並具有協助改善現況之意願。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "學校依本法第十二條第一項規定建立安全之校園空間時，應就下列事項，考量其無性別偏見、安全、友善及公平分配等原則：\n一、空間配置。\n二、管理及保全。\n三、標示系統、求救系統及安全路線。\n四、盥洗設施及運動設施。\n五、照明及空間視覺穿透性。\n六、其他相關事項。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "學校依本法第十二條第一項規定建立安全之校園空間時，應就下列事項，考量其無性別偏見、安全、友善及公平分配等原則："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、空間配置。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、管理及保全。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、標示系統、求救系統及安全路線。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、盥洗設施及運動設施。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、照明及空間視覺穿透性。"
+          },
+          {
+            "type": "item",
+            "number": "六",
+            "text": "六、其他相關事項。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "本法第十二條第二項及第二十一條第二項所定公告方式，除應張貼於學校公告欄外，並得以書面、口頭、網際網路或其他適當方式為之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十二條第二項及第二十一條第二項所定公告方式，除應張貼於學校公告欄外，並得以書面、口頭、網際網路或其他適當方式為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "本法第十五條所定必要之協助，應包括善用校內外資源，提供懷孕或生產學生之適性教育，並採彈性措施，協助其完成學業及提供相關輔導。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十五條所定必要之協助，應包括善用校內外資源，提供懷孕或生產學生之適性教育，並採彈性措施，協助其完成學業及提供相關輔導。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "1   本法第十七條所稱學校之考績委員會，指為辦理學校教職員工成績考核而組成之委員會。但公立學校，指以教師為考核範圍之委員會為限。\n2   本法第十七條所稱學校之教師評審委員會，指校級之委員會。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第十七條所稱學校之考績委員會，指為辦理學校教職員工成績考核而組成之委員會。但公立學校，指以教師為考核範圍之委員會為限。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法第十七條所稱學校之教師評審委員會，指校級之委員會。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "本法第十八條第二項所定性別平等教育相關課程，應涵蓋情感教育、性教育、認識及尊重不同性別、性別特徵、性別特質、性別認同、性傾向教育，及性侵害、性騷擾、性霸凌防治教育等課程，以提升學生之性別平等意識。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十八條第二項所定性別平等教育相關課程，應涵蓋情感教育、性教育、認識及尊重不同性別、性別特徵、性別特質、性別認同、性傾向教育，及性侵害、性騷擾、性霸凌防治教育等課程，以提升學生之性別平等意識。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "為執行本法第十九條規定，高級中等以下學校教材之編寫、審查及選用，應由有性別平等意識之教師參與；教材內容並應破除性別刻板印象，避免性別偏見及性別歧視，呈現性別平等及多元之價值。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "為執行本法第十九條規定，高級中等以下學校教材之編寫、審查及選用，應由有性別平等意識之教師參與；教材內容並應破除性別刻板印象，避免性別偏見及性別歧視，呈現性別平等及多元之價值。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "教師為執行本法第二十條第二項鼓勵學生修習非傳統性別之學科領域，應於輔導學生修習課程、選擇科系或探索生涯發展時，鼓勵學生適性多元發展，避免將特定學科性別化。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "教師為執行本法第二十條第二項鼓勵學生修習非傳統性別之學科領域，應於輔導學生修習課程、選擇科系或探索生涯發展時，鼓勵學生適性多元發展，避免將特定學科性別化。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "本法第三十四條第二項所稱雙方當事人之權力差距，指當事人雙方間存在之地位、知識、年齡、體力、身分、族群或資源之不對等狀況。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第三十四條第二項所稱雙方當事人之權力差距，指當事人雙方間存在之地位、知識、年齡、體力、身分、族群或資源之不對等狀況。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "性別平等教育委員會依本法第三十六條第二項規定提出報告，其內容應包括下列事項：\n一、申請調查事件之案由，包括當事人或檢舉之敘述。\n二、調查訪談過程紀錄，包括日期及對象。\n三、被申請調查人、申請調查人、證人與相關人士之陳述及答辯。\n四、相關物證之查驗。\n五、事實認定及理由。\n六、處理建議。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "性別平等教育委員會依本法第三十六條第二項規定提出報告，其內容應包括下列事項："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、申請調查事件之案由，包括當事人或檢舉之敘述。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、調查訪談過程紀錄，包括日期及對象。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、被申請調查人、申請調查人、證人與相關人士之陳述及答辯。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、相關物證之查驗。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、事實認定及理由。"
+          },
+          {
+            "type": "item",
+            "number": "六",
+            "text": "六、處理建議。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      },
+      {
+        "id": "article-18",
+        "articleNumber": "18",
+        "displayNumber": "第 18 條",
+        "title": null,
+        "plainText": "本細則除第七條、第八條及第十條自中華民國一百十三年三月八日施行外，自發布日施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則除第七條、第八條及第十條自中華民國一百十三年三月八日施行外，自發布日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性別平等教育法施行細則（PDF：法規-性別平等教育法施行細則.pdf）",
+          "lastModified": "2024-02-15"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "gender-equity-campus-framework",
+        "name": "校園性別事件處理法律框架",
+        "description": "彙整校園性侵害、性騷擾及性霸凌事件之防治、調查與處理程序所涉之法規，包含性別平等教育法及其授權訂定之準則與學校校內規定。",
+        "aliases": [
+          "校園性別事件"
+        ],
+        "tags": [
+          "校園",
+          "性別事件",
+          "性平教育"
+        ],
+        "role": "supporting",
+        "sortOrder": 1
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "conceptId": "gender-equity-campus-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用性別平等教育法",
+        "relationType": "authorization",
+        "conditionText": "本細則依性別平等教育法（以下簡稱本法）第四十七條規定訂定之。",
+        "targetRegulationId": "tw-gender-equity-education-act",
+        "targetRegulationNames": [
+          "性別平等教育法"
+        ],
+        "targetArticleNumber": "47",
+        "triggerTerms": [
+          "本細則依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-gender-equity-education-act-enforcement-rules-cite-1",
+        "sortOrder": 0
+      }
+    ],
+    "definedTerms": []
+  }
+}

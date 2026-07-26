@@ -1,0 +1,991 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-civil-code-family-enforcement-act",
+    "code": "UNKNOWN",
+    "name": "民法親屬編施行法",
+    "shortName": "民法親屬編施行法",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-civil-code-family-enforcement-act-20210113",
+      "label": "修正日期：民國 110 年 01 月 13 日",
+      "promulgationDate": "2021-01-13",
+      "effectiveDate": "2021-01-15",
+      "effectiveDateNote": "本版本施行條文明定自公布（發布）日施行，依中央法規標準法第13條，自公布（發布）之日起算至第三日起發生效力，故施行日為公布（發布）日之後二日。 另依第15條，本施行法自民法親屬編施行之日施行；中華民國九十八年十二月十五日修正之民法第1131條及第1133條自九十八年十一月二十三日施行；其餘另定施行日期者從其規定。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "關於親屬之事件，在民法親屬編施行前發生者，除本施行法有特別規定外，不適用民法親屬編之規定；其在修正前發生者，除本施行法有特別規定外，亦不適用修正後之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "關於親屬之事件，在民法親屬編施行前發生者，除本施行法有特別規定外，不適用民法親屬編之規定；其在修正前發生者，除本施行法有特別規定外，亦不適用修正後之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "1   民法親屬編施行前，依民法親屬編之規定消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起一年內行使請求權。但自其時效完成後，至民法親屬編施行時，已逾民法親屬編所定時效期間二分之一者，不在此限。\n2   前項規定，於依民法親屬編修正後規定之消滅時效業已完成，或其時效期間尚有殘餘不足一年者，準用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法親屬編施行前，依民法親屬編之規定消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起一年內行使請求權。但自其時效完成後，至民法親屬編施行時，已逾民法親屬編所定時效期間二分之一者，不在此限。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項規定，於依民法親屬編修正後規定之消滅時效業已完成，或其時效期間尚有殘餘不足一年者，準用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "前條之規定，於民法親屬編修正前或修正後所定無時效性質之法定期間準用之。但其法定期間不滿一年者，如在施行時或修正時尚未屆滿，其期間自施行或修正之日起算。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "前條之規定，於民法親屬編修正前或修正後所定無時效性質之法定期間準用之。但其法定期間不滿一年者，如在施行時或修正時尚未屆滿，其期間自施行或修正之日起算。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "1   民法親屬編關於婚約之規定，除第九百七十三條外，於民法親屬編施行前所訂之婚約亦適用之。\n2   修正之民法第九百七十七條第二項及第三項之規定，於民法親屬編修正前所訂之婚約並適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法親屬編關於婚約之規定，除第九百七十三條外，於民法親屬編施行前所訂之婚約亦適用之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   修正之民法第九百七十七條第二項及第三項之規定，於民法親屬編修正前所訂之婚約並適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-4-1",
+        "articleNumber": "4-1",
+        "displayNumber": "第 4-1 條",
+        "title": null,
+        "plainText": "1   中華民國九十六年五月四日修正之民法第九百八十二條之規定，自公布後一年施行。\n2   修正之民法第九百八十八條之規定，於民法修正前重婚者，仍有適用。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   中華民國九十六年五月四日修正之民法第九百八十二條之規定，自公布後一年施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   修正之民法第九百八十八條之規定，於民法修正前重婚者，仍有適用。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-4-2",
+        "articleNumber": "4-2",
+        "displayNumber": "第 4-2 條",
+        "title": null,
+        "plainText": "1   中華民國一百零九年十二月二十五日修正之民法第九百七十三條、第九百八十條、第九百八十一條、第九百九十條、第一千零四十九條、第一千零七十七條、第一千零九十一條、第一千一百二十七條及第一千一百二十八條，自一百十二年一月一日施行。\n2   中華民國一百零九年十二月二十五日修正之民法第九百九十條、第一千零七十七條、第一千零九十一條、第一千一百二十七條及第一千一百二十八條施行前結婚，修正施行後未滿十八歲者，於滿十八歲前仍適用修正施行前之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   中華民國一百零九年十二月二十五日修正之民法第九百七十三條、第九百八十條、第九百八十一條、第九百九十條、第一千零四十九條、第一千零七十七條、第一千零九十一條、第一千一百二十七條及第一千一百二十八條，自一百十二年一月一日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   中華民國一百零九年十二月二十五日修正之民法第九百九十條、第一千零七十七條、第一千零九十一條、第一千一百二十七條及第一千一百二十八條施行前結婚，修正施行後未滿十八歲者，於滿十八歲前仍適用修正施行前之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "民法第九百八十七條所規定之再婚期間，雖其婚姻關係在民法親屬編施行前消滅者，亦自婚姻關係消滅時起算。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法第九百八十七條所規定之再婚期間，雖其婚姻關係在民法親屬編施行前消滅者，亦自婚姻關係消滅時起算。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "1   民法親屬編施行前已結婚者，除得適用民法第一千零零四條之規定外，並得以民法親屬編所定之法定財產制為其約定財產制。\n2   修正之民法第一千零十條之規定，於民法親屬編施行後修正前已結婚者，亦適用之。其第五款所定之期間，在修正前已屆滿者，其期間為屆滿，未屆滿者，以修正前已經過之期間與修正後之期間合併計算。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法親屬編施行前已結婚者，除得適用民法第一千零零四條之規定外，並得以民法親屬編所定之法定財產制為其約定財產制。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   修正之民法第一千零十條之規定，於民法親屬編施行後修正前已結婚者，亦適用之。其第五款所定之期間，在修正前已屆滿者，其期間為屆滿，未屆滿者，以修正前已經過之期間與修正後之期間合併計算。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-6-1",
+        "articleNumber": "6-1",
+        "displayNumber": "第 6-1 條",
+        "title": null,
+        "plainText": "中華民國七十四年六月四日以前結婚，並適用聯合財產制之夫妻，於婚姻關係存續中以妻之名義在同日以前取得不動產，而有左列情形之一者，於本施行法中華民國八十五年九月六日修正生效一年後，適用中華民國七十四年民法親屬編修正後之第一千零十七條規定：\n一、婚姻關係尚存續中且該不動產仍以妻之名義登記者。\n二、夫妻已離婚而該不動產仍以妻之名義登記者。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "中華民國七十四年六月四日以前結婚，並適用聯合財產制之夫妻，於婚姻關係存續中以妻之名義在同日以前取得不動產，而有左列情形之一者，於本施行法中華民國八十五年九月六日修正生效一年後，適用中華民國七十四年民法親屬編修正後之第一千零十七條規定："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、婚姻關係尚存續中且該不動產仍以妻之名義登記者。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、夫妻已離婚而該不動產仍以妻之名義登記者。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-6-2",
+        "articleNumber": "6-2",
+        "displayNumber": "第 6-2 條",
+        "title": null,
+        "plainText": "中華民國九十一年民法親屬編修正前適用聯合財產制之夫妻，其特有財產或結婚時之原有財產，於修正施行後視為夫或妻之婚前財產；婚姻關係存續中取得之原有財產，於修正施行後視為夫或妻之婚後財產。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "中華民國九十一年民法親屬編修正前適用聯合財產制之夫妻，其特有財產或結婚時之原有財產，於修正施行後視為夫或妻之婚前財產；婚姻關係存續中取得之原有財產，於修正施行後視為夫或妻之婚後財產。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-6-3",
+        "articleNumber": "6-3",
+        "displayNumber": "第 6-3 條",
+        "title": null,
+        "plainText": "本法中華民國一百零一年十二月七日修正施行前，經債權人向法院聲請宣告債務人改用分別財產制或已代位債務人起訴請求分配剩餘財產而尚未確定之事件，適用修正後之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法中華民國一百零一年十二月七日修正施行前，經債權人向法院聲請宣告債務人改用分別財產制或已代位債務人起訴請求分配剩餘財產而尚未確定之事件，適用修正後之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "民法親屬編施行前所發生之事實，而依民法親屬編之規定得為離婚之原因者，得請求離婚。但已逾民法第一千零五十三條或第一千零五十四條所定之期間者，不在此限。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法親屬編施行前所發生之事實，而依民法親屬編之規定得為離婚之原因者，得請求離婚。但已逾民法第一千零五十三條或第一千零五十四條所定之期間者，不在此限。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "1   民法親屬編關於婚生子女之推定及否認，於施行前受胎之子女亦適用之。\n2   民法親屬編修正前結婚，並有修正之民法第一千零五十九條第一項但書之約定而從母姓者，得於修正後一年內，聲請改姓母姓。但子女已成年或已結婚者，不在此限。\n3   修正之民法第一千零六十三條第二項之規定，於民法親屬編修正前受胎或出生之子女亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法親屬編關於婚生子女之推定及否認，於施行前受胎之子女亦適用之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法親屬編修正前結婚，並有修正之民法第一千零五十九條第一項但書之約定而從母姓者，得於修正後一年內，聲請改姓母姓。但子女已成年或已結婚者，不在此限。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   修正之民法第一千零六十三條第二項之規定，於民法親屬編修正前受胎或出生之子女亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-8-1",
+        "articleNumber": "8-1",
+        "displayNumber": "第 8-1 條",
+        "title": null,
+        "plainText": "夫妻已逾中華民國九十六年五月四日修正前之民法第一千零六十三條第二項規定所定期間，而不得提起否認之訴者，得於修正施行後二年內提起之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "夫妻已逾中華民國九十六年五月四日修正前之民法第一千零六十三條第二項規定所定期間，而不得提起否認之訴者，得於修正施行後二年內提起之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "民法親屬編施行前所立之嗣子女，與其所後父母之關係，與婚生子女同。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法親屬編施行前所立之嗣子女，與其所後父母之關係，與婚生子女同。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "1   非婚生子女在民法親屬編施行前出生者，自施行之日起適用民法親屬編關於非婚生子女之規定。\n2   非婚生子女在民法親屬編修正前出生者，修正之民法第一千零六十七條之規定，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   非婚生子女在民法親屬編施行前出生者，自施行之日起適用民法親屬編關於非婚生子女之規定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   非婚生子女在民法親屬編修正前出生者，修正之民法第一千零六十七條之規定，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "收養關係雖在民法親屬編施行前發生者，自施行之日起有民法親屬編所定之效力。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "收養關係雖在民法親屬編施行前發生者，自施行之日起有民法親屬編所定之效力。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "1   民法親屬編施行前所發生之事實，依民法親屬編之規定得為終止收養關係之原因者，得請求宣告終止收養關係。\n2   民法親屬編施行後修正前所發生之事實，依修正之民法第一千零八十條第五項之規定得為終止收養關係之原因者，得聲請許可終止收養關係。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法親屬編施行前所發生之事實，依民法親屬編之規定得為終止收養關係之原因者，得請求宣告終止收養關係。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法親屬編施行後修正前所發生之事實，依修正之民法第一千零八十條第五項之規定得為終止收養關係之原因者，得聲請許可終止收養關係。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "父母子女間之權利義務，自民法親屬編施行之日起，依民法親屬編之規定。其有修正者，適用修正後之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "父母子女間之權利義務，自民法親屬編施行之日起，依民法親屬編之規定。其有修正者，適用修正後之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "民法親屬編施行前所設置之監護人，其權利義務自施行之日起，適用民法親屬編之規定。其有修正者，適用修正後之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法親屬編施行前所設置之監護人，其權利義務自施行之日起，適用民法親屬編之規定。其有修正者，適用修正後之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-14-1",
+        "articleNumber": "14-1",
+        "displayNumber": "第 14-1 條",
+        "title": null,
+        "plainText": "本法於民國八十九年一月十四日修正前已依民法第一千零九十四條任監護人者，於修正公布後，仍適用修正後同條第二項至第四項之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法於民國八十九年一月十四日修正前已依民法第一千零九十四條任監護人者，於修正公布後，仍適用修正後同條第二項至第四項之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-14-2",
+        "articleNumber": "14-2",
+        "displayNumber": "第 14-2 條",
+        "title": null,
+        "plainText": "中華民國九十七年五月二日修正之民法親屬編第四章條文施行前所設置之監護人，於修正施行後，適用修正後之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "中華民國九十七年五月二日修正之民法親屬編第四章條文施行前所設置之監護人，於修正施行後，適用修正後之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-14-3",
+        "articleNumber": "14-3",
+        "displayNumber": "第 14-3 條",
+        "title": null,
+        "plainText": "中華民國九十七年五月二日修正之民法親屬編第四章之規定，自公布後一年六個月施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "中華民國九十七年五月二日修正之民法親屬編第四章之規定，自公布後一年六個月施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "1   本施行法自民法親屬編施行之日施行。\n2   民法親屬編修正條文及本施行法修正條文，除另定施行日期，及中華民國九十八年十二月十五日修正之民法第一千一百三十一條及第一千一百三十三條自九十八年十一月二十三日施行者外，自公布日施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本施行法自民法親屬編施行之日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法親屬編修正條文及本施行法修正條文，除另定施行日期，及中華民國九十八年十二月十五日修正之民法第一千一百三十一條及第一千一百三十三條自九十八年十一月二十三日施行者外，自公布日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法親屬編施行法（PDF：民法親屬編施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "civil-code-framework",
+        "name": "民法及其施行法框架",
+        "description": "彙整民法各編本文及其對應施行法，供查考各編修正條文之適用與施行日期規定。",
+        "aliases": [
+          "民法體系"
+        ],
+        "tags": [
+          "民法",
+          "施行法"
+        ],
+        "role": "supporting",
+        "sortOrder": 4
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "id": "link-tw-civil-code-family-enforcement-act-1",
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": null,
+        "label": "所施行之本法",
+        "relationType": "application",
+        "conditionText": "本施行法規定民法親屬編之施行日期及新舊法適用關係。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "民法親屬編"
+        ],
+        "linkMode": "automatic",
+        "sortOrder": 0
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "關於親屬之事件，在民法親屬編施行前發生者，除本施行法有特別規定外，不適用民法親屬編之規定；其在修正前發生者，除本施行法有特別規定外，亦不適用修正後之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "事件，在"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-2",
+        "sortOrder": 1
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-2",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法親屬編施行前，依民法親屬編之規定消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起一年內行使請求權。但自其時效完成後，至民法親屬編施行時，已逾民法親屬編所定時效期間二分之一者，不在此限。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-3",
+        "sortOrder": 2
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-3",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "前條之規定，於民法親屬編修正前或修正後所定無時效性質之法定期間準用之。但其法定期間不滿一年者，如在施行時或修正時尚未屆滿，其期間自施行或修正之日起算。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "規定，於"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-4",
+        "sortOrder": 3
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-4",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法親屬編關於婚約之規定，除第九百七十三條外，於民法親屬編施行前所訂之婚約亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "977",
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-5",
+        "sortOrder": 4
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-4-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   中華民國九十六年五月四日修正之民法第九百八十二條之規定，自公布後一年施行。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "982",
+        "triggerTerms": [
+          "日修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-6",
+        "sortOrder": 5
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-4-2",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   中華民國一百零九年十二月二十五日修正之民法第九百七十三條、第九百八十條、第九百八十一條、第九百九十條、第一千零四十九條、第一千零七十七條、第一千零九十一條、第一千一百二十七條及第一千一百二十八條，自一百十二年一月一日施行。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "973",
+        "triggerTerms": [
+          "日修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-7",
+        "sortOrder": 6
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-5",
+        "label": "引用民法",
+        "relationType": "authorization",
+        "conditionText": "民法第九百八十七條所規定之再婚期間，雖其婚姻關係在民法親屬編施行前消滅者，亦自婚姻關係消滅時起算。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "987",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-8",
+        "sortOrder": 7
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-6",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法親屬編施行前已結婚者，除得適用民法第一千零零四條之規定外，並得以民法親屬編所定之法定財產制為其約定財產制。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-9",
+        "sortOrder": 8
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-6-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "中華民國七十四年六月四日以前結婚，並適用聯合財產制之夫妻，於婚姻關係存續中以妻之名義在同日以前取得不動產，而有左列情形之一者，於本施行法中華民國八十五年九月六日修正生效一年後，適用中華民國七十四年民法親屬編修正後之第一千零十七條規定：",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "七十四年"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-10",
+        "sortOrder": 9
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-6-2",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "中華民國九十一年民法親屬編修正前適用聯合財產制之夫妻，其特有財產或結婚時之原有財產，於修正施行後視為夫或妻之婚前財產；婚姻關係存續中取得之原有財產，於修正施行後視為夫或妻之婚後財產。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "九十一年"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-11",
+        "sortOrder": 10
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-7",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法親屬編施行前所發生之事實，而依民法親屬編之規定得為離婚之原因者，得請求離婚。但已逾民法第一千零五十三條或第一千零五十四條所定之期間者，不在此限。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-12",
+        "sortOrder": 11
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-8",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法親屬編關於婚生子女之推定及否認，於施行前受胎之子女亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-13",
+        "sortOrder": 12
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-8-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "夫妻已逾中華民國九十六年五月四日修正前之民法第一千零六十三條第二項規定所定期間，而不得提起否認之訴者，得於修正施行後二年內提起之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "修正前之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-14",
+        "sortOrder": 13
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-9",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法親屬編施行前所立之嗣子女，與其所後父母之關係，與婚生子女同。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-15",
+        "sortOrder": 14
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-10",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   非婚生子女在民法親屬編施行前出生者，自施行之日起適用民法親屬編關於非婚生子女之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "生子女在"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-16",
+        "sortOrder": 15
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-11",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "收養關係雖在民法親屬編施行前發生者，自施行之日起有民法親屬編所定之效力。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "關係雖在"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-17",
+        "sortOrder": 16
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-12",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法親屬編施行前所發生之事實，依民法親屬編之規定得為終止收養關係之原因者，得請求宣告終止收養關係。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-18",
+        "sortOrder": 17
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-13",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "父母子女間之權利義務，自民法親屬編施行之日起，依民法親屬編之規定。其有修正者，適用修正後之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "義務，自"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-19",
+        "sortOrder": 18
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-14",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法親屬編施行前所設置之監護人，其權利義務自施行之日起，適用民法親屬編之規定。其有修正者，適用修正後之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-20",
+        "sortOrder": 19
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-14-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "本法於民國八十九年一月十四日修正前已依民法第一千零九十四條任監護人者，於修正公布後，仍適用修正後同條第二項至第四項之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "正前已依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-21",
+        "sortOrder": 20
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-14-2",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "中華民國九十七年五月二日修正之民法親屬編第四章條文施行前所設置之監護人，於修正施行後，適用修正後之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "日修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-22",
+        "sortOrder": 21
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-14-3",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "中華民國九十七年五月二日修正之民法親屬編第四章之規定，自公布後一年六個月施行。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "日修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-23",
+        "sortOrder": 22
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-15",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   本施行法自民法親屬編施行之日施行。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "施行法自"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-family-enforcement-act-cite-24",
+        "sortOrder": 23
+      }
+    ],
+    "definedTerms": []
+  }
+}

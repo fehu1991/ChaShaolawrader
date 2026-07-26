@@ -1,0 +1,241 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-stalking-harassment-protection-order-enforcement-regulations",
+    "code": "UNKNOWN",
+    "name": "跟蹤騷擾案件保護令執行辦法",
+    "shortName": "跟蹤騷擾案件保護令執行辦法",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-stalking-harassment-protection-order-enforcement-regulations-20220318",
+      "label": "發布日期：民國 111 年 03 月 18 日",
+      "promulgationDate": "2022-03-18",
+      "effectiveDate": "2022-06-01",
+      "effectiveDateNote": "依第8條，本辦法自中華民國一百十一年六月一日施行，即2022-06-01。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "本辦法依跟蹤騷擾防制法（以下簡稱本法）第十四條第三項規定訂定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本辦法依跟蹤騷擾防制法（以下簡稱本法）第十四條第三項規定訂定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾案件保護令執行辦法（PDF：跟蹤騷擾案件保護令執行辦法.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "為執行跟蹤騷擾案件保護令，行政機關應發揮共同一體之行政機能，於其權限範圍內互相協助；執行機關於必要時，得請求相關機關協助。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "為執行跟蹤騷擾案件保護令，行政機關應發揮共同一體之行政機能，於其權限範圍內互相協助；執行機關於必要時，得請求相關機關協助。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾案件保護令執行辦法（PDF：跟蹤騷擾案件保護令執行辦法.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "跟蹤騷擾案件保護令執行機關如下：\n一、命相對人完成治療性處遇計畫之保護令事項，由直轄市、縣（市）衛生主管機關執行之。\n二、禁止查閱戶籍資料之保護令事項，由被害人戶籍地之戶政事務所執行之。\n三、其他保護令事項，由警察機關執行之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "跟蹤騷擾案件保護令執行機關如下："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、命相對人完成治療性處遇計畫之保護令事項，由直轄市、縣（市）衛生主管機關執行之。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、禁止查閱戶籍資料之保護令事項，由被害人戶籍地之戶政事務所執行之。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、其他保護令事項，由警察機關執行之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾案件保護令執行辦法（PDF：跟蹤騷擾案件保護令執行辦法.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "執行機關執行保護令，對保護令所列禁止行為及遵守事項，應命當事人確實遵行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "執行機關執行保護令，對保護令所列禁止行為及遵守事項，應命當事人確實遵行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾案件保護令執行辦法（PDF：跟蹤騷擾案件保護令執行辦法.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "執行機關執行保護令，對於被害人個人資料，於相關文書及執行過程應予保密。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "執行機關執行保護令，對於被害人個人資料，於相關文書及執行過程應予保密。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾案件保護令執行辦法（PDF：跟蹤騷擾案件保護令執行辦法.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "1   被害人、聲請人或相對人依本法第十六條第一項規定，向執行機關聲明異議者，應以書面或言詞提出；其以言詞為之者，受理之人員或單位應作成紀錄，經向聲明異議者朗讀或使閱覽，確認其內容無誤後，由其簽名或蓋章。\n2   聲明異議之書面內容或言詞作成之紀錄，應載明異議人之姓名及異議事由。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   被害人、聲請人或相對人依本法第十六條第一項規定，向執行機關聲明異議者，應以書面或言詞提出；其以言詞為之者，受理之人員或單位應作成紀錄，經向聲明異議者朗讀或使閱覽，確認其內容無誤後，由其簽名或蓋章。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   聲明異議之書面內容或言詞作成之紀錄，應載明異議人之姓名及異議事由。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾案件保護令執行辦法（PDF：跟蹤騷擾案件保護令執行辦法.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "依前條聲明異議者，未經原核發保護令法院撤銷、變更或停止執行之裁定前，仍應繼續執行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "依前條聲明異議者，未經原核發保護令法院撤銷、變更或停止執行之裁定前，仍應繼續執行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾案件保護令執行辦法（PDF：跟蹤騷擾案件保護令執行辦法.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "本辦法自中華民國一百十一年六月一日施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本辦法自中華民國一百十一年六月一日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾案件保護令執行辦法（PDF：跟蹤騷擾案件保護令執行辦法.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "stalking-harassment-prevention-framework",
+        "name": "跟蹤騷擾防制法律框架",
+        "description": "彙整跟蹤騷擾行為之定義、書面告誡、保護令與相關罰則所涉之法規。",
+        "aliases": [
+          "跟騷防制"
+        ],
+        "tags": [
+          "跟蹤騷擾",
+          "保護令"
+        ],
+        "role": "procedural",
+        "sortOrder": 2
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "conceptId": "stalking-harassment-prevention-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用跟蹤騷擾防制法",
+        "relationType": "authorization",
+        "conditionText": "本辦法依跟蹤騷擾防制法（以下簡稱本法）第十四條第三項規定訂定之。",
+        "targetRegulationId": "tw-stalking-harassment-prevention-act",
+        "targetRegulationNames": [
+          "跟蹤騷擾防制法"
+        ],
+        "targetArticleNumber": "14",
+        "triggerTerms": [
+          "本辦法依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-stalking-harassment-protection-order-enforcement-regulations-cite-1",
+        "sortOrder": 0
+      }
+    ],
+    "definedTerms": []
+  }
+}

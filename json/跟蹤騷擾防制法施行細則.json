@@ -1,0 +1,501 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-stalking-harassment-prevention-act-enforcement-rules",
+    "code": "UNKNOWN",
+    "name": "跟蹤騷擾防制法施行細則",
+    "shortName": "跟蹤騷擾防制法施行細則",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-stalking-harassment-prevention-act-enforcement-rules-20220318",
+      "label": "發布日期：民國 111 年 03 月 18 日",
+      "promulgationDate": "2022-03-18",
+      "effectiveDate": "2022-06-01",
+      "effectiveDateNote": "依第18條，本細則自中華民國一百十一年六月一日施行，即2022-06-01。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "本細則依跟蹤騷擾防制法（以下簡稱本法）第二十二條規定訂定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則依跟蹤騷擾防制法（以下簡稱本法）第二十二條規定訂定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "1   中央主管機關為辦理本法第二條第二項第一款之統籌及督導事宜，應建置及管理跟蹤騷擾電子資料庫。\n2   前項跟蹤騷擾電子資料，包括下列電子資料：\n一、司法院提供之保護令及有關之裁定。\n二、警察機關提供之處理跟蹤騷擾案件通報表、書面告誡之核發與簽收紀錄及保護令執行紀錄表。\n三、其他經中央主管機關協商相關機關提供之跟蹤騷擾案件被害人或相對人有關之資料。\n3   前項電子資料，由司法院、警察機關及相關機關定期傳輸至跟蹤騷擾電子資料庫，並指定專人辦理跟蹤騷擾電子資料庫有關事項。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   中央主管機關為辦理本法第二條第二項第一款之統籌及督導事宜，應建置及管理跟蹤騷擾電子資料庫。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項跟蹤騷擾電子資料，包括下列電子資料："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、司法院提供之保護令及有關之裁定。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、警察機關提供之處理跟蹤騷擾案件通報表、書面告誡之核發與簽收紀錄及保護令執行紀錄表。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、其他經中央主管機關協商相關機關提供之跟蹤騷擾案件被害人或相對人有關之資料。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   前項電子資料，由司法院、警察機關及相關機關定期傳輸至跟蹤騷擾電子資料庫，並指定專人辦理跟蹤騷擾電子資料庫有關事項。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "1   中央主管機關應備置電腦軟、硬體設施，以管理、儲存跟蹤騷擾電子資料。\n2   電子資料提供機關應自備電腦硬體設施，以建立、傳輸或查詢跟蹤騷擾電子資料。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   中央主管機關應備置電腦軟、硬體設施，以管理、儲存跟蹤騷擾電子資料。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   電子資料提供機關應自備電腦硬體設施，以建立、傳輸或查詢跟蹤騷擾電子資料。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "法院、檢察署、衛生主管機關、警察機關及直轄市、縣（市）主管機關辦理跟蹤騷擾防制案件人員，因執行職務必要，得使用跟蹤騷擾電子資料庫相關資料。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "法院、檢察署、衛生主管機關、警察機關及直轄市、縣（市）主管機關辦理跟蹤騷擾防制案件人員，因執行職務必要，得使用跟蹤騷擾電子資料庫相關資料。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "1   因職務或業務所知悉之跟蹤騷擾電子資料，除法律另有規定外，應予保密。\n2   處理及使用跟蹤騷擾電子資料，應採取必要之保密措施，違反保密義務者，依相關法令規定處理。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   因職務或業務所知悉之跟蹤騷擾電子資料，除法律另有規定外，應予保密。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   處理及使用跟蹤騷擾電子資料，應採取必要之保密措施，違反保密義務者，依相關法令規定處理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "跟蹤騷擾之認定，應就個案審酌事件發生之背景、環境、當事人之關係、行為人與被害人之認知及行為人言行連續性等具體事實為之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "跟蹤騷擾之認定，應就個案審酌事件發生之背景、環境、當事人之關係、行為人與被害人之認知及行為人言行連續性等具體事實為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "警察機關受理跟蹤騷擾案件，應即派員處理，並轉介相關目的事業主管機關依權責提供被害人保護服務措施。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "警察機關受理跟蹤騷擾案件，應即派員處理，並轉介相關目的事業主管機關依權責提供被害人保護服務措施。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "本法第四條第一項所稱調查，指司法警察（官）於刑事偵查程序之相關作為。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第四條第一項所稱調查，指司法警察（官）於刑事偵查程序之相關作為。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "1   警察機關依本法第四條第二項規定所核發之書面告誡，應記載下列事項：\n一、行為人之姓名、性別、出生年月日、國民身分證統一編號或其他身分證明文件字號及住所或居所。\n二、案由。\n三、告誡事由。\n四、違反之法律效果。\n五、救濟方式。\n2   書面告誡之送達，行為人在場者，應即時行之。\n3   第一項書面告誡之核發或不核發，應以書面通知被害人。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   警察機關依本法第四條第二項規定所核發之書面告誡，應記載下列事項："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、行為人之姓名、性別、出生年月日、國民身分證統一編號或其他身分證明文件字號及住所或居所。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、案由。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、告誡事由。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、違反之法律效果。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、救濟方式。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   書面告誡之送達，行為人在場者，應即時行之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   第一項書面告誡之核發或不核發，應以書面通知被害人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "警察機關依本法第四條第二項所為書面告誡之核發，不以被害人提出告訴為限。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "警察機關依本法第四條第二項所為書面告誡之核發，不以被害人提出告訴為限。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "警察機關為防止危害，經審認個案有即時約制行為人再犯之必要者，應不待被害人請求，依本法第四條第二項主動核發書面告誡。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "警察機關為防止危害，經審認個案有即時約制行為人再犯之必要者，應不待被害人請求，依本法第四條第二項主動核發書面告誡。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "行為人或被害人依本法第四條第三項表示異議時，應以書面為之，載明下列事項：\n一、異議人之姓名、出生年月日、國民身分證統一編號或其他身分證明文件字號及住所或居所。\n二、異議之事實及理由。\n三、證據。\n四、書面告誡或不核發書面告誡通知文書之日期、案（字）號。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "行為人或被害人依本法第四條第三項表示異議時，應以書面為之，載明下列事項："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、異議人之姓名、出生年月日、國民身分證統一編號或其他身分證明文件字號及住所或居所。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、異議之事實及理由。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、證據。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、書面告誡或不核發書面告誡通知文書之日期、案（字）號。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "本法第四條第四項所稱更正，指依行為人異議，撤銷書面告誡；或依被害人異議，核發書面告誡予行為人。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第四條第四項所稱更正，指依行為人異議，撤銷書面告誡；或依被害人異議，核發書面告誡予行為人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "本法第五條第一項所定二年期間，自書面告誡送達行為人發生效力之日起算。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第五條第一項所定二年期間，自書面告誡送達行為人發生效力之日起算。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "檢察官或警察機關依本法第五條第二項為保護令之聲請，應考量個案具體危險情境，且不受書面告誡先行之限制。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "檢察官或警察機關依本法第五條第二項為保護令之聲請，應考量個案具體危險情境，且不受書面告誡先行之限制。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "本法第十條所定其他足資識別被害人身分之資料，包括被害人照片或影像、聲音、聯絡方式、就讀學校、班級、工作場所、親屬姓名及與其之關係或其他得以直接或間接方式識別該個人之資料。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十條所定其他足資識別被害人身分之資料，包括被害人照片或影像、聲音、聯絡方式、就讀學校、班級、工作場所、親屬姓名及與其之關係或其他得以直接或間接方式識別該個人之資料。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "主管機關及目的事業主管機關應指定專人辦理跟蹤騷擾防制業務。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "主管機關及目的事業主管機關應指定專人辦理跟蹤騷擾防制業務。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      },
+      {
+        "id": "article-18",
+        "articleNumber": "18",
+        "displayNumber": "第 18 條",
+        "title": null,
+        "plainText": "本細則自中華民國一百十一年六月一日施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則自中華民國一百十一年六月一日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 跟蹤騷擾防制法施行細則（PDF：法規-跟蹤騷擾防制法施行細則.pdf）",
+          "lastModified": "2022-03-18"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "stalking-harassment-prevention-framework",
+        "name": "跟蹤騷擾防制法律框架",
+        "description": "彙整跟蹤騷擾行為之定義、書面告誡、保護令與相關罰則所涉之法規。",
+        "aliases": [
+          "跟騷防制"
+        ],
+        "tags": [
+          "跟蹤騷擾",
+          "保護令"
+        ],
+        "role": "supporting",
+        "sortOrder": 1
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "conceptId": "stalking-harassment-prevention-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用跟蹤騷擾防制法",
+        "relationType": "authorization",
+        "conditionText": "本細則依跟蹤騷擾防制法（以下簡稱本法）第二十二條規定訂定之。",
+        "targetRegulationId": "tw-stalking-harassment-prevention-act",
+        "targetRegulationNames": [
+          "跟蹤騷擾防制法"
+        ],
+        "targetArticleNumber": "22",
+        "triggerTerms": [
+          "本細則依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-stalking-harassment-prevention-act-enforcement-rules-cite-1",
+        "sortOrder": 0
+      }
+    ],
+    "definedTerms": []
+  }
+}

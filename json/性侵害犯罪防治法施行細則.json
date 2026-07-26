@@ -1,0 +1,632 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-sexual-assault-crime-prevention-act-enforcement-rules",
+    "code": "UNKNOWN",
+    "name": "性侵害犯罪防治法施行細則",
+    "shortName": "性侵害犯罪防治法施行細則",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-sexual-assault-crime-prevention-act-enforcement-rules-20230816",
+      "label": "修正日期：民國 112 年 08 月 16 日",
+      "promulgationDate": "2023-08-16",
+      "effectiveDate": "2023-02-17",
+      "effectiveDateNote": "依第18條，本細則自一百十二年二月十七日施行，即2023-02-17；但第7條至第10條及第17條自中華民國一百十二年八月十五日（2023-08-15）施行。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "本細則依性侵害犯罪防治法（以下簡稱本法）第五十五條規定訂定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則依性侵害犯罪防治法（以下簡稱本法）第五十五條規定訂定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "1   本法所定直轄市、縣（市）主管機關，為受理通報之直轄市、縣（市）主管機關。但有下列情形之一者，從其規定：\n一、同一被害人通報案件有二以上直轄市、縣（市）主管機關受理：被害人居所地之直轄市、縣（市）主管機關。\n二、被害人有立即救援、就醫診療、驗傷、取得證據、陪同詢（訊）問、評估保護安置之緊急情形：被害人所在地之直轄市、縣（市）主管機關；必要時，得視實際情形協調其他直轄市、縣（市）主管機關協助辦理。\n三、被害人安置、醫療及相關費用之支付：被害人戶籍地之直轄市、縣（市）主管機關。\n2   受理通報之直轄市、縣（市）主管機關得因案件個案需要，經協商後移轉由被害人居所地之直轄市、縣（市）主管機關為後續處置。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法所定直轄市、縣（市）主管機關，為受理通報之直轄市、縣（市）主管機關。但有下列情形之一者，從其規定："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、同一被害人通報案件有二以上直轄市、縣（市）主管機關受理：被害人居所地之直轄市、縣（市）主管機關。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、被害人有立即救援、就醫診療、驗傷、取得證據、陪同詢（訊）問、評估保護安置之緊急情形：被害人所在地之直轄市、縣（市）主管機關；必要時，得視實際情形協調其他直轄市、縣（市）主管機關協助辦理。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、被害人安置、醫療及相關費用之支付：被害人戶籍地之直轄市、縣（市）主管機關。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   受理通報之直轄市、縣（市）主管機關得因案件個案需要，經協商後移轉由被害人居所地之直轄市、縣（市）主管機關為後續處置。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "1   本法所稱目的事業主管機關，指下列機關：\n一、本法第四十六條：\n（一）登記為電信事業之網際網路接取服務提供者：國家通訊傳播委員會。\n（二）非登記為電信事業之網際網路接取服務提供者、網際網路平臺提供者、網際網路應用服務提供者。1.於我國辦理公司、商業或有限合夥登記者：該公司、商業或有限合夥登記所在地之直轄市、縣（市）主管機關。2.非於我國辦理公司、商業或有限合夥登記者：被害人居所地之直轄市、縣（市）主管機關。\n二、本法第四十八條：\n（一）廣播、電視事業：國家通訊傳播委員會。\n（二）宣傳品、出版品、網際網路或其他媒體：被害人居所地之直轄市、縣（市）主管機關。\n2   前項第一款第二目之2 及第二款第二目所定被害人不明時，以申訴人所在地直轄市、縣（市）主管機關為目的事業主管機關。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法所稱目的事業主管機關，指下列機關："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、本法第四十六條："
+          },
+          {
+            "type": "subitem",
+            "number": "一",
+            "text": "（一）登記為電信事業之網際網路接取服務提供者：國家通訊傳播委員會。"
+          },
+          {
+            "type": "subitem",
+            "number": "二",
+            "text": "（二）非登記為電信事業之網際網路接取服務提供者、網際網路平臺提供者、網際網路應用服務提供者。1.於我國辦理公司、商業或有限合夥登記者：該公司、商業或有限合夥登記所在地之直轄市、縣（市）主管機關。2.非於我國辦理公司、商業或有限合夥登記者：被害人居所地之直轄市、縣（市）主管機關。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、本法第四十八條："
+          },
+          {
+            "type": "subitem",
+            "number": "一",
+            "text": "（一）廣播、電視事業：國家通訊傳播委員會。"
+          },
+          {
+            "type": "subitem",
+            "number": "二",
+            "text": "（二）宣傳品、出版品、網際網路或其他媒體：被害人居所地之直轄市、縣（市）主管機關。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項第一款第二目之2 及第二款第二目所定被害人不明時，以申訴人所在地直轄市、縣（市）主管機關為目的事業主管機關。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "依本法第六條第一項第五款規定協調醫療機構成立之醫療小組，應由該醫療機構負責醫師或其指派之人員擔任召集人，其成員至少應包括醫事人員及社會工作人員。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "依本法第六條第一項第五款規定協調醫療機構成立之醫療小組，應由該醫療機構負責醫師或其指派之人員擔任召集人，其成員至少應包括醫事人員及社會工作人員。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "1   本法第九條第四項所定組織成員、受僱人或受服務人數之計算，包括分支機構及附屬單位，並依每月第一個工作日之總人數計算。\n2   前項受服務人數，指於該機關、部隊、學校、機構或僱用人之處所接受服務之人數。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第九條第四項所定組織成員、受僱人或受服務人數之計算，包括分支機構及附屬單位，並依每月第一個工作日之總人數計算。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項受服務人數，指於該機關、部隊、學校、機構或僱用人之處所接受服務之人數。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "1   本法第十一條第一項規定之通報方式，應以網際網路、電信傳真或其他科技設備傳送，或以其他方式通報直轄市、縣（市）主管機關；情況緊急時，得先以言詞、電話通訊或其他即時通話方式通報，並於通報後二十四小時內補送通報表。\n2   前項通報作業，應就通報表所定內容詳實填載，並注意維護被害人之秘密及隱私，不得洩漏。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第十一條第一項規定之通報方式，應以網際網路、電信傳真或其他科技設備傳送，或以其他方式通報直轄市、縣（市）主管機關；情況緊急時，得先以言詞、電話通訊或其他即時通話方式通報，並於通報後二十四小時內補送通報表。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項通報作業，應就通報表所定內容詳實填載，並注意維護被害人之秘密及隱私，不得洩漏。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "1   中央主管機關得知網頁資料涉有性侵害或刑法第三百十九條之一至第三百十九條之四犯罪嫌疑情事者，應通知網際網路平臺提供者、網際網路應用服務提供者、網際網路接取服務提供者（以下併稱網路業者）及第三條第一項第一款之目的事業主管機關。\n2   前項通知，應記載下列事項︰\n一、足以識別犯罪嫌疑情事之網站名稱與網址及性影像之網址。\n二、行為人網路平臺帳號或網際網路協定位置。\n三、通知之國家、機關、聯絡人姓名、電話及電子郵件。\n3   目的事業主管機關收受第一項通知後，應立即以書面令網路業者於下列時限內，依本法第十三條第一項規定，限制瀏覽或移除與犯罪有關之網頁資料：\n一、性侵害犯罪：二十四小時。\n二、刑法第三百十九條之一至第三百十九條之四之罪：七十二小時。\n4   前項書面內容，應包括第二項各款、本法第十三條第二項犯罪網頁資料保留一百八十日之起訖日期及行政程序法第九十六條第一項應記載事項。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   中央主管機關得知網頁資料涉有性侵害或刑法第三百十九條之一至第三百十九條之四犯罪嫌疑情事者，應通知網際網路平臺提供者、網際網路應用服務提供者、網際網路接取服務提供者（以下併稱網路業者）及第三條第一項第一款之目的事業主管機關。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項通知，應記載下列事項︰"
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、足以識別犯罪嫌疑情事之網站名稱與網址及性影像之網址。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、行為人網路平臺帳號或網際網路協定位置。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、通知之國家、機關、聯絡人姓名、電話及電子郵件。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   目的事業主管機關收受第一項通知後，應立即以書面令網路業者於下列時限內，依本法第十三條第一項規定，限制瀏覽或移除與犯罪有關之網頁資料："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、性侵害犯罪：二十四小時。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、刑法第三百十九條之一至第三百十九條之四之罪：七十二小時。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   前項書面內容，應包括第二項各款、本法第十三條第二項犯罪網頁資料保留一百八十日之起訖日期及行政程序法第九十六條第一項應記載事項。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "1   目的事業主管機關對網路業者依本法作成之行政處分，得以電子文件利用網際網路之方式，傳送至網路業者公開揭示或指定之電子郵件、電子表單，以為送達。\n2   前項電子文件，由目的事業主管機關傳送至網路業者公開揭示或指定之電子郵件、電子表單後一工作日，發生依法送達、通知或使其知悉之效力。但有下列情形之一者，不在此限：\n一、電子文件已傳送而未進入網路業者公開揭示或指定之電子郵件、電子表單。\n二、電子文件已進入網路業者公開揭示或指定之電子郵件、電子表單後一工作日，網路業者釋明其無法閱讀。\n三、網路業者證明電子文件於較早或較晚之時點進入其公開揭示或指定之電子郵件、電子表單。\n3   前項但書第一款情形有爭議時，由目的事業主管機關證明；目的事業主管機關不能證明者，應另以適當之方式重行送達、通知或使其知悉。\n4   第二項但書第二款情形，目的事業主管機關應另以適當之方式重行送達、通知或使其知悉。\n5   第二項但書第三款情形，依網路業者證明較早或較晚之時點，發生依法送達、通知或使其知悉之效力。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   目的事業主管機關對網路業者依本法作成之行政處分，得以電子文件利用網際網路之方式，傳送至網路業者公開揭示或指定之電子郵件、電子表單，以為送達。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項電子文件，由目的事業主管機關傳送至網路業者公開揭示或指定之電子郵件、電子表單後一工作日，發生依法送達、通知或使其知悉之效力。但有下列情形之一者，不在此限："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、電子文件已傳送而未進入網路業者公開揭示或指定之電子郵件、電子表單。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、電子文件已進入網路業者公開揭示或指定之電子郵件、電子表單後一工作日，網路業者釋明其無法閱讀。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、網路業者證明電子文件於較早或較晚之時點進入其公開揭示或指定之電子郵件、電子表單。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   前項但書第一款情形有爭議時，由目的事業主管機關證明；目的事業主管機關不能證明者，應另以適當之方式重行送達、通知或使其知悉。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   第二項但書第二款情形，目的事業主管機關應另以適當之方式重行送達、通知或使其知悉。"
+          },
+          {
+            "type": "paragraph",
+            "number": "5",
+            "text": "5   第二項但書第三款情形，依網路業者證明較早或較晚之時點，發生依法送達、通知或使其知悉之效力。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "目的事業主管機關無從知悉網路業者聯絡資訊，致無法為前條之送達者，為阻止犯罪、危害之發生或避免急迫危險，而有即時處置之必要時，得依行政執行法規定為即時強制。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "目的事業主管機關無從知悉網路業者聯絡資訊，致無法為前條之送達者，為阻止犯罪、危害之發生或避免急迫危險，而有即時處置之必要時，得依行政執行法規定為即時強制。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "本法第十五條及第十六條第一項所定其他足資識別被害人身分之資訊，包括被害人照片、影像、圖畫、聲音、住址、親屬姓名或其關係、就讀學校、班級、工作場所或其他得以直接或間接方式識別該被害人個人之資料。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十五條及第十六條第一項所定其他足資識別被害人身分之資訊，包括被害人照片、影像、圖畫、聲音、住址、親屬姓名或其關係、就讀學校、班級、工作場所或其他得以直接或間接方式識別該被害人個人之資料。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "1   依本法第十七條第一項規定對於被害人為驗傷及採證時，應注意其身心狀態及被害情況，並詳實記錄及保存。\n2   本法第十七條第一項之同意，應以書面為之。\n3   本法第十七條第五項、第六項規定證物之保存及移送，應注意防止滅失。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   依本法第十七條第一項規定對於被害人為驗傷及採證時，應注意其身心狀態及被害情況，並詳實記錄及保存。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法第十七條第一項之同意，應以書面為之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   本法第十七條第五項、第六項規定證物之保存及移送，應注意防止滅失。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "醫師、心理師、輔導人員或社會工作人員，依本法第十八條第一項規定陪同被害人到場陳述意見時，應恪遵專業倫理，並注意維護被害人之權益；依本法第十九條規定在場協助詢（訊）問之專業人士，亦同。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "醫師、心理師、輔導人員或社會工作人員，依本法第十八條第一項規定陪同被害人到場陳述意見時，應恪遵專業倫理，並注意維護被害人之權益；依本法第十九條規定在場協助詢（訊）問之專業人士，亦同。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "被害人、被害人之監護人或法定代理人，得向直轄市、縣（市）主管機關申請指派社會工作人員，依本法第十八條第一項規定陪同被害人在場，除顯無必要者外，直轄市、縣（市）主管機關不得拒絕。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "被害人、被害人之監護人或法定代理人，得向直轄市、縣（市）主管機關申請指派社會工作人員，依本法第十八條第一項規定陪同被害人在場，除顯無必要者外，直轄市、縣（市）主管機關不得拒絕。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "本法第二十九條所定加害人應接受司法警察機關對其照相、採取指紋及採樣去氧核醣核酸，加害人於矯正機關收容期間，尚未採樣者，矯正機關應提供場地及必要之協助。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第二十九條所定加害人應接受司法警察機關對其照相、採取指紋及採樣去氧核醣核酸，加害人於矯正機關收容期間，尚未採樣者，矯正機關應提供場地及必要之協助。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "本法第三十七條第一項及第二項所定加害人，為中華民國九十五年六月三十日以前犯性侵害犯罪者。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第三十七條第一項及第二項所定加害人，為中華民國九十五年六月三十日以前犯性侵害犯罪者。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "本法第四十五條及第四十七條所定之處罰，由被害人居所地之直轄市、縣（市）主管機關為之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第四十五條及第四十七條所定之處罰，由被害人居所地之直轄市、縣（市）主管機關為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "1   目的事業主管機關依本法第四十六條規定令其限制接取，其限制接取之行政處分書，除適用行政程序法有關行政處分規定外，應記載限制接取之起訖日期。\n2   網路業者對於目的事業主管機關依前項規定實施限制接取之決定不服者，得依法提起訴願及行政訴訟。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   目的事業主管機關依本法第四十六條規定令其限制接取，其限制接取之行政處分書，除適用行政程序法有關行政處分規定外，應記載限制接取之起訖日期。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   網路業者對於目的事業主管機關依前項規定實施限制接取之決定不服者，得依法提起訴願及行政訴訟。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      },
+      {
+        "id": "article-18",
+        "articleNumber": "18",
+        "displayNumber": "第 18 條",
+        "title": null,
+        "plainText": "本細則除第七條至第十條及第十七條自中華民國一百十二年八月十五日施行外，自一百十二年二月十七日施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則除第七條至第十條及第十七條自中華民國一百十二年八月十五日施行外，自一百十二年二月十七日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性侵害犯罪防治法施行細則（PDF：法規-性侵害犯罪防治法施行細則.pdf）",
+          "lastModified": "2023-08-16"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "sexual-assault-prevention-framework",
+        "name": "性侵害犯罪防治法律框架",
+        "description": "彙整性侵害犯罪之防治、被害人保護與加害人處遇所涉之法規。",
+        "aliases": [
+          "性侵害防治"
+        ],
+        "tags": [
+          "性侵害",
+          "被害人保護"
+        ],
+        "role": "supporting",
+        "sortOrder": 1
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "conceptId": "sexual-assault-prevention-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用性侵害犯罪防治法",
+        "relationType": "authorization",
+        "conditionText": "本細則依性侵害犯罪防治法（以下簡稱本法）第五十五條規定訂定之。",
+        "targetRegulationId": "tw-sexual-assault-crime-prevention-act",
+        "targetRegulationNames": [
+          "性侵害犯罪防治法"
+        ],
+        "targetArticleNumber": "55",
+        "triggerTerms": [
+          "本細則依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-sexual-assault-crime-prevention-act-enforcement-rules-cite-1",
+        "sortOrder": 0
+      },
+      {
+        "conceptId": "sexual-assault-prevention-framework",
+        "sourceArticleId": "article-7",
+        "label": "引用刑法",
+        "relationType": "application",
+        "conditionText": "1   中央主管機關得知網頁資料涉有性侵害或刑法第三百十九條之一至第三百十九條之四犯罪嫌疑情事者，應通知網際網路平臺提供者、網際網路應用服務提供者、網際網路接取服務提供者（以下併稱網路業者）及第三條第一項第一款之目的事業主管機關。",
+        "targetRegulationId": "tw-criminal-code",
+        "targetRegulationNames": [
+          "刑法"
+        ],
+        "targetArticleNumber": "319",
+        "triggerTerms": [
+          "性侵害或"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-sexual-assault-crime-prevention-act-enforcement-rules-cite-2",
+        "sortOrder": 1
+      },
+      {
+        "conceptId": "sexual-assault-prevention-framework",
+        "sourceArticleId": "article-7",
+        "label": "引用行政程序法",
+        "relationType": "application",
+        "conditionText": "4   前項書面內容，應包括第二項各款、本法第十三條第二項犯罪網頁資料保留一百八十日之起訖日期及行政程序法第九十六條第一項應記載事項。",
+        "targetRegulationId": "tw-administrative-procedure-act",
+        "targetRegulationNames": [
+          "行政程序法"
+        ],
+        "targetArticleNumber": "96",
+        "triggerTerms": [
+          "訖日期及"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-sexual-assault-crime-prevention-act-enforcement-rules-cite-3",
+        "sortOrder": 2
+      },
+      {
+        "conceptId": "sexual-assault-prevention-framework",
+        "sourceArticleId": "article-17",
+        "label": "引用行政程序法",
+        "relationType": "application",
+        "conditionText": "1   目的事業主管機關依本法第四十六條規定令其限制接取，其限制接取之行政處分書，除適用行政程序法有關行政處分規定外，應記載限制接取之起訖日期。",
+        "targetRegulationId": "tw-administrative-procedure-act",
+        "targetRegulationNames": [
+          "行政程序法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "，除適用"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-sexual-assault-crime-prevention-act-enforcement-rules-cite-4",
+        "sortOrder": 3
+      }
+    ],
+    "definedTerms": [
+      {
+        "id": "tw-sexual-assault-crime-prevention-act-enforcement-rules-term-1",
+        "name": "目的事業主管機關",
+        "aliases": [],
+        "definition": "下列機關：\n一、本法第四十六條：\n（一）登記為電信事業之網際網路接取服務提供者：國家通訊傳播委員會。\n（二）非登記為電信事業之網際網路接取服務提供者、網際網路平臺提供者、網際網路應用服務提供者。1.於我國辦理公司、商業或有限合夥登記者：該公司、商業或有限合夥登記所在地之直轄市、縣（市）主管機關。2.非於我國辦理公司、商業或有限合夥登記者：被害人居所地之直轄市、縣（市）主管機關。\n二、本法第四十八條：\n（一）廣播、電視事業：國家通訊傳播委員會。\n（二）宣傳品、出版品、網際網路或其他媒體：被害人居所地之直轄市、縣（市）主管機關。",
+        "definitionArticleId": "article-3",
+        "definitionText": "1   本法所稱目的事業主管機關，指下列機關：\n一、本法第四十六條：\n（一）登記為電信事業之網際網路接取服務提供者：國家通訊傳播委員會。\n（二）非登記為電信事業之網際網路接取服務提供者、網際網路平臺提供者、網際網路應用服務提供者。1.於我國辦理公司、商業或有限合夥登記者：該公司、商業或有限合夥登記所在地之直轄市、縣（市）主管機關。2.非於我國辦理公司、商業或有限合夥登記者：被害人居所地之直轄市、縣（市）主管機關。\n二、本法第四十八條：\n（一）廣播、電視事業：國家通訊傳播委員會。\n（二）宣傳品、出版品、網際網路或其他媒體：被害人居所地之直轄市、縣（市）主管機關。",
+        "scope": "regulation",
+        "targetRegulationNames": [],
+        "sortOrder": 0
+      }
+    ]
+  }
+}

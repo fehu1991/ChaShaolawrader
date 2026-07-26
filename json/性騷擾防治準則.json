@@ -1,0 +1,532 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-sexual-harassment-prevention-standards",
+    "code": "UNKNOWN",
+    "name": "性騷擾防治準則",
+    "shortName": "性騷擾防治準則",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-sexual-harassment-prevention-standards-20240306",
+      "label": "修正日期：民國 113 年 03 月 06 日",
+      "promulgationDate": "2024-03-06",
+      "effectiveDate": "2024-03-08",
+      "effectiveDateNote": "本版本施行條文明定自公布（發布）日施行，依中央法規標準法第13條，自公布（發布）之日起算至第三日起發生效力，故施行日為公布（發布）日之後二日。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "本準則依性騷擾防治法（以下簡稱本法）第七條第四項規定訂定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本準則依性騷擾防治法（以下簡稱本法）第七條第四項規定訂定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "本法第七條第四項之性騷擾樣態，指違反他人意願且不受歡迎，而與性或性別有關之言語、肢體、視覺騷擾，或利用科技設備或以權勢、強暴脅迫、恐嚇手段為性意味言行或性要求，包括下列情形：\n一、羞辱、貶抑、敵意或騷擾之言詞或行為。\n二、跟蹤、觀察，或不受歡迎之追求。\n三、偷窺、偷拍。\n四、曝露身體隱私部位。\n五、以電話、傳真、電子通訊、網際網路或其他設備，展示、傳送或傳閱猥褻文字、聲音、圖畫、照片或影像資料。\n六、乘人不及抗拒親吻、擁抱或觸摸其臀部、胸部或其他身體隱私部位。\n七、其他與前六款相類之行為。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第七條第四項之性騷擾樣態，指違反他人意願且不受歡迎，而與性或性別有關之言語、肢體、視覺騷擾，或利用科技設備或以權勢、強暴脅迫、恐嚇手段為性意味言行或性要求，包括下列情形："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、羞辱、貶抑、敵意或騷擾之言詞或行為。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、跟蹤、觀察，或不受歡迎之追求。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、偷窺、偷拍。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、曝露身體隱私部位。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、以電話、傳真、電子通訊、網際網路或其他設備，展示、傳送或傳閱猥褻文字、聲音、圖畫、照片或影像資料。"
+          },
+          {
+            "type": "item",
+            "number": "六",
+            "text": "六、乘人不及抗拒親吻、擁抱或觸摸其臀部、胸部或其他身體隱私部位。"
+          },
+          {
+            "type": "item",
+            "number": "七",
+            "text": "七、其他與前六款相類之行為。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "政府機關（構）、部隊、學校、機構或僱用人（以下併稱機構），為防治性騷擾行為之發生，應採取適當之預防、糾正、懲處及其他措施，並確實維護當事人之隱私。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "政府機關（構）、部隊、學校、機構或僱用人（以下併稱機構），為防治性騷擾行為之發生，應採取適當之預防、糾正、懲處及其他措施，並確實維護當事人之隱私。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "機構應就所屬公共場所及公眾得出入之場所，定期檢討其空間及設施，避免性騷擾之發生。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "機構應就所屬公共場所及公眾得出入之場所，定期檢討其空間及設施，避免性騷擾之發生。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "機構知悉其所屬公共場所及公眾得出入之場所發生性騷擾事件者，得採取下列處置：\n一、尊重被害人意願，減低當事人雙方互動之機會。\n二、避免報復情事。\n三、預防、減低行為人再度性騷擾之可能。\n四、其他認為必要之處置。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "機構知悉其所屬公共場所及公眾得出入之場所發生性騷擾事件者，得採取下列處置："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、尊重被害人意願，減低當事人雙方互動之機會。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、避免報復情事。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、預防、減低行為人再度性騷擾之可能。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、其他認為必要之處置。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "機構應依本法第七條第一項第一款規定，設立性騷擾事件申訴管道協調處理，包括性騷擾事件之專線電話、傳真、專用信箱或電子信箱，並規定處理程序及專責處理人員或單位。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "機構應依本法第七條第一項第一款規定，設立性騷擾事件申訴管道協調處理，包括性騷擾事件之專線電話、傳真、專用信箱或電子信箱，並規定處理程序及專責處理人員或單位。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "機構應依本法第七條第一項第二款規定，訂定性騷擾防治措施，其內容應包括下列事項：\n一、性騷擾防治之政策宣示及規章。\n二、性騷擾事件之協調及處理。\n三、當事人隱私之保密。\n四、行為人處罰規定。\n五、其他性騷擾防治措施。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "機構應依本法第七條第一項第二款規定，訂定性騷擾防治措施，其內容應包括下列事項："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、性騷擾防治之政策宣示及規章。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、性騷擾事件之協調及處理。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、當事人隱私之保密。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、行為人處罰規定。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、其他性騷擾防治措施。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "1   本法第八條所定教育訓練之內容如下：\n一、機構所屬員工：\n（一）性別平等知能。\n（二）性騷擾基本概念、法令及防治。\n（三）性騷擾申訴之流程及方式。\n（四）其他與性騷擾防治有關之教育。\n二、機構處理性騷擾事件或有管理責任之人員：\n（一）性別平等教育法、性別平等工作法及本法之認識與事件之處理。\n（二）覺察及辨識權力差異關係。\n（三）性騷擾事件有效之糾正及補救措施。\n（四）被害人協助及權益保障事宜。\n（五）其他與性騷擾防治有關之教育。\n2   前項參加教育訓練之人員，機構應給予公差假，及經費補助。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第八條所定教育訓練之內容如下："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、機構所屬員工："
+          },
+          {
+            "type": "subitem",
+            "number": "一",
+            "text": "（一）性別平等知能。"
+          },
+          {
+            "type": "subitem",
+            "number": "二",
+            "text": "（二）性騷擾基本概念、法令及防治。"
+          },
+          {
+            "type": "subitem",
+            "number": "三",
+            "text": "（三）性騷擾申訴之流程及方式。"
+          },
+          {
+            "type": "subitem",
+            "number": "四",
+            "text": "（四）其他與性騷擾防治有關之教育。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、機構處理性騷擾事件或有管理責任之人員："
+          },
+          {
+            "type": "subitem",
+            "number": "一",
+            "text": "（一）性別平等教育法、性別平等工作法及本法之認識與事件之處理。"
+          },
+          {
+            "type": "subitem",
+            "number": "二",
+            "text": "（二）覺察及辨識權力差異關係。"
+          },
+          {
+            "type": "subitem",
+            "number": "三",
+            "text": "（三）性騷擾事件有效之糾正及補救措施。"
+          },
+          {
+            "type": "subitem",
+            "number": "四",
+            "text": "（四）被害人協助及權益保障事宜。"
+          },
+          {
+            "type": "subitem",
+            "number": "五",
+            "text": "（五）其他與性騷擾防治有關之教育。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項參加教育訓練之人員，機構應給予公差假，及經費補助。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "1   組織成員或受僱人達三十人以上之政府機關（構）、部隊、學校，處理性騷擾事件之申訴時，應組成申訴處理調查單位，並進行調查。\n2   前項申訴處理調查單位成員有二人以上者，其成員之女性代表比例不得低於二分之一，並得視需要聘請專家學者擔任調查單位成員。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   組織成員或受僱人達三十人以上之政府機關（構）、部隊、學校，處理性騷擾事件之申訴時，應組成申訴處理調查單位，並進行調查。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項申訴處理調查單位成員有二人以上者，其成員之女性代表比例不得低於二分之一，並得視需要聘請專家學者擔任調查單位成員。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "機構協助性騷擾事件之調查，應以不公開方式為之，並保護當事人之隱私及其他權益。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "機構協助性騷擾事件之調查，應以不公開方式為之，並保護當事人之隱私及其他權益。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "性騷擾事件之調查，得通知當事人及關係人到場說明，並得邀請具相關學識經驗者協助。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "性騷擾事件之調查，得通知當事人及關係人到場說明，並得邀請具相關學識經驗者協助。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "性騷擾行為經調查屬實，行為人所屬政府機關（構）、部隊、學校，應視情節輕重，對行為人為適當之懲處，並予以追蹤、考核及監督，避免再度性騷擾或報復情事發生。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "性騷擾行為經調查屬實，行為人所屬政府機關（構）、部隊、學校，應視情節輕重，對行為人為適當之懲處，並予以追蹤、考核及監督，避免再度性騷擾或報復情事發生。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "第三條、第七條第一款、第三款至第五款及第八條規定，於性侵害犯罪事件準用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "第三條、第七條第一款、第三款至第五款及第八條規定，於性侵害犯罪事件準用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "本準則自發布日施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本準則自發布日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 性騷擾防治準則（PDF：法規-性騷擾防治準則.pdf）",
+          "lastModified": "2024-03-06"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "sexual-harassment-prevention-framework",
+        "name": "性騷擾防治法律框架",
+        "description": "彙整我國性騷擾之定義、防治義務、申訴調查程序與相關罰則所涉之法規；並涵蓋依場域與當事人身分關係而分流適用之性別平等工作法與性別平等教育法。",
+        "aliases": [
+          "性騷擾防治"
+        ],
+        "tags": [
+          "性騷擾",
+          "防治",
+          "申訴"
+        ],
+        "role": "administrative",
+        "sortOrder": 2
+      },
+      {
+        "id": "gender-equity-campus-framework",
+        "name": "校園性別事件處理法律框架",
+        "description": "彙整校園性侵害、性騷擾及性霸凌事件之防治、調查與處理程序所涉之法規，包含性別平等教育法及其授權訂定之準則與學校校內規定。",
+        "aliases": [
+          "校園性別事件"
+        ],
+        "tags": [
+          "校園",
+          "性別事件",
+          "性平教育"
+        ],
+        "role": "related",
+        "sortOrder": 3
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "conceptId": "sexual-harassment-prevention-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用性騷擾防治法",
+        "relationType": "authorization",
+        "conditionText": "本準則依性騷擾防治法（以下簡稱本法）第七條第四項規定訂定之。",
+        "targetRegulationId": "tw-sexual-harassment-prevention-act",
+        "targetRegulationNames": [
+          "性騷擾防治法"
+        ],
+        "targetArticleNumber": "7",
+        "triggerTerms": [
+          "本準則依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-sexual-harassment-prevention-standards-cite-1",
+        "sortOrder": 0
+      },
+      {
+        "conceptId": "gender-equity-campus-framework",
+        "sourceArticleId": "article-8",
+        "label": "引用性別平等教育法",
+        "relationType": "application",
+        "conditionText": "（一）性別平等教育法、性別平等工作法及本法之認識與事件之處理。",
+        "targetRegulationId": "tw-gender-equity-education-act",
+        "targetRegulationNames": [
+          "性別平等教育法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "\n（一）"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-sexual-harassment-prevention-standards-cite-2",
+        "sortOrder": 1
+      },
+      {
+        "conceptId": "sexual-harassment-prevention-framework",
+        "sourceArticleId": "article-8",
+        "label": "引用性別平等工作法",
+        "relationType": "application",
+        "conditionText": "（一）性別平等教育法、性別平等工作法及本法之認識與事件之處理。",
+        "targetRegulationId": "tw-gender-equality-employment-act",
+        "targetRegulationNames": [
+          "性別平等工作法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "教育法、"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-sexual-harassment-prevention-standards-cite-3",
+        "sortOrder": 2
+      }
+    ],
+    "definedTerms": []
+  }
+}

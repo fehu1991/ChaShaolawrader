@@ -1,0 +1,1470 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-civil-code-obligations-enforcement-act",
+    "code": "UNKNOWN",
+    "name": "民法債編施行法",
+    "shortName": "民法債編施行法",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-civil-code-obligations-enforcement-act-20210120",
+      "label": "修正日期：民國 110 年 01 月 20 日",
+      "promulgationDate": "2021-01-20",
+      "effectiveDate": "2021-01-22",
+      "effectiveDateNote": "本版本施行條文明定自公布（發布）日施行，依中央法規標準法第13條，自公布（發布）之日起算至第三日起發生效力，故施行日為公布（發布）日之後二日。 另依第36條，本施行法自民法債編施行之日施行；八十八年四月二十一日修正公布之民法債編修正條文及本施行法修正條文自八十九年五月五日施行，但民法第166條之1施行日期由行政院會同司法院另定之；九十八年十二月十五日修正之民法第687條及第708條自九十八年十一月二十三日施行；一百零九年十二月二十九日修正之民法第205條自公布後六個月施行。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "民法債編施行前發生之債，除本施行法有特別規定外，不適用民法債編之規定；其在修正施行前發生者，除本施行法有特別規定外，亦不適用修正施行後之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法債編施行前發生之債，除本施行法有特別規定外，不適用民法債編之規定；其在修正施行前發生者，除本施行法有特別規定外，亦不適用修正施行後之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "1   民法債編施行前，依民法債編之規定，消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起，一年內行使請求權。但自其時效完成後，至民法債編施行時，已逾民法債編所定時效期間二分之一者，不在此限。\n2   依民法債編之規定，消滅時效，不滿一年者，如在施行時，尚未完成，其時效自施行日起算。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法債編施行前，依民法債編之規定，消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起，一年內行使請求權。但自其時效完成後，至民法債編施行時，已逾民法債編所定時效期間二分之一者，不在此限。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   依民法債編之規定，消滅時效，不滿一年者，如在施行時，尚未完成，其時效自施行日起算。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "1   民法債編修正施行前之法定消滅時效已完成者，其時效為完成。\n2   民法債編修正施行前之法定消滅時效，其期間較民法債編修正施行後所定為長者，適用修正施行前之規定。但其殘餘期間自民法債編修正施行日起算，較民法債編修正施行後所定期間為長者，應自施行日起，適用民法債編修正施行後之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法債編修正施行前之法定消滅時效已完成者，其時效為完成。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法債編修正施行前之法定消滅時效，其期間較民法債編修正施行後所定為長者，適用修正施行前之規定。但其殘餘期間自民法債編修正施行日起算，較民法債編修正施行後所定期間為長者，應自施行日起，適用民法債編修正施行後之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "前二條之規定，於民法債編所定，無時效性質之法定期間，準用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "前二條之規定，於民法債編所定，無時效性質之法定期間，準用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "修正之民法第一百六十四條之規定，於民法債編修正施行前成立之懸賞廣告，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第一百六十四條之規定，於民法債編修正施行前成立之懸賞廣告，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "修正之民法第一百六十五條第二項之規定，於民法債編修正施行前所為之廣告定有完成行為之期間者，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第一百六十五條第二項之規定，於民法債編修正施行前所為之廣告定有完成行為之期間者，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "修正之民法第一百六十五條之一至第一百六十五條之四之規定，於民法債編修正施行前成立之優等懸賞廣告，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第一百六十五條之一至第一百六十五條之四之規定，於民法債編修正施行前成立之優等懸賞廣告，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "修正之民法第一百八十七條第三項之規定，於民法債編修正施行前無行為能力人或限制行為能力人不法侵害他人之權利者，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第一百八十七條第三項之規定，於民法債編修正施行前無行為能力人或限制行為能力人不法侵害他人之權利者，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "修正之民法第一百九十五條之規定，於民法債編修正施行前，不法侵害他人信用、隱私、貞操，或不法侵害其他人格法益或基於父、母、子、女、配偶關係之身分法益而情節重大者，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第一百九十五條之規定，於民法債編修正施行前，不法侵害他人信用、隱私、貞操，或不法侵害其他人格法益或基於父、母、子、女、配偶關係之身分法益而情節重大者，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "民法第二百零四條之規定，於民法債編施行前，所約定之利率，逾週年百分之十二者，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法第二百零四條之規定，於民法債編施行前，所約定之利率，逾週年百分之十二者，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-10-1",
+        "articleNumber": "10-1",
+        "displayNumber": "第 10-1 條",
+        "title": null,
+        "plainText": "修正之民法第二百零五條之規定，於民法債編修正施行前約定，而於修正施行後發生之利息債務，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第二百零五條之規定，於民法債編修正施行前約定，而於修正施行後發生之利息債務，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "民法債編施行前，發生之利息債務，於施行時尚未履行者，亦依民法債編之規定，定其數額。但施行時未付之利息總額已超過原本者，仍不得過一本一利。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法債編施行前，發生之利息債務，於施行時尚未履行者，亦依民法債編之規定，定其數額。但施行時未付之利息總額已超過原本者，仍不得過一本一利。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "修正之民法第二百十三條第三項之規定，於民法債編修正施行前因負損害賠償責任而應回復原狀者，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第二百十三條第三項之規定，於民法債編修正施行前因負損害賠償責任而應回復原狀者，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "修正之民法第二百十六條之一之規定，於民法債編修正施行前發生之債，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第二百十六條之一之規定，於民法債編修正施行前發生之債，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "1   民法第二百十七條第一項、第二項及第二百十八條之規定，於民法債編施行前，負損害賠償義務者，亦適用之。\n2   修正之民法第二百十七條第三項之規定，於民法債編修正施行前被害人之代理人或使用人與有過失者，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法第二百十七條第一項、第二項及第二百十八條之規定，於民法債編施行前，負損害賠償義務者，亦適用之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   修正之民法第二百十七條第三項之規定，於民法債編修正施行前被害人之代理人或使用人與有過失者，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "修正之民法第二百二十七條之二之規定，於民法債編修正施行前發生之債，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第二百二十七條之二之規定，於民法債編修正施行前發生之債，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "1   民法債編施行前發生之債務，至施行後不履行時，依民法債編之規定，負不履行之責任。\n2   前項規定，於債權人拒絕受領或不能受領時，準用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法債編施行前發生之債務，至施行後不履行時，依民法債編之規定，負不履行之責任。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項規定，於債權人拒絕受領或不能受領時，準用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "修正之民法第二百四十七條之一之規定，於民法債編修正施行前訂定之契約，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第二百四十七條之一之規定，於民法債編修正施行前訂定之契約，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-18",
+        "articleNumber": "18",
+        "displayNumber": "第 18 條",
+        "title": null,
+        "plainText": "民法第二百五十條至第二百五十三條之規定，於民法債編施行前約定之違約金，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法第二百五十條至第二百五十三條之規定，於民法債編施行前約定之違約金，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-19",
+        "articleNumber": "19",
+        "displayNumber": "第 19 條",
+        "title": null,
+        "plainText": "民法第三百零八條之公認證書，由債權人作成，聲請債務履行地之公證人、警察機關、商業團體或自治機關蓋印簽名。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法第三百零八條之公認證書，由債權人作成，聲請債務履行地之公證人、警察機關、商業團體或自治機關蓋印簽名。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-20",
+        "articleNumber": "20",
+        "displayNumber": "第 20 條",
+        "title": null,
+        "plainText": "1   民法第三百十八條之規定，於民法債編施行前所負債務，亦適用之。\n2   修正之民法第三百十八條第二項之規定，於民法債編修正施行前所負債務，並適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法第三百十八條之規定，於民法債編施行前所負債務，亦適用之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   修正之民法第三百十八條第二項之規定，於民法債編修正施行前所負債務，並適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-21",
+        "articleNumber": "21",
+        "displayNumber": "第 21 條",
+        "title": null,
+        "plainText": "民法債編施行前之債務，亦得依民法債編之規定為抵銷。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法債編施行前之債務，亦得依民法債編之規定為抵銷。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-22",
+        "articleNumber": "22",
+        "displayNumber": "第 22 條",
+        "title": null,
+        "plainText": "民法債編施行前，所定買回契約定有期限者，依其期限，但其殘餘期限，自施行日起算，較民法第三百八十條所定期限為長者，應自施行日起，適用民法第三百八十條之規定，如買回契約未定期限者，自施行日起，不得逾五年。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法債編施行前，所定買回契約定有期限者，依其期限，但其殘餘期限，自施行日起算，較民法第三百八十條所定期限為長者，應自施行日起，適用民法第三百八十條之規定，如買回契約未定期限者，自施行日起，不得逾五年。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-23",
+        "articleNumber": "23",
+        "displayNumber": "第 23 條",
+        "title": null,
+        "plainText": "修正之民法第四百二十二條之一之規定，於民法債編修正施行前租用基地建築房屋者，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第四百二十二條之一之規定，於民法債編修正施行前租用基地建築房屋者，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-24",
+        "articleNumber": "24",
+        "displayNumber": "第 24 條",
+        "title": null,
+        "plainText": "1   民法債編施行前所定之租賃契約，於施行後其效力依民法債編之規定。\n2   前項契約，訂有期限者，依其期限，但其殘餘期限，自施行日起算，較民法第四百四十九條所規定之期限為長者，應自施行日起，適用民法第四百四十九條之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法債編施行前所定之租賃契約，於施行後其效力依民法債編之規定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項契約，訂有期限者，依其期限，但其殘餘期限，自施行日起算，較民法第四百四十九條所規定之期限為長者，應自施行日起，適用民法第四百四十九條之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-25",
+        "articleNumber": "25",
+        "displayNumber": "第 25 條",
+        "title": null,
+        "plainText": "修正之民法第四百六十五條之一之規定，於民法債編修正施行前成立之使用借貸預約，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第四百六十五條之一之規定，於民法債編修正施行前成立之使用借貸預約，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-26",
+        "articleNumber": "26",
+        "displayNumber": "第 26 條",
+        "title": null,
+        "plainText": "修正之民法第四百七十五條之一之規定，於民法債編修正施行前成立之消費借貸預約，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第四百七十五條之一之規定，於民法債編修正施行前成立之消費借貸預約，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-27",
+        "articleNumber": "27",
+        "displayNumber": "第 27 條",
+        "title": null,
+        "plainText": "修正之民法第四百九十五條第二項之規定，於民法債編修正施行前成立之承攬契約，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第四百九十五條第二項之規定，於民法債編修正施行前成立之承攬契約，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-28",
+        "articleNumber": "28",
+        "displayNumber": "第 28 條",
+        "title": null,
+        "plainText": "民法債編所定之拍賣，在拍賣法未公布施行前，得照市價變賣，但應經公證人、警察機關、商業團體或自治機關之證明。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法債編所定之拍賣，在拍賣法未公布施行前，得照市價變賣，但應經公證人、警察機關、商業團體或自治機關之證明。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-29",
+        "articleNumber": "29",
+        "displayNumber": "第 29 條",
+        "title": null,
+        "plainText": "民法債編修正施行前成立之旅遊，其未終了部分自修正施行之日起，適用修正之民法債編關於旅遊之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法債編修正施行前成立之旅遊，其未終了部分自修正施行之日起，適用修正之民法債編關於旅遊之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-30",
+        "articleNumber": "30",
+        "displayNumber": "第 30 條",
+        "title": null,
+        "plainText": "修正之民法第六百十八條之一之規定，於民法債編修正施行前遺失、被盜或滅失之倉單，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第六百十八條之一之規定，於民法債編修正施行前遺失、被盜或滅失之倉單，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-31",
+        "articleNumber": "31",
+        "displayNumber": "第 31 條",
+        "title": null,
+        "plainText": "修正之民法第六百二十九條之一之規定，於民法債編修正施行前遺失、被盜或滅失之提單，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第六百二十九條之一之規定，於民法債編修正施行前遺失、被盜或滅失之提單，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-32",
+        "articleNumber": "32",
+        "displayNumber": "第 32 條",
+        "title": null,
+        "plainText": "修正之民法第七百二十二條之規定，於民法債編修正施行前取得證券出於惡意之無記名證券持有人，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第七百二十二條之規定，於民法債編修正施行前取得證券出於惡意之無記名證券持有人，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-33",
+        "articleNumber": "33",
+        "displayNumber": "第 33 條",
+        "title": null,
+        "plainText": "修正之民法第七百三十九條之一之規定，於民法債編修正施行前成立之保證，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第七百三十九條之一之規定，於民法債編修正施行前成立之保證，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-34",
+        "articleNumber": "34",
+        "displayNumber": "第 34 條",
+        "title": null,
+        "plainText": "修正之民法第七百四十二條之一之規定，於民法債編修正施行前成立之保證，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第七百四十二條之一之規定，於民法債編修正施行前成立之保證，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-35",
+        "articleNumber": "35",
+        "displayNumber": "第 35 條",
+        "title": null,
+        "plainText": "新增第二十四節之一之規定，除第七百五十六條之二第二項外，於民法債編修正施行前成立之人事保證，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "新增第二十四節之一之規定，除第七百五十六條之二第二項外，於民法債編修正施行前成立之人事保證，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      },
+      {
+        "id": "article-36",
+        "articleNumber": "36",
+        "displayNumber": "第 36 條",
+        "title": null,
+        "plainText": "1   本施行法自民法債編施行之日施行。\n2   民法債編修正條文及本施行法修正條文，除另定施行日期者外，自公布日施行。\n3   中華民國八十八年四月二十一日修正公布之民法債編修正條文及本施行法修正條文，自八十九年五月五日施行。但民法第一百六十六條之一施行日期，由行政院會同司法院另定之。\n4   中華民國九十八年十二月十五日修正之民法第六百八十七條及第七百零八條，自九十八年十一月二十三日施行。\n5   中華民國一百零九年十二月二十九日修正之民法第二百零五條，自公布後六個月施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本施行法自民法債編施行之日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法債編修正條文及本施行法修正條文，除另定施行日期者外，自公布日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   中華民國八十八年四月二十一日修正公布之民法債編修正條文及本施行法修正條文，自八十九年五月五日施行。但民法第一百六十六條之一施行日期，由行政院會同司法院另定之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   中華民國九十八年十二月十五日修正之民法第六百八十七條及第七百零八條，自九十八年十一月二十三日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "5",
+            "text": "5   中華民國一百零九年十二月二十九日修正之民法第二百零五條，自公布後六個月施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法債編施行法（PDF：民法債編施行法.pdf）",
+          "lastModified": "2021-01-20"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "civil-code-framework",
+        "name": "民法及其施行法框架",
+        "description": "彙整民法各編本文及其對應施行法，供查考各編修正條文之適用與施行日期規定。",
+        "aliases": [
+          "民法體系"
+        ],
+        "tags": [
+          "民法",
+          "施行法"
+        ],
+        "role": "supporting",
+        "sortOrder": 2
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "id": "link-tw-civil-code-obligations-enforcement-act-1",
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": null,
+        "label": "所施行之本法",
+        "relationType": "application",
+        "conditionText": "本施行法規定民法債編之施行日期及新舊法適用關係。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "民法債編"
+        ],
+        "linkMode": "automatic",
+        "sortOrder": 0
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法債編施行前發生之債，除本施行法有特別規定外，不適用民法債編之規定；其在修正施行前發生者，除本施行法有特別規定外，亦不適用修正施行後之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-2",
+        "sortOrder": 1
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-2",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法債編施行前，依民法債編之規定，消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起，一年內行使請求權。但自其時效完成後，至民法債編施行時，已逾民法債編所定時效期間二分之一者，不在此限。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-3",
+        "sortOrder": 2
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-3",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法債編修正施行前之法定消滅時效已完成者，其時效為完成。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-4",
+        "sortOrder": 3
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-4",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "前二條之規定，於民法債編所定，無時效性質之法定期間，準用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "規定，於"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-5",
+        "sortOrder": 4
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-5",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第一百六十四條之規定，於民法債編修正施行前成立之懸賞廣告，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "164",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-6",
+        "sortOrder": 5
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-6",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第一百六十五條第二項之規定，於民法債編修正施行前所為之廣告定有完成行為之期間者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "165",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-7",
+        "sortOrder": 6
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-7",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第一百六十五條之一至第一百六十五條之四之規定，於民法債編修正施行前成立之優等懸賞廣告，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "165",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-8",
+        "sortOrder": 7
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-8",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第一百八十七條第三項之規定，於民法債編修正施行前無行為能力人或限制行為能力人不法侵害他人之權利者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "187",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-9",
+        "sortOrder": 8
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-9",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第一百九十五條之規定，於民法債編修正施行前，不法侵害他人信用、隱私、貞操，或不法侵害其他人格法益或基於父、母、子、女、配偶關係之身分法益而情節重大者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "195",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-10",
+        "sortOrder": 9
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-10",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法第二百零四條之規定，於民法債編施行前，所約定之利率，逾週年百分之十二者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "204",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-11",
+        "sortOrder": 10
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-10-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第二百零五條之規定，於民法債編修正施行前約定，而於修正施行後發生之利息債務，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "205",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-12",
+        "sortOrder": 11
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-11",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法債編施行前，發生之利息債務，於施行時尚未履行者，亦依民法債編之規定，定其數額。但施行時未付之利息總額已超過原本者，仍不得過一本一利。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-13",
+        "sortOrder": 12
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-12",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第二百十三條第三項之規定，於民法債編修正施行前因負損害賠償責任而應回復原狀者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "213",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-14",
+        "sortOrder": 13
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-13",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第二百十六條之一之規定，於民法債編修正施行前發生之債，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "216",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-15",
+        "sortOrder": 14
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-14",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法第二百十七條第一項、第二項及第二百十八條之規定，於民法債編施行前，負損害賠償義務者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "217",
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-16",
+        "sortOrder": 15
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-15",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第二百二十七條之二之規定，於民法債編修正施行前發生之債，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "227",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-17",
+        "sortOrder": 16
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-16",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法債編施行前發生之債務，至施行後不履行時，依民法債編之規定，負不履行之責任。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-18",
+        "sortOrder": 17
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-17",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第二百四十七條之一之規定，於民法債編修正施行前訂定之契約，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "247",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-19",
+        "sortOrder": 18
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-18",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法第二百五十條至第二百五十三條之規定，於民法債編施行前約定之違約金，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "250",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-20",
+        "sortOrder": 19
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-19",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法第三百零八條之公認證書，由債權人作成，聲請債務履行地之公證人、警察機關、商業團體或自治機關蓋印簽名。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "308",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-21",
+        "sortOrder": 20
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-20",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法第三百十八條之規定，於民法債編施行前所負債務，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "318",
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-22",
+        "sortOrder": 21
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-21",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法債編施行前之債務，亦得依民法債編之規定為抵銷。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-23",
+        "sortOrder": 22
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-22",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法債編施行前，所定買回契約定有期限者，依其期限，但其殘餘期限，自施行日起算，較民法第三百八十條所定期限為長者，應自施行日起，適用民法第三百八十條之規定，如買回契約未定期限者，自施行日起，不得逾五年。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "380",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-24",
+        "sortOrder": 23
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-23",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第四百二十二條之一之規定，於民法債編修正施行前租用基地建築房屋者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "422",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-25",
+        "sortOrder": 24
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-24",
+        "label": "引用民法",
+        "relationType": "authorization",
+        "conditionText": "1   民法債編施行前所定之租賃契約，於施行後其效力依民法債編之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "449",
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-26",
+        "sortOrder": 25
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-25",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第四百六十五條之一之規定，於民法債編修正施行前成立之使用借貸預約，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "465",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-27",
+        "sortOrder": 26
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-26",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第四百七十五條之一之規定，於民法債編修正施行前成立之消費借貸預約，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "475",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-28",
+        "sortOrder": 27
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-27",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第四百九十五條第二項之規定，於民法債編修正施行前成立之承攬契約，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "495",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-29",
+        "sortOrder": 28
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-28",
+        "label": "引用民法",
+        "relationType": "authorization",
+        "conditionText": "民法債編所定之拍賣，在拍賣法未公布施行前，得照市價變賣，但應經公證人、警察機關、商業團體或自治機關之證明。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-30",
+        "sortOrder": 29
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-29",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法債編修正施行前成立之旅遊，其未終了部分自修正施行之日起，適用修正之民法債編關於旅遊之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-31",
+        "sortOrder": 30
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-30",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第六百十八條之一之規定，於民法債編修正施行前遺失、被盜或滅失之倉單，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "618",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-32",
+        "sortOrder": 31
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-31",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第六百二十九條之一之規定，於民法債編修正施行前遺失、被盜或滅失之提單，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "629",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-33",
+        "sortOrder": 32
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-32",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第七百二十二條之規定，於民法債編修正施行前取得證券出於惡意之無記名證券持有人，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "722",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-34",
+        "sortOrder": 33
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-33",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第七百三十九條之一之規定，於民法債編修正施行前成立之保證，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "739",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-35",
+        "sortOrder": 34
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-34",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第七百四十二條之一之規定，於民法債編修正施行前成立之保證，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "742",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-36",
+        "sortOrder": 35
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-35",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "新增第二十四節之一之規定，除第七百五十六條之二第二項外，於民法債編修正施行前成立之人事保證，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "項外，於"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-37",
+        "sortOrder": 36
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-36",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   本施行法自民法債編施行之日施行。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "166",
+        "triggerTerms": [
+          "施行法自"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-obligations-enforcement-act-cite-38",
+        "sortOrder": 37
+      }
+    ],
+    "definedTerms": []
+  }
+}

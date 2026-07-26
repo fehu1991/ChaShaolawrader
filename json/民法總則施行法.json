@@ -1,0 +1,842 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-civil-code-general-principles-enforcement-act",
+    "code": "UNKNOWN",
+    "name": "民法總則施行法",
+    "shortName": "民法總則施行法",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-civil-code-general-principles-enforcement-act-20210113",
+      "label": "修正日期：民國 110 年 01 月 13 日",
+      "promulgationDate": "2021-01-13",
+      "effectiveDate": "2021-01-15",
+      "effectiveDateNote": "本版本施行條文明定自公布（發布）日施行，依中央法規標準法第13條，自公布（發布）之日起算至第三日起發生效力，故施行日為公布（發布）日之後二日。 另依第19條第1項，本施行法自民法總則施行之日施行；第2項規定修正條文除另定施行日期者外，自公布日施行。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "民事在民法總則施行前發生者，除本施行法有特別規定外，不適用民法總則之規定，其在修正前發生者，除本施行法有特別規定外，亦不適用修正後之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民事在民法總則施行前發生者，除本施行法有特別規定外，不適用民法總則之規定，其在修正前發生者，除本施行法有特別規定外，亦不適用修正後之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "外國人於法令限制內，有權利能力。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "外國人於法令限制內，有權利能力。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "1   民法總則第八條、第九條及第十一條之規定，於民法總則施行前失蹤者，亦適用之。\n2   民法總則施行前已經過民法總則第八條所定失蹤期間者，得即為死亡之宣告，並應以民法總則施行之日為失蹤人死亡之時。\n3   修正之民法總則第八條之規定，於民法總則施行後修正前失蹤者，亦適用之。但於民法總則修正前，其情形已合於修正前民法總則第八條之規定者，不在此限。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法總則第八條、第九條及第十一條之規定，於民法總則施行前失蹤者，亦適用之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法總則施行前已經過民法總則第八條所定失蹤期間者，得即為死亡之宣告，並應以民法總則施行之日為失蹤人死亡之時。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   修正之民法總則第八條之規定，於民法總則施行後修正前失蹤者，亦適用之。但於民法總則修正前，其情形已合於修正前民法總則第八條之規定者，不在此限。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-3-1",
+        "articleNumber": "3-1",
+        "displayNumber": "第 3-1 條",
+        "title": null,
+        "plainText": "1   中華民國一百零九年十二月二十五日修正之民法第十二條及第十三條，自一百十二年一月一日施行。\n2   於中華民國一百十二年一月一日前滿十八歲而於同日未滿二十歲者，自同日起為成年。\n3   於中華民國一百十二年一月一日未滿二十歲者，於同日前依法令、行政處分、法院裁判或契約已得享有至二十歲或成年之權利或利益，自同日起，除法律另有規定外，仍得繼續享有該權利或利益至二十歲。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   中華民國一百零九年十二月二十五日修正之民法第十二條及第十三條，自一百十二年一月一日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   於中華民國一百十二年一月一日前滿十八歲而於同日未滿二十歲者，自同日起為成年。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   於中華民國一百十二年一月一日未滿二十歲者，於同日前依法令、行政處分、法院裁判或契約已得享有至二十歲或成年之權利或利益，自同日起，除法律另有規定外，仍得繼續享有該權利或利益至二十歲。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "1   民法總則施行前，有民法總則第十四條所定之原因，經聲請有關機關立案者，如於民法總則施行後三個月內向法院聲請宣告禁治產者，自立案之日起，視為禁治產人。\n2   民法總則中華民國九十七年五月二日修正之條文施行前，已為禁治產宣告者，視為已為監護宣告；繫屬於法院之禁治產事件，其聲請禁治產宣告者，視為聲請監護宣告；聲請撤銷禁治產宣告者，視為聲請撤銷監護宣告；並均於修正施行後，適用修正後之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法總則施行前，有民法總則第十四條所定之原因，經聲請有關機關立案者，如於民法總則施行後三個月內向法院聲請宣告禁治產者，自立案之日起，視為禁治產人。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法總則中華民國九十七年五月二日修正之條文施行前，已為禁治產宣告者，視為已為監護宣告；繫屬於法院之禁治產事件，其聲請禁治產宣告者，視為聲請監護宣告；聲請撤銷禁治產宣告者，視為聲請撤銷監護宣告；並均於修正施行後，適用修正後之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-4-1",
+        "articleNumber": "4-1",
+        "displayNumber": "第 4-1 條",
+        "title": null,
+        "plainText": "民法規定之禁治產或禁治產人，自民法總則中華民國九十七年五月二日修正之條文施行後，一律改稱為監護或受監護宣告之人。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法規定之禁治產或禁治產人，自民法總則中華民國九十七年五月二日修正之條文施行後，一律改稱為監護或受監護宣告之人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-4-2",
+        "articleNumber": "4-2",
+        "displayNumber": "第 4-2 條",
+        "title": null,
+        "plainText": "中華民國九十七年五月二日修正之民法總則第十四條至第十五條之二之規定，自公布後一年六個月施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "中華民國九十七年五月二日修正之民法總則第十四條至第十五條之二之規定，自公布後一年六個月施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "依民法總則之規定，設立法人須經許可者，如在民法總則施行前已得主管機關之許可，得於民法總則施行後三個月內聲請登記為法人。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "依民法總則之規定，設立法人須經許可者，如在民法總則施行前已得主管機關之許可，得於民法總則施行後三個月內聲請登記為法人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "1   民法總則施行前具有財團及以公益為目的社團之性質而有獨立財產者，視為法人，其代表人應依民法總則第四十七條或第六十條之規定作成書狀，自民法總則施行後六個月內聲請主管機關審核。\n2   前項書狀所記載之事項，若主管機關認其有違背法令或為公益上之必要，應命其變更。\n3   依第一項規定經核定之書狀，與章程有同一效力。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法總則施行前具有財團及以公益為目的社團之性質而有獨立財產者，視為法人，其代表人應依民法總則第四十七條或第六十條之規定作成書狀，自民法總則施行後六個月內聲請主管機關審核。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項書狀所記載之事項，若主管機關認其有違背法令或為公益上之必要，應命其變更。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   依第一項規定經核定之書狀，與章程有同一效力。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "依前條規定經主管機關核定者，其法人之代表人，應於核定後二十日內，依民法總則第四十八條或第六十一條之規定，聲請登記。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "依前條規定經主管機關核定者，其法人之代表人，應於核定後二十日內，依民法總則第四十八條或第六十一條之規定，聲請登記。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "第六條所定之法人，如未備置財產目錄、社員名簿者，應於民法總則施行後速行編造。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "第六條所定之法人，如未備置財產目錄、社員名簿者，應於民法總則施行後速行編造。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "第六條至第八條之規定，於祠堂、寺廟及以養贍家族為目的之獨立財產，不適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "第六條至第八條之規定，於祠堂、寺廟及以養贍家族為目的之獨立財產，不適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "1   依民法總則規定法人之登記，其主管機關為該法人事務所所在地之法院。\n2   法院對於已登記之事項，應速行公告，並許第三人抄錄或閱覽。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   依民法總則規定法人之登記，其主管機關為該法人事務所所在地之法院。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   法院對於已登記之事項，應速行公告，並許第三人抄錄或閱覽。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "外國法人，除依法律規定外，不認許其成立。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "外國法人，除依法律規定外，不認許其成立。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "1   經認許之外國法人，於法令限制內，與同種類之我國法人有同一之權利能力。\n2   前項外國法人，其服從我國法律之義務，與我國法人同。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   經認許之外國法人，於法令限制內，與同種類之我國法人有同一之權利能力。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項外國法人，其服從我國法律之義務，與我國法人同。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "外國法人在我國設事務所者，準用民法總則第三十條、第三十一條、第四十五條、第四十六條、第四十八條、第五十九條、第六十一條及前條之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "外國法人在我國設事務所者，準用民法總則第三十條、第三十一條、第四十五條、第四十六條、第四十八條、第五十九條、第六十一條及前條之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "依前條所設之外國法人事務所，如有民法總則第三十六條所定情事，法院得撤銷之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "依前條所設之外國法人事務所，如有民法總則第三十六條所定情事，法院得撤銷之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "未經認許其成立之外國法人，以其名義與他人為法律行為者，其行為人就該法律行為應與該外國法人負連帶責任。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "未經認許其成立之外國法人，以其名義與他人為法律行為者，其行為人就該法律行為應與該外國法人負連帶責任。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "民法總則施行前，依民法總則之規定，消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起，一年內行使請求權，但自其時效完成後，至民法總則施行時，已逾民法總則所定時效期間二分之一者，不在此限。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法總則施行前，依民法總則之規定，消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起，一年內行使請求權，但自其時效完成後，至民法總則施行時，已逾民法總則所定時效期間二分之一者，不在此限。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "民法總則第七十四條第二項、第九十條、第九十三條之撤銷權，準用前條之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法總則第七十四條第二項、第九十條、第九十三條之撤銷權，準用前條之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-18",
+        "articleNumber": "18",
+        "displayNumber": "第 18 條",
+        "title": null,
+        "plainText": "1   民法總則施行前之法定消滅時效已完成者，其時效為完成。\n2   民法總則施行前之法定消滅時效，其期間較民法總則所定為長者，適用舊法，但其殘餘期間，自民法總則施行日起算較民法總則所定時效期間為長者，應自施行日起，適用民法總則。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法總則施行前之法定消滅時效已完成者，其時效為完成。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法總則施行前之法定消滅時效，其期間較民法總則所定為長者，適用舊法，但其殘餘期間，自民法總則施行日起算較民法總則所定時效期間為長者，應自施行日起，適用民法總則。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      },
+      {
+        "id": "article-19",
+        "articleNumber": "19",
+        "displayNumber": "第 19 條",
+        "title": null,
+        "plainText": "1   本施行法自民法總則施行之日施行。\n2   民法總則修正條文及本施行法修正條文之施行日期，除另定施行日期者外，自公布日施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本施行法自民法總則施行之日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法總則修正條文及本施行法修正條文之施行日期，除另定施行日期者外，自公布日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法總則施行法（PDF：民法總則施行法.pdf）",
+          "lastModified": "2021-01-13"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "civil-code-framework",
+        "name": "民法及其施行法框架",
+        "description": "彙整民法各編本文及其對應施行法，供查考各編修正條文之適用與施行日期規定。",
+        "aliases": [
+          "民法體系"
+        ],
+        "tags": [
+          "民法",
+          "施行法"
+        ],
+        "role": "supporting",
+        "sortOrder": 1
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "id": "link-tw-civil-code-general-principles-enforcement-act-1",
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": null,
+        "label": "所施行之本法",
+        "relationType": "application",
+        "conditionText": "本施行法規定民法總則編之施行日期及新舊法適用關係。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "民法總則"
+        ],
+        "linkMode": "automatic",
+        "sortOrder": 0
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民事在民法總則施行前發生者，除本施行法有特別規定外，不適用民法總則之規定，其在修正前發生者，除本施行法有特別規定外，亦不適用修正後之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "民事在"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-2",
+        "sortOrder": 1
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-3",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法總則第八條、第九條及第十一條之規定，於民法總則施行前失蹤者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "8",
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-3",
+        "sortOrder": 2
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-3-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   中華民國一百零九年十二月二十五日修正之民法第十二條及第十三條，自一百十二年一月一日施行。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "12",
+        "triggerTerms": [
+          "日修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-4",
+        "sortOrder": 3
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-4",
+        "label": "引用民法",
+        "relationType": "authorization",
+        "conditionText": "1   民法總則施行前，有民法總則第十四條所定之原因，經聲請有關機關立案者，如於民法總則施行後三個月內向法院聲請宣告禁治產者，自立案之日起，視為禁治產人。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "14",
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-5",
+        "sortOrder": 4
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-4-1",
+        "label": "引用民法",
+        "relationType": "authorization",
+        "conditionText": "民法規定之禁治產或禁治產人，自民法總則中華民國九十七年五月二日修正之條文施行後，一律改稱為監護或受監護宣告之人。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-6",
+        "sortOrder": 5
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-4-2",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "中華民國九十七年五月二日修正之民法總則第十四條至第十五條之二之規定，自公布後一年六個月施行。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "14",
+        "triggerTerms": [
+          "日修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-7",
+        "sortOrder": 6
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-5",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "依民法總則之規定，設立法人須經許可者，如在民法總則施行前已得主管機關之許可，得於民法總則施行後三個月內聲請登記為法人。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-8",
+        "sortOrder": 7
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-6",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法總則施行前具有財團及以公益為目的社團之性質而有獨立財產者，視為法人，其代表人應依民法總則第四十七條或第六十條之規定作成書狀，自民法總則施行後六個月內聲請主管機關審核。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "47",
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-9",
+        "sortOrder": 8
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-7",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "依前條規定經主管機關核定者，其法人之代表人，應於核定後二十日內，依民法總則第四十八條或第六十一條之規定，聲請登記。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "48",
+        "triggerTerms": [
+          "日內，依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-10",
+        "sortOrder": 9
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-8",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "第六條所定之法人，如未備置財產目錄、社員名簿者，應於民法總則施行後速行編造。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "者，應於"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-11",
+        "sortOrder": 10
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-10",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   依民法總則規定法人之登記，其主管機關為該法人事務所所在地之法院。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "   依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-12",
+        "sortOrder": 11
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-13",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "外國法人在我國設事務所者，準用民法總則第三十條、第三十一條、第四十五條、第四十六條、第四十八條、第五十九條、第六十一條及前條之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "30",
+        "triggerTerms": [
+          "者，準用"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-13",
+        "sortOrder": 12
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-14",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "依前條所設之外國法人事務所，如有民法總則第三十六條所定情事，法院得撤銷之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "36",
+        "triggerTerms": [
+          "所，如有"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-14",
+        "sortOrder": 13
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-16",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法總則施行前，依民法總則之規定，消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起，一年內行使請求權，但自其時效完成後，至民法總則施行時，已逾民法總則所定時效期間二分之一者，不在此限。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-15",
+        "sortOrder": 14
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-17",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法總則第七十四條第二項、第九十條、第九十三條之撤銷權，準用前條之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "74",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-16",
+        "sortOrder": 15
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-18",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法總則施行前之法定消滅時效已完成者，其時效為完成。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-17",
+        "sortOrder": 16
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-19",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   本施行法自民法總則施行之日施行。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "施行法自"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-general-principles-enforcement-act-cite-18",
+        "sortOrder": 17
+      }
+    ],
+    "definedTerms": []
+  }
+}

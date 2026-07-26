@@ -1,0 +1,2839 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "本版本施行日期無法自來源確認，effectiveDate 填 null，理由見 effectiveDateNote。",
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-petitions-and-appeals-act",
+    "code": "UNKNOWN",
+    "name": "訴願法",
+    "shortName": "訴願法",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-petitions-and-appeals-act-20120627",
+      "label": "修正日期：民國 101 年 06 月 27 日",
+      "promulgationDate": "2012-06-27",
+      "effectiveDate": null,
+      "effectiveDateNote": "依第101條第2項，本法修正條文之施行日期，由行政院以命令定之；來源文本未載行政院所定之具體施行日期，故本修正版本不填施行日。第1項另定本法自公布日施行（適用於本法首次施行，非本次修正）。",
+      "status": "effective"
+    },
+    "structure": [
+      {
+        "id": "chapter-1",
+        "type": "chapter",
+        "label": "第 一 章 總則",
+        "parentId": null,
+        "sortOrder": 0
+      },
+      {
+        "id": "section-2",
+        "type": "section",
+        "label": "第 一 節 訴願事件",
+        "parentId": "chapter-1",
+        "sortOrder": 1
+      },
+      {
+        "id": "section-3",
+        "type": "section",
+        "label": "第 二 節 管轄",
+        "parentId": "chapter-1",
+        "sortOrder": 2
+      },
+      {
+        "id": "section-4",
+        "type": "section",
+        "label": "第 三 節 期日及期間",
+        "parentId": "chapter-1",
+        "sortOrder": 3
+      },
+      {
+        "id": "section-5",
+        "type": "section",
+        "label": "第 四 節 訴願人",
+        "parentId": "chapter-1",
+        "sortOrder": 4
+      },
+      {
+        "id": "section-6",
+        "type": "section",
+        "label": "第 五 節 送達",
+        "parentId": "chapter-1",
+        "sortOrder": 5
+      },
+      {
+        "id": "section-7",
+        "type": "section",
+        "label": "第 六 節 訴願卷宗",
+        "parentId": "chapter-1",
+        "sortOrder": 6
+      },
+      {
+        "id": "chapter-8",
+        "type": "chapter",
+        "label": "第 二 章 訴願審議委員會",
+        "parentId": null,
+        "sortOrder": 7
+      },
+      {
+        "id": "chapter-9",
+        "type": "chapter",
+        "label": "第 三 章 訴願程序",
+        "parentId": null,
+        "sortOrder": 8
+      },
+      {
+        "id": "section-10",
+        "type": "section",
+        "label": "第 一 節 訴願之提起",
+        "parentId": "chapter-9",
+        "sortOrder": 9
+      },
+      {
+        "id": "section-11",
+        "type": "section",
+        "label": "第 二 節 訴願審議",
+        "parentId": "chapter-9",
+        "sortOrder": 10
+      },
+      {
+        "id": "section-12",
+        "type": "section",
+        "label": "第 三 節 訴願決定",
+        "parentId": "chapter-9",
+        "sortOrder": 11
+      },
+      {
+        "id": "chapter-13",
+        "type": "chapter",
+        "label": "第 四 章 再審程序",
+        "parentId": null,
+        "sortOrder": 12
+      },
+      {
+        "id": "chapter-14",
+        "type": "chapter",
+        "label": "第 五 章 附則",
+        "parentId": null,
+        "sortOrder": 13
+      }
+    ],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "1   人民對於中央或地方機關之行政處分，認為違法或不當，致損害其權利或利益者，得依本法提起訴願。但法律另有規定者，從其規定。\n2   各級地方自治團體或其他公法人對上級監督機關之行政處分，認為違法或不當，致損害其權利或利益者，亦同。",
+        "structureId": "section-2",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   人民對於中央或地方機關之行政處分，認為違法或不當，致損害其權利或利益者，得依本法提起訴願。但法律另有規定者，從其規定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   各級地方自治團體或其他公法人對上級監督機關之行政處分，認為違法或不當，致損害其權利或利益者，亦同。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "1   人民因中央或地方機關對其依法申請之案件，於法定期間內應作為而不作為，認為損害其權利或利益者，亦得提起訴願。\n2   前項期間，法令未規定者，自機關受理申請之日起為二個月。",
+        "structureId": "section-2",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   人民因中央或地方機關對其依法申請之案件，於法定期間內應作為而不作為，認為損害其權利或利益者，亦得提起訴願。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項期間，法令未規定者，自機關受理申請之日起為二個月。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "1   本法所稱行政處分，係指中央或地方機關就公法上具體事件所為之決定或其他公權力措施而對外直接發生法律效果之單方行政行為。\n2   前項決定或措施之相對人雖非特定，而依一般性特徵可得確定其範圍者，亦為行政處分。有關公物之設定、變更、廢止或一般使用者，亦同。",
+        "structureId": "section-2",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法所稱行政處分，係指中央或地方機關就公法上具體事件所為之決定或其他公權力措施而對外直接發生法律效果之單方行政行為。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項決定或措施之相對人雖非特定，而依一般性特徵可得確定其範圍者，亦為行政處分。有關公物之設定、變更、廢止或一般使用者，亦同。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "訴願之管轄如左：\n一、不服鄉（鎮、市）公所之行政處分者，向縣（市）政府提起訴願。\n二、不服縣（市）政府所屬各級機關之行政處分者，向縣（市）政府提起訴願。\n三、不服縣（市）政府之行政處分者，向中央主管部、會、行、處、局、署提起訴願。\n四、不服直轄市政府所屬各級機關之行政處分者，向直轄市政府提起訴願。\n五、不服直轄市政府之行政處分者，向中央主管部、會、行、處、局、署提起訴願。\n六、不服中央各部、會、行、處、局、署所屬機關之行政處分者，向各部、會、行、處、局、署提起訴願。\n七、不服中央各部、會、行、處、局、署之行政處分者，向主管院提起訴願。\n八、不服中央各院之行政處分者，向原院提起訴願。",
+        "structureId": "section-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願之管轄如左："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、不服鄉（鎮、市）公所之行政處分者，向縣（市）政府提起訴願。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、不服縣（市）政府所屬各級機關之行政處分者，向縣（市）政府提起訴願。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、不服縣（市）政府之行政處分者，向中央主管部、會、行、處、局、署提起訴願。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、不服直轄市政府所屬各級機關之行政處分者，向直轄市政府提起訴願。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、不服直轄市政府之行政處分者，向中央主管部、會、行、處、局、署提起訴願。"
+          },
+          {
+            "type": "item",
+            "number": "六",
+            "text": "六、不服中央各部、會、行、處、局、署所屬機關之行政處分者，向各部、會、行、處、局、署提起訴願。"
+          },
+          {
+            "type": "item",
+            "number": "七",
+            "text": "七、不服中央各部、會、行、處、局、署之行政處分者，向主管院提起訴願。"
+          },
+          {
+            "type": "item",
+            "number": "八",
+            "text": "八、不服中央各院之行政處分者，向原院提起訴願。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "1   人民對於前條以外之中央或地方機關之行政處分提起訴願時，應按其管轄等級，比照前條之規定為之。\n2   訴願管轄，法律另有規定依其業務監督定之者，從其規定。",
+        "structureId": "section-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   人民對於前條以外之中央或地方機關之行政處分提起訴願時，應按其管轄等級，比照前條之規定為之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   訴願管轄，法律另有規定依其業務監督定之者，從其規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "對於二以上不同隸屬或不同層級之機關共為之行政處分，應向其共同之上級機關提起訴願。",
+        "structureId": "section-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "對於二以上不同隸屬或不同層級之機關共為之行政處分，應向其共同之上級機關提起訴願。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "無隸屬關係之機關辦理受託事件所為之行政處分，視為委託機關之行政處分，其訴願之管轄，比照第四條之規定，向原委託機關或其直接上級機關提起訴願。",
+        "structureId": "section-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "無隸屬關係之機關辦理受託事件所為之行政處分，視為委託機關之行政處分，其訴願之管轄，比照第四條之規定，向原委託機關或其直接上級機關提起訴願。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "有隸屬關係之下級機關依法辦理上級機關委任事件所為之行政處分，為受委任機關之行政處分，其訴願之管轄，比照第四條之規定，向受委任機關或其直接上級機關提起訴願。",
+        "structureId": "section-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "有隸屬關係之下級機關依法辦理上級機關委任事件所為之行政處分，為受委任機關之行政處分，其訴願之管轄，比照第四條之規定，向受委任機關或其直接上級機關提起訴願。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "直轄市政府、縣（市）政府或其所屬機關及鄉（鎮、市）公所依法辦理上級政府或其所屬機關委辦事件所為之行政處分，為受委辦機關之行政處分，其訴願之管轄，比照第四條之規定，向受委辦機關之直接上級機關提起訴願。",
+        "structureId": "section-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "直轄市政府、縣（市）政府或其所屬機關及鄉（鎮、市）公所依法辦理上級政府或其所屬機關委辦事件所為之行政處分，為受委辦機關之行政處分，其訴願之管轄，比照第四條之規定，向受委辦機關之直接上級機關提起訴願。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "依法受中央或地方機關委託行使公權力之團體或個人，以其團體或個人名義所為之行政處分，其訴願之管轄，向原委託機關提起訴願。",
+        "structureId": "section-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "依法受中央或地方機關委託行使公權力之團體或個人，以其團體或個人名義所為之行政處分，其訴願之管轄，向原委託機關提起訴願。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "原行政處分機關裁撤或改組，應以承受其業務之機關視為原行政處分機關，比照前七條之規定，向承受其業務之機關或其直接上級機關提起訴願。",
+        "structureId": "section-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "原行政處分機關裁撤或改組，應以承受其業務之機關視為原行政處分機關，比照前七條之規定，向承受其業務之機關或其直接上級機關提起訴願。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "1   數機關於管轄權有爭議或因管轄不明致不能辨明有管轄權之機關者，由其共同之直接上級機關確定之。\n2   無管轄權之機關就訴願所為決定，其上級機關應依職權或依申請撤銷之，並命移送於有管轄權之機關。",
+        "structureId": "section-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   數機關於管轄權有爭議或因管轄不明致不能辨明有管轄權之機關者，由其共同之直接上級機關確定之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   無管轄權之機關就訴願所為決定，其上級機關應依職權或依申請撤銷之，並命移送於有管轄權之機關。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "原行政處分機關之認定，以實施行政處分時之名義為準。但上級機關本於法定職權所為之行政處分，交由下級機關執行者，以該上級機關為原行政處分機關。",
+        "structureId": "section-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "原行政處分機關之認定，以實施行政處分時之名義為準。但上級機關本於法定職權所為之行政處分，交由下級機關執行者，以該上級機關為原行政處分機關。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "1   訴願之提起，應自行政處分達到或公告期滿之次日起三十日內為之。\n2   利害關係人提起訴願者，前項期間自知悉時起算。但自行政處分達到或公告期滿後，已逾三年者，不得提起。\n3   訴願之提起，以原行政處分機關或受理訴願機關收受訴願書之日期為準。\n4   訴願人誤向原行政處分機關或受理訴願機關以外之機關提起訴願者，以該機關收受之日，視為提起訴願之日。",
+        "structureId": "section-4",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願之提起，應自行政處分達到或公告期滿之次日起三十日內為之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   利害關係人提起訴願者，前項期間自知悉時起算。但自行政處分達到或公告期滿後，已逾三年者，不得提起。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   訴願之提起，以原行政處分機關或受理訴願機關收受訴願書之日期為準。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   訴願人誤向原行政處分機關或受理訴願機關以外之機關提起訴願者，以該機關收受之日，視為提起訴願之日。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "1   訴願人因天災或其他不應歸責於己之事由，致遲誤前條之訴願期間者，於其原因消滅後十日內，得以書面敘明理由向受理訴願機關申請回復原狀。但遲誤訴願期間已逾一年者，不得為之。\n2   申請回復原狀，應同時補行期間內應為之訴願行為。",
+        "structureId": "section-4",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願人因天災或其他不應歸責於己之事由，致遲誤前條之訴願期間者，於其原因消滅後十日內，得以書面敘明理由向受理訴願機關申請回復原狀。但遲誤訴願期間已逾一年者，不得為之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   申請回復原狀，應同時補行期間內應為之訴願行為。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "1   訴願人不在受理訴願機關所在地住居者，計算法定期間，應扣除其在途期間。但有訴願代理人住居受理訴願機關所在地，得為期間內應為之訴願行為者，不在此限。\n2   前項扣除在途期間辦法，由行政院定之。",
+        "structureId": "section-4",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願人不在受理訴願機關所在地住居者，計算法定期間，應扣除其在途期間。但有訴願代理人住居受理訴願機關所在地，得為期間內應為之訴願行為者，不在此限。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項扣除在途期間辦法，由行政院定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "期間之計算，除法律另有規定外，依民法之規定。",
+        "structureId": "section-4",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "期間之計算，除法律另有規定外，依民法之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-18",
+        "articleNumber": "18",
+        "displayNumber": "第 18 條",
+        "title": null,
+        "plainText": "自然人、法人、非法人之團體或其他受行政處分之相對人及利害關係人得提起訴願。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "自然人、法人、非法人之團體或其他受行政處分之相對人及利害關係人得提起訴願。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-19",
+        "articleNumber": "19",
+        "displayNumber": "第 19 條",
+        "title": null,
+        "plainText": "能獨立以法律行為負義務者，有訴願能力。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "能獨立以法律行為負義務者，有訴願能力。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-20",
+        "articleNumber": "20",
+        "displayNumber": "第 20 條",
+        "title": null,
+        "plainText": "1   無訴願能力人應由其法定代理人代為訴願行為。\n2   地方自治團體、法人、非法人之團體應由其代表人或管理人為訴願行為。\n3   關於訴願之法定代理，依民法規定。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   無訴願能力人應由其法定代理人代為訴願行為。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   地方自治團體、法人、非法人之團體應由其代表人或管理人為訴願行為。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   關於訴願之法定代理，依民法規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-21",
+        "articleNumber": "21",
+        "displayNumber": "第 21 條",
+        "title": null,
+        "plainText": "1   二人以上得對於同一原因事實之行政處分，共同提起訴願。\n2   前項訴願之提起，以同一機關管轄者為限。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   二人以上得對於同一原因事實之行政處分，共同提起訴願。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項訴願之提起，以同一機關管轄者為限。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-22",
+        "articleNumber": "22",
+        "displayNumber": "第 22 條",
+        "title": null,
+        "plainText": "1   共同提起訴願，得選定其中一人至三人為代表人。\n2   選定代表人應於最初為訴願行為時，向受理訴願機關提出文書證明。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   共同提起訴願，得選定其中一人至三人為代表人。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   選定代表人應於最初為訴願行為時，向受理訴願機關提出文書證明。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-23",
+        "articleNumber": "23",
+        "displayNumber": "第 23 條",
+        "title": null,
+        "plainText": "共同提起訴願，未選定代表人者，受理訴願機關得限期通知其選定；逾期不選定者，得依職權指定之。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "共同提起訴願，未選定代表人者，受理訴願機關得限期通知其選定；逾期不選定者，得依職權指定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-24",
+        "articleNumber": "24",
+        "displayNumber": "第 24 條",
+        "title": null,
+        "plainText": "代表人經選定或指定後，由其代表全體訴願人為訴願行為。但撤回訴願，非經全體訴願人書面同意，不得為之。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "代表人經選定或指定後，由其代表全體訴願人為訴願行為。但撤回訴願，非經全體訴願人書面同意，不得為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-25",
+        "articleNumber": "25",
+        "displayNumber": "第 25 條",
+        "title": null,
+        "plainText": "1   代表人經選定或指定後，仍得更換或增減之。\n2   前項代表人之更換或增減，非以書面通知受理訴願機關，不生效力。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   代表人經選定或指定後，仍得更換或增減之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項代表人之更換或增減，非以書面通知受理訴願機關，不生效力。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-26",
+        "articleNumber": "26",
+        "displayNumber": "第 26 條",
+        "title": null,
+        "plainText": "代表人有二人以上者，均得單獨代表共同訴願人為訴願行為。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "代表人有二人以上者，均得單獨代表共同訴願人為訴願行為。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-27",
+        "articleNumber": "27",
+        "displayNumber": "第 27 條",
+        "title": null,
+        "plainText": "代表人之代表權不因其他共同訴願人死亡、喪失行為能力或法定代理變更而消滅。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "代表人之代表權不因其他共同訴願人死亡、喪失行為能力或法定代理變更而消滅。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-28",
+        "articleNumber": "28",
+        "displayNumber": "第 28 條",
+        "title": null,
+        "plainText": "1   與訴願人利害關係相同之人，經受理訴願機關允許，得為訴願人之利益參加訴願。受理訴願機關認有必要時，亦得通知其參加訴願。\n2   訴願決定因撤銷或變更原處分，足以影響第三人權益者，受理訴願機關應於作成訴願決定之前，通知其參加訴願程序，表示意見。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   與訴願人利害關係相同之人，經受理訴願機關允許，得為訴願人之利益參加訴願。受理訴願機關認有必要時，亦得通知其參加訴願。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   訴願決定因撤銷或變更原處分，足以影響第三人權益者，受理訴願機關應於作成訴願決定之前，通知其參加訴願程序，表示意見。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-29",
+        "articleNumber": "29",
+        "displayNumber": "第 29 條",
+        "title": null,
+        "plainText": "1   申請參加訴願，應以書面向受理訴願機關為之。\n2   參加訴願應以書面記載左列事項：\n一、本訴願及訴願人。\n二、參加人與本訴願之利害關係。\n三、參加訴願之陳述。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   申請參加訴願，應以書面向受理訴願機關為之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   參加訴願應以書面記載左列事項："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、本訴願及訴願人。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、參加人與本訴願之利害關係。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、參加訴願之陳述。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-30",
+        "articleNumber": "30",
+        "displayNumber": "第 30 條",
+        "title": null,
+        "plainText": "1   通知參加訴願，應記載訴願意旨、通知參加之理由及不參加之法律效果，送達於參加人，並副知訴願人。\n2   受理訴願機關為前項之通知前，得通知訴願人或得參加訴願之第三人以書面陳述意見。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   通知參加訴願，應記載訴願意旨、通知參加之理由及不參加之法律效果，送達於參加人，並副知訴願人。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   受理訴願機關為前項之通知前，得通知訴願人或得參加訴願之第三人以書面陳述意見。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-31",
+        "articleNumber": "31",
+        "displayNumber": "第 31 條",
+        "title": null,
+        "plainText": "訴願決定對於參加人亦有效力。經受理訴願機關通知其參加或允許其參加而未參加者，亦同。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願決定對於參加人亦有效力。經受理訴願機關通知其參加或允許其參加而未參加者，亦同。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-32",
+        "articleNumber": "32",
+        "displayNumber": "第 32 條",
+        "title": null,
+        "plainText": "訴願人或參加人得委任代理人進行訴願。每一訴願人或參加人委任之訴願代理人不得超過三人。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願人或參加人得委任代理人進行訴願。每一訴願人或參加人委任之訴願代理人不得超過三人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-33",
+        "articleNumber": "33",
+        "displayNumber": "第 33 條",
+        "title": null,
+        "plainText": "1   左列之人，得為訴願代理人：\n一、律師。\n二、依法令取得與訴願事件有關之代理人資格者。\n三、具有該訴願事件之專業知識者。\n四、因業務或職務關係為訴願人之代理人者。\n五、與訴願人有親屬關係者。\n2   前項第三款至第五款之訴願代理人，受理訴願機關認為不適當時，得禁止之，並以書面通知訴願人或參加人。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   左列之人，得為訴願代理人："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、律師。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、依法令取得與訴願事件有關之代理人資格者。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、具有該訴願事件之專業知識者。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、因業務或職務關係為訴願人之代理人者。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、與訴願人有親屬關係者。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項第三款至第五款之訴願代理人，受理訴願機關認為不適當時，得禁止之，並以書面通知訴願人或參加人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-34",
+        "articleNumber": "34",
+        "displayNumber": "第 34 條",
+        "title": null,
+        "plainText": "訴願代理人應於最初為訴願行為時，向受理訴願機關提出委任書。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願代理人應於最初為訴願行為時，向受理訴願機關提出委任書。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-35",
+        "articleNumber": "35",
+        "displayNumber": "第 35 條",
+        "title": null,
+        "plainText": "訴願代理人就其受委任之事件，得為一切訴願行為。但撤回訴願，非受特別委任不得為之。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願代理人就其受委任之事件，得為一切訴願行為。但撤回訴願，非受特別委任不得為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-36",
+        "articleNumber": "36",
+        "displayNumber": "第 36 條",
+        "title": null,
+        "plainText": "1   訴願代理人有二人以上者，均得單獨代理訴願人。\n2   違反前項規定而為委任者，其訴願代理人仍得單獨代理。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願代理人有二人以上者，均得單獨代理訴願人。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   違反前項規定而為委任者，其訴願代理人仍得單獨代理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-37",
+        "articleNumber": "37",
+        "displayNumber": "第 37 條",
+        "title": null,
+        "plainText": "訴願代理人事實上之陳述，經到場之訴願人本人即時撤銷或更正者，不生效力。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願代理人事實上之陳述，經到場之訴願人本人即時撤銷或更正者，不生效力。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-38",
+        "articleNumber": "38",
+        "displayNumber": "第 38 條",
+        "title": null,
+        "plainText": "訴願代理權不因訴願人本人死亡、破產或喪失訴願能力而消滅。法定代理有變更、機關經裁撤、改組或公司、團體經解散、變更組織者，亦同。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願代理權不因訴願人本人死亡、破產或喪失訴願能力而消滅。法定代理有變更、機關經裁撤、改組或公司、團體經解散、變更組織者，亦同。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-39",
+        "articleNumber": "39",
+        "displayNumber": "第 39 條",
+        "title": null,
+        "plainText": "訴願委任之解除，應由訴願人、參加人或訴願代理人以書面通知受理訴願機關。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願委任之解除，應由訴願人、參加人或訴願代理人以書面通知受理訴願機關。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-40",
+        "articleNumber": "40",
+        "displayNumber": "第 40 條",
+        "title": null,
+        "plainText": "訴願委任之解除，由訴願代理人提出者，自為解除意思表示之日起十五日內，仍應為維護訴願人或參加人權利或利益之必要行為。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願委任之解除，由訴願代理人提出者，自為解除意思表示之日起十五日內，仍應為維護訴願人或參加人權利或利益之必要行為。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-41",
+        "articleNumber": "41",
+        "displayNumber": "第 41 條",
+        "title": null,
+        "plainText": "1   訴願人、參加人或訴願代理人經受理訴願機關之許可，得於期日偕同輔佐人到場。\n2   受理訴願機關認為必要時，亦得命訴願人、參加人或訴願代理人偕同輔佐人到場。\n3   前二項之輔佐人，受理訴願機關認為不適當時，得廢止其許可或禁止其續為輔佐。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願人、參加人或訴願代理人經受理訴願機關之許可，得於期日偕同輔佐人到場。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   受理訴願機關認為必要時，亦得命訴願人、參加人或訴願代理人偕同輔佐人到場。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   前二項之輔佐人，受理訴願機關認為不適當時，得廢止其許可或禁止其續為輔佐。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-42",
+        "articleNumber": "42",
+        "displayNumber": "第 42 條",
+        "title": null,
+        "plainText": "輔佐人到場所為之陳述，訴願人、參加人或訴願代理人不即時撤銷或更正者，視為其所自為。",
+        "structureId": "section-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "輔佐人到場所為之陳述，訴願人、參加人或訴願代理人不即時撤銷或更正者，視為其所自為。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-43",
+        "articleNumber": "43",
+        "displayNumber": "第 43 條",
+        "title": null,
+        "plainText": "送達除別有規定外，由受理訴願機關依職權為之。",
+        "structureId": "section-6",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "送達除別有規定外，由受理訴願機關依職權為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-44",
+        "articleNumber": "44",
+        "displayNumber": "第 44 條",
+        "title": null,
+        "plainText": "1   對於無訴願能力人為送達者，應向其法定代理人為之；未經陳明法定代理人者，得向該無訴願能力人為送達。\n2   對於法人或非法人之團體為送達者，應向其代表人或管理人為之。\n3   法定代理人、代表人或管理人有二人以上者，送達得僅向其中一人為之。",
+        "structureId": "section-6",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   對於無訴願能力人為送達者，應向其法定代理人為之；未經陳明法定代理人者，得向該無訴願能力人為送達。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   對於法人或非法人之團體為送達者，應向其代表人或管理人為之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   法定代理人、代表人或管理人有二人以上者，送達得僅向其中一人為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-45",
+        "articleNumber": "45",
+        "displayNumber": "第 45 條",
+        "title": null,
+        "plainText": "1   對於在中華民國有事務所或營業所之外國法人或團體為送達者，應向其在中華民國之代表人或管理人為之。\n2   前項代表人或管理人有二人以上者，送達得僅向其中一人為之。",
+        "structureId": "section-6",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   對於在中華民國有事務所或營業所之外國法人或團體為送達者，應向其在中華民國之代表人或管理人為之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項代表人或管理人有二人以上者，送達得僅向其中一人為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-46",
+        "articleNumber": "46",
+        "displayNumber": "第 46 條",
+        "title": null,
+        "plainText": "訴願代理人除受送達之權限受有限制者外，送達應向該代理人為之。但受理訴願機關認為必要時，得送達於訴願人或參加人本人。",
+        "structureId": "section-6",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願代理人除受送達之權限受有限制者外，送達應向該代理人為之。但受理訴願機關認為必要時，得送達於訴願人或參加人本人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-47",
+        "articleNumber": "47",
+        "displayNumber": "第 47 條",
+        "title": null,
+        "plainText": "1   訴願文書之送達，應註明訴願人、參加人或其代表人、訴願代理人住、居所、事務所或營業所，交付郵政機關以訴願文書郵務送達證書發送。\n2   訴願文書不能為前項送達時，得由受理訴願機關派員或囑託原行政處分機關或該管警察機關送達，並由執行送達人作成送達證書。\n3   訴願文書之送達，除前二項規定外，準用行政訴訟法第六十七條至第六十九條、第七十一條至第八十三條之規定。",
+        "structureId": "section-6",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願文書之送達，應註明訴願人、參加人或其代表人、訴願代理人住、居所、事務所或營業所，交付郵政機關以訴願文書郵務送達證書發送。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   訴願文書不能為前項送達時，得由受理訴願機關派員或囑託原行政處分機關或該管警察機關送達，並由執行送達人作成送達證書。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   訴願文書之送達，除前二項規定外，準用行政訴訟法第六十七條至第六十九條、第七十一條至第八十三條之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-48",
+        "articleNumber": "48",
+        "displayNumber": "第 48 條",
+        "title": null,
+        "plainText": "關於訴願事件之文書，受理訴願機關應保存者，應由承辦人員編為卷宗。",
+        "structureId": "section-7",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "關於訴願事件之文書，受理訴願機關應保存者，應由承辦人員編為卷宗。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-49",
+        "articleNumber": "49",
+        "displayNumber": "第 49 條",
+        "title": null,
+        "plainText": "1   訴願人、參加人或訴願代理人得向受理訴願機關請求閱覽、抄錄、影印或攝影卷內文書，或預納費用請求付與繕本、影本或節本。\n2   前項之收費標準，由主管院定之。",
+        "structureId": "section-7",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願人、參加人或訴願代理人得向受理訴願機關請求閱覽、抄錄、影印或攝影卷內文書，或預納費用請求付與繕本、影本或節本。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項之收費標準，由主管院定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-50",
+        "articleNumber": "50",
+        "displayNumber": "第 50 條",
+        "title": null,
+        "plainText": "第三人經訴願人同意或釋明有法律上之利害關係，經受理訴願機關許可者，亦得為前條之請求。",
+        "structureId": "section-7",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "第三人經訴願人同意或釋明有法律上之利害關係，經受理訴願機關許可者，亦得為前條之請求。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-51",
+        "articleNumber": "51",
+        "displayNumber": "第 51 條",
+        "title": null,
+        "plainText": "左列文書，受理訴願機關應拒絕前二條之請求：\n一、訴願決定擬辦之文稿。\n二、訴願決定之準備或審議文件。\n三、為第三人正當權益有保密之必要者。\n四、其他依法律或基於公益，有保密之必要者。",
+        "structureId": "section-7",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "左列文書，受理訴願機關應拒絕前二條之請求："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、訴願決定擬辦之文稿。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、訴願決定之準備或審議文件。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、為第三人正當權益有保密之必要者。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、其他依法律或基於公益，有保密之必要者。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-52",
+        "articleNumber": "52",
+        "displayNumber": "第 52 條",
+        "title": null,
+        "plainText": "1   各機關辦理訴願事件，應設訴願審議委員會，組成人員以具有法制專長者為原則。\n2   訴願審議委員會委員，由本機關高級職員及遴聘社會公正人士、學者、專家擔任之；其中社會公正人士、學者、專家人數不得少於二分之一。\n3   訴願審議委員會組織規程及審議規則，由主管院定之。",
+        "structureId": "chapter-8",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   各機關辦理訴願事件，應設訴願審議委員會，組成人員以具有法制專長者為原則。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   訴願審議委員會委員，由本機關高級職員及遴聘社會公正人士、學者、專家擔任之；其中社會公正人士、學者、專家人數不得少於二分之一。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   訴願審議委員會組織規程及審議規則，由主管院定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-53",
+        "articleNumber": "53",
+        "displayNumber": "第 53 條",
+        "title": null,
+        "plainText": "訴願決定應經訴願審議委員會會議之決議，其決議以委員過半數之出席，出席委員過半數之同意行之。",
+        "structureId": "chapter-8",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願決定應經訴願審議委員會會議之決議，其決議以委員過半數之出席，出席委員過半數之同意行之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-54",
+        "articleNumber": "54",
+        "displayNumber": "第 54 條",
+        "title": null,
+        "plainText": "1   訴願審議委員會審議訴願事件，應指定人員製作審議紀錄附卷。委員於審議中所持與決議不同之意見，經其請求者，應列入紀錄。\n2   訴願審議經言詞辯論者，應另行製作筆錄，編為前項紀錄之附件，並準用民事訴訟法第二百十二條至第二百十九條之規定。",
+        "structureId": "chapter-8",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願審議委員會審議訴願事件，應指定人員製作審議紀錄附卷。委員於審議中所持與決議不同之意見，經其請求者，應列入紀錄。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   訴願審議經言詞辯論者，應另行製作筆錄，編為前項紀錄之附件，並準用民事訴訟法第二百十二條至第二百十九條之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-55",
+        "articleNumber": "55",
+        "displayNumber": "第 55 條",
+        "title": null,
+        "plainText": "訴願審議委員會主任委員或委員對於訴願事件有利害關係者，應自行迴避，不得參與審議。",
+        "structureId": "chapter-8",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願審議委員會主任委員或委員對於訴願事件有利害關係者，應自行迴避，不得參與審議。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-56",
+        "articleNumber": "56",
+        "displayNumber": "第 56 條",
+        "title": null,
+        "plainText": "1   訴願應具訴願書，載明左列事項，由訴願人或代理人簽名或蓋章：\n一、訴願人之姓名、出生年月日、住、居所、身分證明文件字號。如係法人或其他設有管理人或代表人之團體，其名稱、事務所或營業所及管理人或代表人之姓名、出生年月日、住、居所。\n二、有訴願代理人者，其姓名、出生年月日、住、居所、身分證明文件字號。\n三、原行政處分機關。\n四、訴願請求事項。\n五、訴願之事實及理由。\n六、收受或知悉行政處分之年、月、日。\n七、受理訴願之機關。\n八、證據。其為文書者，應添具繕本或影本。\n九、年、月、日。\n2   訴願應附原行政處分書影本。\n3   依第二條第一項規定提起訴願者，第一項第三款、第六款所列事項，載明應為行政處分之機關、提出申請之年、月、日，並附原申請書之影本及受理申請機關收受證明。",
+        "structureId": "section-10",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願應具訴願書，載明左列事項，由訴願人或代理人簽名或蓋章："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、訴願人之姓名、出生年月日、住、居所、身分證明文件字號。如係法人或其他設有管理人或代表人之團體，其名稱、事務所或營業所及管理人或代表人之姓名、出生年月日、住、居所。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、有訴願代理人者，其姓名、出生年月日、住、居所、身分證明文件字號。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、原行政處分機關。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、訴願請求事項。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、訴願之事實及理由。"
+          },
+          {
+            "type": "item",
+            "number": "六",
+            "text": "六、收受或知悉行政處分之年、月、日。"
+          },
+          {
+            "type": "item",
+            "number": "七",
+            "text": "七、受理訴願之機關。"
+          },
+          {
+            "type": "item",
+            "number": "八",
+            "text": "八、證據。其為文書者，應添具繕本或影本。"
+          },
+          {
+            "type": "item",
+            "number": "九",
+            "text": "九、年、月、日。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   訴願應附原行政處分書影本。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   依第二條第一項規定提起訴願者，第一項第三款、第六款所列事項，載明應為行政處分之機關、提出申請之年、月、日，並附原申請書之影本及受理申請機關收受證明。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-57",
+        "articleNumber": "57",
+        "displayNumber": "第 57 條",
+        "title": null,
+        "plainText": "訴願人在第十四條第一項所定期間向訴願管轄機關或原行政處分機關作不服原行政處分之表示者，視為已在法定期間內提起訴願。但應於三十日內補送訴願書。",
+        "structureId": "section-10",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願人在第十四條第一項所定期間向訴願管轄機關或原行政處分機關作不服原行政處分之表示者，視為已在法定期間內提起訴願。但應於三十日內補送訴願書。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-58",
+        "articleNumber": "58",
+        "displayNumber": "第 58 條",
+        "title": null,
+        "plainText": "1   訴願人應繕具訴願書經由原行政處分機關向訴願管轄機關提起訴願。\n2   原行政處分機關對於前項訴願應先行重新審查原處分是否合法妥當，其認訴願為有理由者，得自行撤銷或變更原行政處分，並陳報訴願管轄機關。\n3   原行政處分機關不依訴願人之請求撤銷或變更原行政處分者，應儘速附具答辯書，並將必要之關係文件，送於訴願管轄機關。\n4   原行政處分機關檢卷答辯時，應將前項答辯書抄送訴願人。",
+        "structureId": "section-10",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願人應繕具訴願書經由原行政處分機關向訴願管轄機關提起訴願。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   原行政處分機關對於前項訴願應先行重新審查原處分是否合法妥當，其認訴願為有理由者，得自行撤銷或變更原行政處分，並陳報訴願管轄機關。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   原行政處分機關不依訴願人之請求撤銷或變更原行政處分者，應儘速附具答辯書，並將必要之關係文件，送於訴願管轄機關。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   原行政處分機關檢卷答辯時，應將前項答辯書抄送訴願人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-59",
+        "articleNumber": "59",
+        "displayNumber": "第 59 條",
+        "title": null,
+        "plainText": "訴願人向受理訴願機關提起訴願者，受理訴願機關應將訴願書影本或副本送交原行政處分機關依前條第二項至第四項規定辦理。",
+        "structureId": "section-10",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願人向受理訴願機關提起訴願者，受理訴願機關應將訴願書影本或副本送交原行政處分機關依前條第二項至第四項規定辦理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-60",
+        "articleNumber": "60",
+        "displayNumber": "第 60 條",
+        "title": null,
+        "plainText": "訴願提起後，於決定書送達前，訴願人得撤回之。訴願經撤回後，不得復提起同一之訴願。",
+        "structureId": "section-10",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願提起後，於決定書送達前，訴願人得撤回之。訴願經撤回後，不得復提起同一之訴願。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-61",
+        "articleNumber": "61",
+        "displayNumber": "第 61 條",
+        "title": null,
+        "plainText": "1   訴願人誤向訴願管轄機關或原行政處分機關以外之機關作不服原行政處分之表示者，視為自始向訴願管轄機關提起訴願。\n2   前項收受之機關應於十日內將該事件移送於原行政處分機關，並通知訴願人。",
+        "structureId": "section-10",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願人誤向訴願管轄機關或原行政處分機關以外之機關作不服原行政處分之表示者，視為自始向訴願管轄機關提起訴願。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項收受之機關應於十日內將該事件移送於原行政處分機關，並通知訴願人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-62",
+        "articleNumber": "62",
+        "displayNumber": "第 62 條",
+        "title": null,
+        "plainText": "受理訴願機關認為訴願書不合法定程式，而其情形可補正者，應通知訴願人於二十日內補正。",
+        "structureId": "section-10",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "受理訴願機關認為訴願書不合法定程式，而其情形可補正者，應通知訴願人於二十日內補正。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-63",
+        "articleNumber": "63",
+        "displayNumber": "第 63 條",
+        "title": null,
+        "plainText": "1   訴願就書面審查決定之。\n2   受理訴願機關必要時得通知訴願人、參加人或利害關係人到達指定處所陳述意見。\n3   訴願人或參加人請求陳述意見而有正當理由者，應予到達指定處所陳述意見之機會。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願就書面審查決定之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   受理訴願機關必要時得通知訴願人、參加人或利害關係人到達指定處所陳述意見。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   訴願人或參加人請求陳述意見而有正當理由者，應予到達指定處所陳述意見之機會。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-64",
+        "articleNumber": "64",
+        "displayNumber": "第 64 條",
+        "title": null,
+        "plainText": "訴願審議委員會主任委員得指定委員聽取訴願人、參加人或利害關係人到場之陳述。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願審議委員會主任委員得指定委員聽取訴願人、參加人或利害關係人到場之陳述。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-65",
+        "articleNumber": "65",
+        "displayNumber": "第 65 條",
+        "title": null,
+        "plainText": "受理訴願機關應依訴願人、參加人之申請或於必要時，得依職權通知訴願人、參加人或其代表人、訴願代理人、輔佐人及原行政處分機關派員於指定期日到達指定處所言詞辯論。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "受理訴願機關應依訴願人、參加人之申請或於必要時，得依職權通知訴願人、參加人或其代表人、訴願代理人、輔佐人及原行政處分機關派員於指定期日到達指定處所言詞辯論。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-66",
+        "articleNumber": "66",
+        "displayNumber": "第 66 條",
+        "title": null,
+        "plainText": "1   言詞辯論之程序如左：\n一、受理訴願機關陳述事件要旨。\n二、訴願人、參加人或訴願代理人就事件為事實上及法律上之陳述。\n三、原行政處分機關就事件為事實上及法律上之陳述。\n四、訴願或原行政處分機關對他方之陳述或答辯，為再答辯。\n五、受理訴願機關對訴願人及原行政處分機關提出詢問。\n2   前項辯論未完備者，得再為辯論。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   言詞辯論之程序如左："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、受理訴願機關陳述事件要旨。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、訴願人、參加人或訴願代理人就事件為事實上及法律上之陳述。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、原行政處分機關就事件為事實上及法律上之陳述。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、訴願或原行政處分機關對他方之陳述或答辯，為再答辯。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、受理訴願機關對訴願人及原行政處分機關提出詢問。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項辯論未完備者，得再為辯論。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-67",
+        "articleNumber": "67",
+        "displayNumber": "第 67 條",
+        "title": null,
+        "plainText": "1   受理訴願機關應依職權或囑託有關機關或人員，實施調查、檢驗或勘驗，不受訴願人主張之拘束。\n2   受理訴願機關應依訴願人或參加人之申請，調查證據。但就其申請調查之證據中認為不必要者，不在此限。\n3   受理訴願機關依職權或依申請調查證據之結果，非經賦予訴願人及參加人表示意見之機會，不得採為對之不利之訴願決定之基礎。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   受理訴願機關應依職權或囑託有關機關或人員，實施調查、檢驗或勘驗，不受訴願人主張之拘束。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   受理訴願機關應依訴願人或參加人之申請，調查證據。但就其申請調查之證據中認為不必要者，不在此限。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   受理訴願機關依職權或依申請調查證據之結果，非經賦予訴願人及參加人表示意見之機會，不得採為對之不利之訴願決定之基礎。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-68",
+        "articleNumber": "68",
+        "displayNumber": "第 68 條",
+        "title": null,
+        "plainText": "訴願人或參加人得提出證據書類或證物。但受理訴願機關限定於一定期間內提出者，應於該期間內提出。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願人或參加人得提出證據書類或證物。但受理訴願機關限定於一定期間內提出者，應於該期間內提出。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-69",
+        "articleNumber": "69",
+        "displayNumber": "第 69 條",
+        "title": null,
+        "plainText": "1   受理訴願機關得依職權或依訴願人、參加人之申請，囑託有關機關、學校、團體或有專門知識經驗者為鑑定。\n2   受理訴願機關認無鑑定之必要，而訴願人或參加人願自行負擔鑑定費用時，得向受理訴願機關請求准予交付鑑定。受理訴願機關非有正當理由不得拒絕。\n3   鑑定人由受理訴願機關指定之。\n4   鑑定人有數人者，得共同陳述意見。但意見不同者，受理訴願機關應使其分別陳述意見。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   受理訴願機關得依職權或依訴願人、參加人之申請，囑託有關機關、學校、團體或有專門知識經驗者為鑑定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   受理訴願機關認無鑑定之必要，而訴願人或參加人願自行負擔鑑定費用時，得向受理訴願機關請求准予交付鑑定。受理訴願機關非有正當理由不得拒絕。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   鑑定人由受理訴願機關指定之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   鑑定人有數人者，得共同陳述意見。但意見不同者，受理訴願機關應使其分別陳述意見。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-70",
+        "articleNumber": "70",
+        "displayNumber": "第 70 條",
+        "title": null,
+        "plainText": "鑑定人應具鑑定書陳述意見。必要時，受理訴願機關得請鑑定人到達指定處所說明。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "鑑定人應具鑑定書陳述意見。必要時，受理訴願機關得請鑑定人到達指定處所說明。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-71",
+        "articleNumber": "71",
+        "displayNumber": "第 71 條",
+        "title": null,
+        "plainText": "1   鑑定所需資料在原行政處分機關或受理訴願機關者，受理訴願機關應告知鑑定人准其利用。但其利用之範圍及方法得限制之。\n2   鑑定人因行鑑定得請求受理訴願機關調查證據。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   鑑定所需資料在原行政處分機關或受理訴願機關者，受理訴願機關應告知鑑定人准其利用。但其利用之範圍及方法得限制之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   鑑定人因行鑑定得請求受理訴願機關調查證據。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-72",
+        "articleNumber": "72",
+        "displayNumber": "第 72 條",
+        "title": null,
+        "plainText": "1   鑑定所需費用由受理訴願機關負擔，並得依鑑定人之請求預行酌給之。\n2   依第六十九條第二項規定交付鑑定所得結果，據為有利於訴願人或參加人之決定或裁判時，訴願人或參加人得於訴願或行政訴訟確定後三十日內，請求受理訴願機關償還必要之鑑定費用。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   鑑定所需費用由受理訴願機關負擔，並得依鑑定人之請求預行酌給之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   依第六十九條第二項規定交付鑑定所得結果，據為有利於訴願人或參加人之決定或裁判時，訴願人或參加人得於訴願或行政訴訟確定後三十日內，請求受理訴願機關償還必要之鑑定費用。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-73",
+        "articleNumber": "73",
+        "displayNumber": "第 73 條",
+        "title": null,
+        "plainText": "1   受理訴願機關得依職權或依訴願人、參加人之申請，命文書或其他物件之持有人提出該物件，並得留置之。\n2   公務員或機關掌管之文書或其他物件，受理訴願機關得調取之。\n3   前項情形，除有妨害國家機密者外，不得拒絕。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   受理訴願機關得依職權或依訴願人、參加人之申請，命文書或其他物件之持有人提出該物件，並得留置之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   公務員或機關掌管之文書或其他物件，受理訴願機關得調取之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   前項情形，除有妨害國家機密者外，不得拒絕。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-74",
+        "articleNumber": "74",
+        "displayNumber": "第 74 條",
+        "title": null,
+        "plainText": "1   受理訴願機關得依職權或依訴願人、參加人之申請，就必要之物件或處所實施勘驗。\n2   受理訴願機關依前項規定實施勘驗時，應將日、時、處所通知訴願人、參加人及有關人員到場。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   受理訴願機關得依職權或依訴願人、參加人之申請，就必要之物件或處所實施勘驗。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   受理訴願機關依前項規定實施勘驗時，應將日、時、處所通知訴願人、參加人及有關人員到場。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-75",
+        "articleNumber": "75",
+        "displayNumber": "第 75 條",
+        "title": null,
+        "plainText": "1   原行政處分機關應將據以處分之證據資料提出於受理訴願機關。\n2   對於前項之證據資料，訴願人、參加人或訴願代理人得請求閱覽、抄錄或影印之。受理訴願機關非有正當理由，不得拒絕。\n3   第一項證據資料之閱覽、抄錄或影印，受理訴願機關應指定日、時、處所。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   原行政處分機關應將據以處分之證據資料提出於受理訴願機關。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   對於前項之證據資料，訴願人、參加人或訴願代理人得請求閱覽、抄錄或影印之。受理訴願機關非有正當理由，不得拒絕。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   第一項證據資料之閱覽、抄錄或影印，受理訴願機關應指定日、時、處所。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-76",
+        "articleNumber": "76",
+        "displayNumber": "第 76 條",
+        "title": null,
+        "plainText": "訴願人或參加人對受理訴願機關於訴願程序進行中所為之程序上處置不服者，應併同訴願決定提起行政訴訟。",
+        "structureId": "section-11",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願人或參加人對受理訴願機關於訴願程序進行中所為之程序上處置不服者，應併同訴願決定提起行政訴訟。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-77",
+        "articleNumber": "77",
+        "displayNumber": "第 77 條",
+        "title": null,
+        "plainText": "訴願事件有左列各款情形之一者，應為不受理之決定：\n一、訴願書不合法定程式不能補正或經通知補正逾期不補正者。\n二、提起訴願逾法定期間或未於第五十七條但書所定期間內補送訴願書者。\n三、訴願人不符合第十八條之規定者。\n四、訴願人無訴願能力而未由法定代理人代為訴願行為，經通知補正逾期不補正者。\n五、地方自治團體、法人、非法人之團體，未由代表人或管理人為訴願行為，經通知補正逾期不補正者。\n六、行政處分已不存在者。\n七、對已決定或已撤回之訴願事件重行提起訴願者。\n八、對於非行政處分或其他依法不屬訴願救濟範圍內之事項提起訴願者。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願事件有左列各款情形之一者，應為不受理之決定："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、訴願書不合法定程式不能補正或經通知補正逾期不補正者。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、提起訴願逾法定期間或未於第五十七條但書所定期間內補送訴願書者。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、訴願人不符合第十八條之規定者。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、訴願人無訴願能力而未由法定代理人代為訴願行為，經通知補正逾期不補正者。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、地方自治團體、法人、非法人之團體，未由代表人或管理人為訴願行為，經通知補正逾期不補正者。"
+          },
+          {
+            "type": "item",
+            "number": "六",
+            "text": "六、行政處分已不存在者。"
+          },
+          {
+            "type": "item",
+            "number": "七",
+            "text": "七、對已決定或已撤回之訴願事件重行提起訴願者。"
+          },
+          {
+            "type": "item",
+            "number": "八",
+            "text": "八、對於非行政處分或其他依法不屬訴願救濟範圍內之事項提起訴願者。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-78",
+        "articleNumber": "78",
+        "displayNumber": "第 78 條",
+        "title": null,
+        "plainText": "分別提起之數宗訴願係基於同一或同種類之事實上或法律上之原因者，受理訴願機關得合併審議，並得合併決定。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "分別提起之數宗訴願係基於同一或同種類之事實上或法律上之原因者，受理訴願機關得合併審議，並得合併決定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-79",
+        "articleNumber": "79",
+        "displayNumber": "第 79 條",
+        "title": null,
+        "plainText": "1   訴願無理由者，受理訴願機關應以決定駁回之。\n2   原行政處分所憑理由雖屬不當，但依其他理由認為正當者，應以訴願為無理由。\n3   訴願事件涉及地方自治團體之地方自治事務者，其受理訴願之上級機關僅就原行政處分之合法性進行審查決定。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願無理由者，受理訴願機關應以決定駁回之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   原行政處分所憑理由雖屬不當，但依其他理由認為正當者，應以訴願為無理由。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   訴願事件涉及地方自治團體之地方自治事務者，其受理訴願之上級機關僅就原行政處分之合法性進行審查決定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-80",
+        "articleNumber": "80",
+        "displayNumber": "第 80 條",
+        "title": null,
+        "plainText": "1   提起訴願因逾法定期間而為不受理決定時，原行政處分顯屬違法或不當者，原行政處分機關或其上級機關得依職權撤銷或變更之。但有左列情形之一者，不得為之：\n一、其撤銷或變更對公益有重大危害者。\n二、行政處分受益人之信賴利益顯然較行政處分撤銷或變更所欲維護之公益更值得保護者。\n2   行政處分受益人有左列情形之一者，其信賴不值得保護：\n一、以詐欺、脅迫或賄賂方法，使原行政處分機關作成行政處分者。\n二、對重要事項提供不正確資料或為不完全陳述，致使原行政處分機關依該資料或陳述而作成行政處分者。\n三、明知原行政處分違法或因重大過失而不知者。\n3   行政處分之受益人值得保護之信賴利益，因原行政處分機關或其上級機關依第一項規定撤銷或變更原行政處分而受有損失者，應予補償。但其補償額度不得超過受益人因該處分存續可得之利益。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   提起訴願因逾法定期間而為不受理決定時，原行政處分顯屬違法或不當者，原行政處分機關或其上級機關得依職權撤銷或變更之。但有左列情形之一者，不得為之："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、其撤銷或變更對公益有重大危害者。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、行政處分受益人之信賴利益顯然較行政處分撤銷或變更所欲維護之公益更值得保護者。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   行政處分受益人有左列情形之一者，其信賴不值得保護："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、以詐欺、脅迫或賄賂方法，使原行政處分機關作成行政處分者。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、對重要事項提供不正確資料或為不完全陳述，致使原行政處分機關依該資料或陳述而作成行政處分者。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、明知原行政處分違法或因重大過失而不知者。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   行政處分之受益人值得保護之信賴利益，因原行政處分機關或其上級機關依第一項規定撤銷或變更原行政處分而受有損失者，應予補償。但其補償額度不得超過受益人因該處分存續可得之利益。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-81",
+        "articleNumber": "81",
+        "displayNumber": "第 81 條",
+        "title": null,
+        "plainText": "1   訴願有理由者，受理訴願機關應以決定撤銷原行政處分之全部或一部，並得視事件之情節，逕為變更之決定或發回原行政處分機關另為處分。但於訴願人表示不服之範圍內，不得為更不利益之變更或處分。\n2   前項訴願決定撤銷原行政處分，發回原行政處分機關另為處分時，應指定相當期間命其為之。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願有理由者，受理訴願機關應以決定撤銷原行政處分之全部或一部，並得視事件之情節，逕為變更之決定或發回原行政處分機關另為處分。但於訴願人表示不服之範圍內，不得為更不利益之變更或處分。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項訴願決定撤銷原行政處分，發回原行政處分機關另為處分時，應指定相當期間命其為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-82",
+        "articleNumber": "82",
+        "displayNumber": "第 82 條",
+        "title": null,
+        "plainText": "1   對於依第二條第一項提起之訴願，受理訴願機關認為有理由者，應指定相當期間，命應作為之機關速為一定之處分。\n2   受理訴願機關未為前項決定前，應作為之機關已為行政處分者，受理訴願機關應認訴願為無理由，以決定駁回之。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   對於依第二條第一項提起之訴願，受理訴願機關認為有理由者，應指定相當期間，命應作為之機關速為一定之處分。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   受理訴願機關未為前項決定前，應作為之機關已為行政處分者，受理訴願機關應認訴願為無理由，以決定駁回之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-83",
+        "articleNumber": "83",
+        "displayNumber": "第 83 條",
+        "title": null,
+        "plainText": "1   受理訴願機關發現原行政處分雖屬違法或不當，但其撤銷或變更於公益有重大損害，經斟酌訴願人所受損害、賠償程度、防止方法及其他一切情事，認原行政處分之撤銷或變更顯與公益相違背時，得駁回其訴願。\n2   前項情形，應於決定主文中載明原行政處分違法或不當。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   受理訴願機關發現原行政處分雖屬違法或不當，但其撤銷或變更於公益有重大損害，經斟酌訴願人所受損害、賠償程度、防止方法及其他一切情事，認原行政處分之撤銷或變更顯與公益相違背時，得駁回其訴願。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項情形，應於決定主文中載明原行政處分違法或不當。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-84",
+        "articleNumber": "84",
+        "displayNumber": "第 84 條",
+        "title": null,
+        "plainText": "1   受理訴願機關為前條決定時，得斟酌訴願人因違法或不當處分所受損害，於決定理由中載明由原行政處分機關與訴願人進行協議。\n2   前項協議，與國家賠償法之協議有同一效力。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   受理訴願機關為前條決定時，得斟酌訴願人因違法或不當處分所受損害，於決定理由中載明由原行政處分機關與訴願人進行協議。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項協議，與國家賠償法之協議有同一效力。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-85",
+        "articleNumber": "85",
+        "displayNumber": "第 85 條",
+        "title": null,
+        "plainText": "1   訴願之決定，自收受訴願書之次日起，應於三個月內為之；必要時，得予延長，並通知訴願人及參加人。延長以一次為限，最長不得逾二個月。\n2   前項期間，於依第五十七條但書規定補送訴願書者，自補送之次日起算，未為補送者，自補送期間屆滿之次日起算；其依第六十二條規定通知補正者，自補正之次日起算；未為補正者，自補正期間屆滿之次日起算。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願之決定，自收受訴願書之次日起，應於三個月內為之；必要時，得予延長，並通知訴願人及參加人。延長以一次為限，最長不得逾二個月。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項期間，於依第五十七條但書規定補送訴願書者，自補送之次日起算，未為補送者，自補送期間屆滿之次日起算；其依第六十二條規定通知補正者，自補正之次日起算；未為補正者，自補正期間屆滿之次日起算。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-86",
+        "articleNumber": "86",
+        "displayNumber": "第 86 條",
+        "title": null,
+        "plainText": "1   訴願之決定以他法律關係是否成立為準據，而該法律關係在訴訟或行政救濟程序進行中者，於該法律關係確定前，受理訴願機關得停止訴願程序之進行，並即通知訴願人及參加人。\n2   受理訴願機關依前項規定停止訴願程序之進行者，前條所定訴願決定期間，自該法律關係確定之日起，重行起算。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願之決定以他法律關係是否成立為準據，而該法律關係在訴訟或行政救濟程序進行中者，於該法律關係確定前，受理訴願機關得停止訴願程序之進行，並即通知訴願人及參加人。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   受理訴願機關依前項規定停止訴願程序之進行者，前條所定訴願決定期間，自該法律關係確定之日起，重行起算。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-87",
+        "articleNumber": "87",
+        "displayNumber": "第 87 條",
+        "title": null,
+        "plainText": "1   訴願人死亡者，由其繼承人或其他依法得繼受原行政處分所涉權利或利益之人，承受其訴願。\n2   法人因合併而消滅者，由因合併而另立或合併後存續之法人，承受其訴願。\n3   依前二項規定承受訴願者，應於事實發生之日起三十日內，向受理訴願機關檢送因死亡繼受權利或合併事實之證明文件。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願人死亡者，由其繼承人或其他依法得繼受原行政處分所涉權利或利益之人，承受其訴願。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   法人因合併而消滅者，由因合併而另立或合併後存續之法人，承受其訴願。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   依前二項規定承受訴願者，應於事實發生之日起三十日內，向受理訴願機關檢送因死亡繼受權利或合併事實之證明文件。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-88",
+        "articleNumber": "88",
+        "displayNumber": "第 88 條",
+        "title": null,
+        "plainText": "受讓原行政處分所涉權利或利益之人，得檢具受讓證明文件，向受理訴願機關申請許其承受訴願。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "受讓原行政處分所涉權利或利益之人，得檢具受讓證明文件，向受理訴願機關申請許其承受訴願。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-89",
+        "articleNumber": "89",
+        "displayNumber": "第 89 條",
+        "title": null,
+        "plainText": "1   訴願決定書，應載明左列事項：\n一、訴願人姓名、出生年月日、住、居所、身分證明文件字號。如係法人或其他設有管理人或代表人之團體，其名稱、事務所或營業所，管理人或代表人之姓名、出生年月日、住、居所、身分證明文件字號。\n二、有法定代理人或訴願代理人者，其姓名、出生年月日、住、居所、身分證明文件字號。\n三、主文、事實及理由。其係不受理決定者，得不記載事實。\n四、決定機關及其首長。\n五、年、月、日。\n2   訴願決定書之正本，應於決定後十五日內送達訴願人、參加人及原行政處分機關。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願決定書，應載明左列事項："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、訴願人姓名、出生年月日、住、居所、身分證明文件字號。如係法人或其他設有管理人或代表人之團體，其名稱、事務所或營業所，管理人或代表人之姓名、出生年月日、住、居所、身分證明文件字號。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、有法定代理人或訴願代理人者，其姓名、出生年月日、住、居所、身分證明文件字號。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、主文、事實及理由。其係不受理決定者，得不記載事實。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、決定機關及其首長。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、年、月、日。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   訴願決定書之正本，應於決定後十五日內送達訴願人、參加人及原行政處分機關。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-90",
+        "articleNumber": "90",
+        "displayNumber": "第 90 條",
+        "title": null,
+        "plainText": "訴願決定書應附記，如不服決定，得於決定書送達之次日起二個月內向行政法院提起行政訴訟。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願決定書應附記，如不服決定，得於決定書送達之次日起二個月內向行政法院提起行政訴訟。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-91",
+        "articleNumber": "91",
+        "displayNumber": "第 91 條",
+        "title": null,
+        "plainText": "1   對於得提起行政訴訟之訴願決定，因訴願決定機關附記錯誤，向非管轄機關提起行政訴訟，該機關應於十日內將行政訴訟書狀連同有關資料移送管轄行政法院，並即通知原提起行政訴訟之人。\n2   有前項規定之情形，行政訴訟書狀提出於非管轄機關者，視為自始向有管轄權之行政法院提起行政訴訟。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   對於得提起行政訴訟之訴願決定，因訴願決定機關附記錯誤，向非管轄機關提起行政訴訟，該機關應於十日內將行政訴訟書狀連同有關資料移送管轄行政法院，並即通知原提起行政訴訟之人。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   有前項規定之情形，行政訴訟書狀提出於非管轄機關者，視為自始向有管轄權之行政法院提起行政訴訟。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-92",
+        "articleNumber": "92",
+        "displayNumber": "第 92 條",
+        "title": null,
+        "plainText": "1   訴願決定機關附記提起行政訴訟期間錯誤時，應由訴願決定機關以通知更正之，並自更正通知送達之日起，計算法定期間。\n2   訴願決定機關未依第九十條規定為附記，或附記錯誤而未依前項規定通知更正，致原提起行政訴訟之人遲誤行政訴訟期間者，如自訴願決定書送達之日起一年內提起行政訴訟，視為於法定期間內提起。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   訴願決定機關附記提起行政訴訟期間錯誤時，應由訴願決定機關以通知更正之，並自更正通知送達之日起，計算法定期間。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   訴願決定機關未依第九十條規定為附記，或附記錯誤而未依前項規定通知更正，致原提起行政訴訟之人遲誤行政訴訟期間者，如自訴願決定書送達之日起一年內提起行政訴訟，視為於法定期間內提起。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-93",
+        "articleNumber": "93",
+        "displayNumber": "第 93 條",
+        "title": null,
+        "plainText": "1   原行政處分之執行，除法律另有規定外，不因提起訴願而停止。\n2   原行政處分之合法性顯有疑義者，或原行政處分之執行將發生難以回復之損害，且有急迫情事，並非為維護重大公共利益所必要者，受理訴願機關或原行政處分機關得依職權或依申請，就原行政處分之全部或一部，停止執行。\n3   前項情形，行政法院亦得依聲請，停止執行。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   原行政處分之執行，除法律另有規定外，不因提起訴願而停止。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   原行政處分之合法性顯有疑義者，或原行政處分之執行將發生難以回復之損害，且有急迫情事，並非為維護重大公共利益所必要者，受理訴願機關或原行政處分機關得依職權或依申請，就原行政處分之全部或一部，停止執行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   前項情形，行政法院亦得依聲請，停止執行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-94",
+        "articleNumber": "94",
+        "displayNumber": "第 94 條",
+        "title": null,
+        "plainText": "1   停止執行之原因消滅，或有其他情事變更之情形，受理訴願機關或原行政處分機關得依職權或依申請撤銷停止執行。\n2   前項情形，原裁定停止執行之行政法院亦得依聲請，撤銷停止執行之裁定。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   停止執行之原因消滅，或有其他情事變更之情形，受理訴願機關或原行政處分機關得依職權或依申請撤銷停止執行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項情形，原裁定停止執行之行政法院亦得依聲請，撤銷停止執行之裁定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-95",
+        "articleNumber": "95",
+        "displayNumber": "第 95 條",
+        "title": null,
+        "plainText": "訴願之決定確定後，就其事件，有拘束各關係機關之效力；就其依第十條提起訴願之事件，對於受委託行使公權力之團體或個人，亦有拘束力。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "訴願之決定確定後，就其事件，有拘束各關係機關之效力；就其依第十條提起訴願之事件，對於受委託行使公權力之團體或個人，亦有拘束力。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-96",
+        "articleNumber": "96",
+        "displayNumber": "第 96 條",
+        "title": null,
+        "plainText": "原行政處分經撤銷後，原行政處分機關須重為處分者，應依訴願決定意旨為之，並將處理情形以書面告知受理訴願機關。",
+        "structureId": "section-12",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "原行政處分經撤銷後，原行政處分機關須重為處分者，應依訴願決定意旨為之，並將處理情形以書面告知受理訴願機關。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-97",
+        "articleNumber": "97",
+        "displayNumber": "第 97 條",
+        "title": null,
+        "plainText": "1   於有左列各款情形之一者，訴願人、參加人或其他利害關係人得對於確定訴願決定，向原訴願決定機關申請再審。但訴願人、參加人或其他利害關係人已依行政訴訟主張其事由或知其事由而不為主張者，不在此限：\n一、適用法規顯有錯誤者。\n二、決定理由與主文顯有矛盾者。\n三、決定機關之組織不合法者。\n四、依法令應迴避之委員參與決定者。\n五、參與決定之委員關於該訴願違背職務，犯刑事上之罪者。\n六、訴願之代理人，關於該訴願有刑事上應罰之行為，影響於決定者。\n七、為決定基礎之證物，係偽造或變造者。\n八、證人、鑑定人或通譯就為決定基礎之證言、鑑定為虛偽陳述者。\n九、為決定基礎之民事、刑事或行政訴訟判決或行政處分已變更者。\n十、發見未經斟酌之證物或得使用該證物者。\n2   前項聲請再審，應於三十日內提起。\n3   前項期間，自訴願決定確定時起算。但再審之事由發生在後或知悉在後者，自知悉時起算。",
+        "structureId": "chapter-13",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   於有左列各款情形之一者，訴願人、參加人或其他利害關係人得對於確定訴願決定，向原訴願決定機關申請再審。但訴願人、參加人或其他利害關係人已依行政訴訟主張其事由或知其事由而不為主張者，不在此限："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、適用法規顯有錯誤者。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、決定理由與主文顯有矛盾者。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、決定機關之組織不合法者。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、依法令應迴避之委員參與決定者。"
+          },
+          {
+            "type": "item",
+            "number": "五",
+            "text": "五、參與決定之委員關於該訴願違背職務，犯刑事上之罪者。"
+          },
+          {
+            "type": "item",
+            "number": "六",
+            "text": "六、訴願之代理人，關於該訴願有刑事上應罰之行為，影響於決定者。"
+          },
+          {
+            "type": "item",
+            "number": "七",
+            "text": "七、為決定基礎之證物，係偽造或變造者。"
+          },
+          {
+            "type": "item",
+            "number": "八",
+            "text": "八、證人、鑑定人或通譯就為決定基礎之證言、鑑定為虛偽陳述者。"
+          },
+          {
+            "type": "item",
+            "number": "九",
+            "text": "九、為決定基礎之民事、刑事或行政訴訟判決或行政處分已變更者。"
+          },
+          {
+            "type": "item",
+            "number": "十",
+            "text": "十、發見未經斟酌之證物或得使用該證物者。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項聲請再審，應於三十日內提起。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   前項期間，自訴願決定確定時起算。但再審之事由發生在後或知悉在後者，自知悉時起算。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-98",
+        "articleNumber": "98",
+        "displayNumber": "第 98 條",
+        "title": null,
+        "plainText": "1   依本法規定所為之訴願、答辯及應備具之書件，應以中文書寫；其科學名詞之譯名以國立編譯館規定者為原則，並應附註外文原名。\n2   前項書件原係外文者，並應檢附原外文資料。",
+        "structureId": "chapter-14",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   依本法規定所為之訴願、答辯及應備具之書件，應以中文書寫；其科學名詞之譯名以國立編譯館規定者為原則，並應附註外文原名。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項書件原係外文者，並應檢附原外文資料。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-99",
+        "articleNumber": "99",
+        "displayNumber": "第 99 條",
+        "title": null,
+        "plainText": "1   本法修正施行前，尚未終結之訴願事件，其以後之訴願程序，依修正之本法規定終結之。\n2   本法修正施行前，尚未終結之再訴願案件，其以後之再訴願程序，準用修正之本法有關訴願程序規定終結之。",
+        "structureId": "chapter-14",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法修正施行前，尚未終結之訴願事件，其以後之訴願程序，依修正之本法規定終結之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法修正施行前，尚未終結之再訴願案件，其以後之再訴願程序，準用修正之本法有關訴願程序規定終結之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-100",
+        "articleNumber": "100",
+        "displayNumber": "第 100 條",
+        "title": null,
+        "plainText": "公務人員因違法或不當處分，涉有刑事或行政責任者，由最終決定之機關於決定後責由該管機關依法辦理。",
+        "structureId": "chapter-14",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "公務人員因違法或不當處分，涉有刑事或行政責任者，由最終決定之機關於決定後責由該管機關依法辦理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      },
+      {
+        "id": "article-101",
+        "articleNumber": "101",
+        "displayNumber": "第 101 條",
+        "title": null,
+        "plainText": "1   本法自公布日施行。\n2   本法修正條文之施行日期，由行政院以命令定之。",
+        "structureId": "chapter-14",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法自公布日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法修正條文之施行日期，由行政院以命令定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 訴願法（PDF：訴願法.pdf）",
+          "lastModified": "2012-06-27"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "administrative-remedy-framework",
+        "name": "行政程序與行政救濟框架",
+        "description": "彙整行政機關作成行政行為所應遵循之程序，以及對行政處分不服時之行政訴訟救濟途徑。",
+        "aliases": [
+          "行政救濟"
+        ],
+        "tags": [
+          "行政程序",
+          "行政訴訟"
+        ],
+        "role": "primary",
+        "sortOrder": 2
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "conceptId": "administrative-remedy-framework",
+        "sourceArticleId": "article-17",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "期間之計算，除法律另有規定外，依民法之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "定外，依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-petitions-and-appeals-act-cite-1",
+        "sortOrder": 0
+      },
+      {
+        "conceptId": "administrative-remedy-framework",
+        "sourceArticleId": "article-20",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "3   關於訴願之法定代理，依民法規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "代理，依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-petitions-and-appeals-act-cite-2",
+        "sortOrder": 1
+      },
+      {
+        "conceptId": "administrative-remedy-framework",
+        "sourceArticleId": "article-47",
+        "label": "引用行政訴訟法",
+        "relationType": "application",
+        "conditionText": "3   訴願文書之送達，除前二項規定外，準用行政訴訟法第六十七條至第六十九條、第七十一條至第八十三條之規定。",
+        "targetRegulationId": "tw-administrative-litigation-act",
+        "targetRegulationNames": [
+          "行政訴訟法"
+        ],
+        "targetArticleNumber": "67",
+        "triggerTerms": [
+          "外，準用"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-petitions-and-appeals-act-cite-3",
+        "sortOrder": 2
+      },
+      {
+        "conceptId": "administrative-remedy-framework",
+        "sourceArticleId": "article-54",
+        "label": "引用民事訴訟法",
+        "relationType": "application",
+        "conditionText": "2   訴願審議經言詞辯論者，應另行製作筆錄，編為前項紀錄之附件，並準用民事訴訟法第二百十二條至第二百十九條之規定。",
+        "targetRegulationId": "tw-code-civil-procedure",
+        "targetRegulationNames": [
+          "民事訴訟法"
+        ],
+        "targetArticleNumber": "212",
+        "triggerTerms": [
+          "，並準用"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-petitions-and-appeals-act-cite-4",
+        "sortOrder": 3
+      }
+    ],
+    "definedTerms": [
+      {
+        "id": "tw-petitions-and-appeals-act-term-1",
+        "name": "行政處分",
+        "aliases": [],
+        "definition": "中央或地方機關就公法上具體事件所為之決定或其他公權力措施而對外直接發生法律效果之單方行政行為。",
+        "definitionArticleId": "article-3",
+        "definitionText": "1   本法所稱行政處分，係指中央或地方機關就公法上具體事件所為之決定或其他公權力措施而對外直接發生法律效果之單方行政行為。",
+        "scope": "regulation",
+        "targetRegulationNames": [],
+        "sortOrder": 0
+      }
+    ]
+  }
+}

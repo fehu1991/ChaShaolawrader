@@ -1,0 +1,419 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-insurance-act-enforcement-rules",
+    "code": "UNKNOWN",
+    "name": "保險法施行細則",
+    "shortName": "保險法施行細則",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-insurance-act-enforcement-rules-20080613",
+      "label": "修正日期：民國 97 年 06 月 13 日",
+      "promulgationDate": "2008-06-13",
+      "effectiveDate": "2008-06-15",
+      "effectiveDateNote": "本版本施行條文明定自公布（發布）日施行，依中央法規標準法第13條，自公布（發布）之日起算至第三日起發生效力，故施行日為公布（發布）日之後二日。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "本細則依保險法（以下簡稱本法）第一百七十五條規定訂定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則依保險法（以下簡稱本法）第一百七十五條規定訂定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "本法所稱保險業及外國保險業，包括依本法第六條規定設立，專以經營本法第三十九條所稱再保險為業之專業再保險業。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法所稱保險業及外國保險業，包括依本法第六條規定設立，專以經營本法第三十九條所稱再保險為業之專業再保險業。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "保險人收取保險費，應由其總公司（社）或分公司（分社）簽發正式收據。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "保險人收取保險費，應由其總公司（社）或分公司（分社）簽發正式收據。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "1   依本法第四十三條規定簽發保險單或暫保單，須與交付保險費全部或一部同時為之。\n2   財產保險之要保人在保險人簽發保險單或暫保單前，先交付保險費而發生應予賠償之保險事故時，保險人應負保險責任。\n3   人壽保險人於同意承保前，得預收相當於第一期保險費之金額。保險人應負之保險責任，以保險人同意承保時，溯自預收相當於第一期保險費金額時開始。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   依本法第四十三條規定簽發保險單或暫保單，須與交付保險費全部或一部同時為之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   財產保險之要保人在保險人簽發保險單或暫保單前，先交付保險費而發生應予賠償之保險事故時，保險人應負保險責任。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   人壽保險人於同意承保前，得預收相當於第一期保險費之金額。保險人應負之保險責任，以保險人同意承保時，溯自預收相當於第一期保險費金額時開始。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "保險業經營各種保險之保險單條款，應使用中文。但因業務需要，得使用外文，並附中文譯本或節譯本。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "保險業經營各種保險之保險單條款，應使用中文。但因業務需要，得使用外文，並附中文譯本或節譯本。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "要保人以其所有之藝術品、古玩品及不能依市價估定價值之物品要保者，應依本法第七十三條及第七十五條規定約定價值，為定值之保險。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "要保人以其所有之藝術品、古玩品及不能依市價估定價值之物品要保者，應依本法第七十三條及第七十五條規定約定價值，為定值之保險。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "保險人與被保險人或受益人，對於賠款金額或給付金額有爭議時，保險人應就其已認定賠付或給付部分，依照契約規定期限，先行賠付或給付；契約內無期限規定者，應自證明文件交齊之日起十五日內先行賠付或給付。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "保險人與被保險人或受益人，對於賠款金額或給付金額有爭議時，保險人應就其已認定賠付或給付部分，依照契約規定期限，先行賠付或給付；契約內無期限規定者，應自證明文件交齊之日起十五日內先行賠付或給付。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "1   因本法第八十一條所載之原因而終止之火災保險契約，自終止事故發生之日起，其已交付未到期之保險費，應返還之。\n2   前項保險費之返還，除契約另有約定者外，保險人得按短期保險費之規定扣除保險契約有效期間之保險費後返還之。但前項終止契約之原因不可歸責於被保險人者，應將自原因發生之日起至滿期日止之保險費，按日數比例返還之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   因本法第八十一條所載之原因而終止之火災保險契約，自終止事故發生之日起，其已交付未到期之保險費，應返還之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項保險費之返還，除契約另有約定者外，保險人得按短期保險費之規定扣除保險契約有效期間之保險費後返還之。但前項終止契約之原因不可歸責於被保險人者，應將自原因發生之日起至滿期日止之保險費，按日數比例返還之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "第三人依本法第九十四條第二項規定，直接向保險人請求給付賠償金額時，保險人基於保險契約所得對抗被保險人之事由，皆得以之對抗第三人。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "第三人依本法第九十四條第二項規定，直接向保險人請求給付賠償金額時，保險人基於保險契約所得對抗被保險人之事由，皆得以之對抗第三人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "本法第一百零五條及第一百零七條之適用，依保險契約訂定時之法律。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第一百零五條及第一百零七條之適用，依保險契約訂定時之法律。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "本法所稱保單價值準備金，指人身保險業以計算保險契約簽單保險費之利率及危險發生率為基礎，並依主管機關規定方式計算之準備金。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法所稱保單價值準備金，指人身保險業以計算保險契約簽單保險費之利率及危險發生率為基礎，並依主管機關規定方式計算之準備金。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "（刪除）",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "（刪除）"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "保險期間為一年期以下之人身保險終止契約時，其已交付未到期之保險費，應返還之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "保險期間為一年期以下之人身保險終止契約時，其已交付未到期之保險費，應返還之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "本法第一百二十三條第二項及第一百四十六條第五項所稱投資型保險，指保險人將要保人所繳保險費，依約定方式扣除保險人各項費用，並依其同意或指定之投資分配方式，置於專設帳簿中，而由要保人承擔全部或部分投資風險之人身保險。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第一百二十三條第二項及第一百四十六條第五項所稱投資型保險，指保險人將要保人所繳保險費，依約定方式扣除保險人各項費用，並依其同意或指定之投資分配方式，置於專設帳簿中，而由要保人承擔全部或部分投資風險之人身保險。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "本法第一百三十六條第一項所稱合作社，指有限責任合作社。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第一百三十六條第一項所稱合作社，指有限責任合作社。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "本法第一百五十九條所稱其他合作社，指保險或信用合作社。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第一百五十九條所稱其他合作社，指保險或信用合作社。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "本細則自發布日施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則自發布日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 保險法施行細則（PDF：保險法施行細則.pdf）",
+          "lastModified": "2008-06-13"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "insurance-act-framework",
+        "name": "保險法律框架",
+        "description": "彙整保險契約、保險業組織及監理所涉之法規，包含保險法本文及其施行細則。",
+        "aliases": [
+          "保險法制"
+        ],
+        "tags": [
+          "保險",
+          "保險業"
+        ],
+        "role": "supporting",
+        "sortOrder": 1
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "conceptId": "insurance-act-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用保險法",
+        "relationType": "authorization",
+        "conditionText": "本細則依保險法（以下簡稱本法）第一百七十五條規定訂定之。",
+        "targetRegulationId": "tw-insurance-act",
+        "targetRegulationNames": [
+          "保險法"
+        ],
+        "targetArticleNumber": "175",
+        "triggerTerms": [
+          "本細則依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-insurance-act-enforcement-rules-cite-1",
+        "sortOrder": 0
+      }
+    ],
+    "definedTerms": [
+      {
+        "id": "tw-insurance-act-enforcement-rules-term-1",
+        "name": "保單價值準備金",
+        "aliases": [],
+        "definition": "人身保險業以計算保險契約簽單保險費之利率及危險發生率為基礎，並依主管機關規定方式計算之準備金。",
+        "definitionArticleId": "article-11",
+        "definitionText": "本法所稱保單價值準備金，指人身保險業以計算保險契約簽單保險費之利率及危險發生率為基礎，並依主管機關規定方式計算之準備金。",
+        "scope": "regulation",
+        "targetRegulationNames": [],
+        "sortOrder": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,803 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-narcotics-hazard-prevention-act-enforcement-rules",
+    "code": "UNKNOWN",
+    "name": "毒品危害防制條例施行細則",
+    "shortName": "毒品危害防制條例施行細則",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-narcotics-hazard-prevention-act-enforcement-rules-20230628",
+      "label": "修正日期：民國 112 年 06 月 28 日",
+      "promulgationDate": "2023-06-28",
+      "effectiveDate": "2023-06-30",
+      "effectiveDateNote": "本版本施行條文明定自公布（發布）日施行，依中央法規標準法第13條，自公布（發布）之日起算至第三日起發生效力，故施行日為公布（發布）日之後二日。",
+      "status": "effective"
+    },
+    "structure": [
+      {
+        "id": "chapter-1",
+        "type": "chapter",
+        "label": "第 一 章 總則",
+        "parentId": null,
+        "sortOrder": 0
+      },
+      {
+        "id": "chapter-2",
+        "type": "chapter",
+        "label": "第 二 章 緝毒",
+        "parentId": null,
+        "sortOrder": 1
+      },
+      {
+        "id": "chapter-3",
+        "type": "chapter",
+        "label": "第 二 章之一  防毒",
+        "parentId": null,
+        "sortOrder": 2
+      },
+      {
+        "id": "chapter-4",
+        "type": "chapter",
+        "label": "第 三 章 拒毒",
+        "parentId": null,
+        "sortOrder": 3
+      },
+      {
+        "id": "chapter-5",
+        "type": "chapter",
+        "label": "第 四 章 戒毒",
+        "parentId": null,
+        "sortOrder": 4
+      },
+      {
+        "id": "chapter-6",
+        "type": "chapter",
+        "label": "第 五 章 檢驗及統計",
+        "parentId": null,
+        "sortOrder": 5
+      },
+      {
+        "id": "chapter-7",
+        "type": "chapter",
+        "label": "第 六 章 附則",
+        "parentId": null,
+        "sortOrder": 6
+      }
+    ],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "本細則依毒品危害防制條例（以下簡稱本條例）第三十四條規定訂定之。",
+        "structureId": "chapter-1",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則依毒品危害防制條例（以下簡稱本條例）第三十四條規定訂定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "防制毒品危害，由行政院統合各相關機關，辦理緝毒、防毒、拒毒及戒毒工作。",
+        "structureId": "chapter-1",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "防制毒品危害，由行政院統合各相關機關，辦理緝毒、防毒、拒毒及戒毒工作。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "前條各相關機關應將防制毒品危害列為年度重要工作，就業務職掌研訂相關因應措施，積極辦理。所需經費，由各機關於年度預算內編列。",
+        "structureId": "chapter-1",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "前條各相關機關應將防制毒品危害列為年度重要工作，就業務職掌研訂相關因應措施，積極辦理。所需經費，由各機關於年度預算內編列。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "毒品之查緝，由臺灣高等檢察署及福建高等檢察署金門檢察分署，督導各地方檢察署統合各相關機關、單位協調合作，從事整體性、全面性、計畫性、持續性之查緝。",
+        "structureId": "chapter-2",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "毒品之查緝，由臺灣高等檢察署及福建高等檢察署金門檢察分署，督導各地方檢察署統合各相關機關、單位協調合作，從事整體性、全面性、計畫性、持續性之查緝。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "查獲毒品案件，應追查毒品之供銷管道及販賣、運輸網路，並擴大偵辦。",
+        "structureId": "chapter-2",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "查獲毒品案件，應追查毒品之供銷管道及販賣、運輸網路，並擴大偵辦。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "1   各查緝機關、單位與辦理毒品防制工作之機關、單位應協商合作，建立反毒情報網及緝毒資料庫。\n2   各查緝機關、單位於建立反毒情報網及緝毒資料庫時，得請求其他各相關機關提供必要之協助。\n3   防制毒品犯罪，有關積極加入國際組織、參與國際反毒活動、建立雙邊及多邊國際合作事宜，應商同外交部辦理之。",
+        "structureId": "chapter-2",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   各查緝機關、單位與辦理毒品防制工作之機關、單位應協商合作，建立反毒情報網及緝毒資料庫。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   各查緝機關、單位於建立反毒情報網及緝毒資料庫時，得請求其他各相關機關提供必要之協助。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   防制毒品犯罪，有關積極加入國際組織、參與國際反毒活動、建立雙邊及多邊國際合作事宜，應商同外交部辦理之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "1   各查緝機關、單位，緝獲毒品案件，應填具「毒品案件涉嫌人犯基本資料移送報告表」及「毒品案件姓名年齡不詳涉嫌人犯應繼續查緝資料移送報告表」，移送該管地方檢察署。\n2   前項報告表格式，均由法務部定之。",
+        "structureId": "chapter-2",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   各查緝機關、單位，緝獲毒品案件，應填具「毒品案件涉嫌人犯基本資料移送報告表」及「毒品案件姓名年齡不詳涉嫌人犯應繼續查緝資料移送報告表」，移送該管地方檢察署。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項報告表格式，均由法務部定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "各查緝機關、單位受理毒品案件之檢舉時，應迅即調查，依法辦理，對檢舉人之姓名應絕對保守秘密，並切實保障其安全。如有洩漏消息、稽延時日或藉端敲詐徇私庇縱等情事，或檢舉人挾嫌陷害，故為栽誣者，均應依法嚴辦。",
+        "structureId": "chapter-2",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "各查緝機關、單位受理毒品案件之檢舉時，應迅即調查，依法辦理，對檢舉人之姓名應絕對保守秘密，並切實保障其安全。如有洩漏消息、稽延時日或藉端敲詐徇私庇縱等情事，或檢舉人挾嫌陷害，故為栽誣者，均應依法嚴辦。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "為防制毒品製造，經濟部及衛生福利部應訂定管制本條例第三十一條第一項所稱先驅化學品之措施。",
+        "structureId": "chapter-2",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "為防制毒品製造，經濟部及衛生福利部應訂定管制本條例第三十一條第一項所稱先驅化學品之措施。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-9-1",
+        "articleNumber": "9-1",
+        "displayNumber": "第 9-1 條",
+        "title": null,
+        "plainText": "查獲毒品製造工廠，應追查毒品製造原料之來源、供銷管道及販賣、運輸網路，並擴大偵辦。",
+        "structureId": "chapter-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "查獲毒品製造工廠，應追查毒品製造原料之來源、供銷管道及販賣、運輸網路，並擴大偵辦。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-9-2",
+        "articleNumber": "9-2",
+        "displayNumber": "第 9-2 條",
+        "title": null,
+        "plainText": "查獲製造毒品先驅原料，應追查原料之來源，並通報衛生福利部食品藥物管理署。",
+        "structureId": "chapter-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "查獲製造毒品先驅原料，應追查原料之來源，並通報衛生福利部食品藥物管理署。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-9-3",
+        "articleNumber": "9-3",
+        "displayNumber": "第 9-3 條",
+        "title": null,
+        "plainText": "1   各檢驗機關（構）應將每月毒品檢測結果資料，於次月十日前，依規定格式彙送衛生福利部備查。\n2   各檢驗機關（構）發現未經列管之新興毒品，應通報法務部，並通知衛生福利部。\n3   第一項格式由衛生福利部另定之。",
+        "structureId": "chapter-3",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   各檢驗機關（構）應將每月毒品檢測結果資料，於次月十日前，依規定格式彙送衛生福利部備查。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   各檢驗機關（構）發現未經列管之新興毒品，應通報法務部，並通知衛生福利部。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   第一項格式由衛生福利部另定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "教育部應統合中央目的事業主管機關、直轄市、縣（市）政府及民間團體資源，運用各種管道，持續進行反毒宣導。",
+        "structureId": "chapter-4",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "教育部應統合中央目的事業主管機關、直轄市、縣（市）政府及民間團體資源，運用各種管道，持續進行反毒宣導。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "1   勒戒處所需用之戒毒藥品，其屬成癮性麻醉藥品者，由衛生福利部食品藥物管理署核配。\n2   勒戒處所應將前項成癮性麻醉藥品實際使用情形，填具報告表陳報衛生福利部食品藥物管理署。\n3   前項報告表格式，由衛生福利部另定之。",
+        "structureId": "chapter-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   勒戒處所需用之戒毒藥品，其屬成癮性麻醉藥品者，由衛生福利部食品藥物管理署核配。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   勒戒處所應將前項成癮性麻醉藥品實際使用情形，填具報告表陳報衛生福利部食品藥物管理署。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   前項報告表格式，由衛生福利部另定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-11-1",
+        "articleNumber": "11-1",
+        "displayNumber": "第 11-1 條",
+        "title": null,
+        "plainText": "依本條例第十八條第一項規定，經查獲無正當理由而擅自持有第三級、第四級毒品及製造或施用毒品之器具者，由查獲機關予以沒入銷燬之。",
+        "structureId": "chapter-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "依本條例第十八條第一項規定，經查獲無正當理由而擅自持有第三級、第四級毒品及製造或施用毒品之器具者，由查獲機關予以沒入銷燬之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "1   勒戒處所於受觀察、勒戒人經依本條例第二十條第一項規定觀察、勒戒後，應填具其有無繼續施用毒品傾向證明書，回報原移送機關。\n2   前項有無繼續施用毒品傾向證明書格式，由法務部定之。",
+        "structureId": "chapter-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   勒戒處所於受觀察、勒戒人經依本條例第二十條第一項規定觀察、勒戒後，應填具其有無繼續施用毒品傾向證明書，回報原移送機關。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項有無繼續施用毒品傾向證明書格式，由法務部定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "（刪除）",
+        "structureId": "chapter-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "（刪除）"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "各勒戒處所、戒治處所及監獄於施用毒品者依法出所或出獄後，應即通知其住所地警察機關、執行保護管束者及直轄市、縣（市）政府。",
+        "structureId": "chapter-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "各勒戒處所、戒治處所及監獄於施用毒品者依法出所或出獄後，應即通知其住所地警察機關、執行保護管束者及直轄市、縣（市）政府。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "法院受理檢察官依法為觀察、勒戒之聲請，如認被告有付觀察、勒戒必要時，應同時為觀察、勒戒之裁定。",
+        "structureId": "chapter-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "法院受理檢察官依法為觀察、勒戒之聲請，如認被告有付觀察、勒戒必要時，應同時為觀察、勒戒之裁定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "（刪除）",
+        "structureId": "chapter-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "（刪除）"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "1   法院對受拘提或逮捕到場之被告為不付觀察、勒戒之裁定，除另因他案依法應予羈押、留置、收容、移送執行或其他事由須送還法官、檢察官處理者外，應即釋放之。\n2   受觀察、勒戒人，現另因他案依法應予羈押、留置、收容時，其觀察、勒戒處分應於看守所或少年觀護所附設之勒戒處所執行之，其期間與羈押、留置或收容期間同時進行。",
+        "structureId": "chapter-5",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   法院對受拘提或逮捕到場之被告為不付觀察、勒戒之裁定，除另因他案依法應予羈押、留置、收容、移送執行或其他事由須送還法官、檢察官處理者外，應即釋放之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   受觀察、勒戒人，現另因他案依法應予羈押、留置、收容時，其觀察、勒戒處分應於看守所或少年觀護所附設之勒戒處所執行之，其期間與羈押、留置或收容期間同時進行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-18",
+        "articleNumber": "18",
+        "displayNumber": "第 18 條",
+        "title": null,
+        "plainText": "行政院得統合各相關機關或指定機關（構）負責檢驗、保管查獲之毒品、毒品半成品、先驅原料及化學品，並嚴密監督管制其檢驗、保管及處理流程，各機關（構）應提供必要之協助。",
+        "structureId": "chapter-6",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "行政院得統合各相關機關或指定機關（構）負責檢驗、保管查獲之毒品、毒品半成品、先驅原料及化學品，並嚴密監督管制其檢驗、保管及處理流程，各機關（構）應提供必要之協助。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-19",
+        "articleNumber": "19",
+        "displayNumber": "第 19 條",
+        "title": null,
+        "plainText": "各查緝機關、單位緝獲毒品，應會同在場人員或有關人員，當場辨認驗明數量，簽印加封蓋章後，送由指定之檢驗機關（構）檢驗毒品品項、純度及淨重，作為檢察機關偵辦或少年法院（庭）處理之參考及核獎機關核發獎金之依據。",
+        "structureId": "chapter-6",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "各查緝機關、單位緝獲毒品，應會同在場人員或有關人員，當場辨認驗明數量，簽印加封蓋章後，送由指定之檢驗機關（構）檢驗毒品品項、純度及淨重，作為檢察機關偵辦或少年法院（庭）處理之參考及核獎機關核發獎金之依據。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-20",
+        "articleNumber": "20",
+        "displayNumber": "第 20 條",
+        "title": null,
+        "plainText": "（刪除）",
+        "structureId": "chapter-6",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "（刪除）"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-21",
+        "articleNumber": "21",
+        "displayNumber": "第 21 條",
+        "title": null,
+        "plainText": "毒品、尿液之檢驗結果，應由檢驗機關（構）出具檢驗報告，並載明檢驗方法，交由送檢機關（構）依法辦理。",
+        "structureId": "chapter-6",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "毒品、尿液之檢驗結果，應由檢驗機關（構）出具檢驗報告，並載明檢驗方法，交由送檢機關（構）依法辦理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-22",
+        "articleNumber": "22",
+        "displayNumber": "第 22 條",
+        "title": null,
+        "plainText": "（刪除）",
+        "structureId": "chapter-6",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "（刪除）"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-23",
+        "articleNumber": "23",
+        "displayNumber": "第 23 條",
+        "title": null,
+        "plainText": "各毒品查緝機關應按月將緝獲毒品種類、數量之統計資料，檢送法務部及內政部；如涉及軍事審判案件，並副知國防部。",
+        "structureId": "chapter-6",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "各毒品查緝機關應按月將緝獲毒品種類、數量之統計資料，檢送法務部及內政部；如涉及軍事審判案件，並副知國防部。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-24",
+        "articleNumber": "24",
+        "displayNumber": "第 24 條",
+        "title": null,
+        "plainText": "各主管機關應研訂相關法規，以落實執行本條例第三十三條第一項對於所屬或監督之特定人員採驗尿液之規定。",
+        "structureId": "chapter-7",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "各主管機關應研訂相關法規，以落實執行本條例第三十三條第一項對於所屬或監督之特定人員採驗尿液之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-25",
+        "articleNumber": "25",
+        "displayNumber": "第 25 條",
+        "title": null,
+        "plainText": "1   本條例中華民國八十七年五月二十日修正施行前犯肅清煙毒條例第九條第一項、第二項或麻醉藥品管理條例第十三條之一第二項第四款之罪，經送觀察或勒戒中之案件，原指定勒戒處所應繼續為觀察、勒戒，其期間合計不得逾二月，並就其觀察、勒戒情形出具有無繼續施用毒品傾向證明書。\n2   檢察官或法院應就前項受觀察、勒戒人經觀察、勒戒結果，分別依下列情形處理之：\n一、偵查中之案件：有繼續施用毒品傾向者，檢察官應聲請法院或少年法院（地方法院少年法庭）裁定令入戒治處所施以強制戒治；無繼續施用毒品傾向者，應為不起訴之處分。\n二、審理中之案件：有繼續施用毒品傾向者，由法院或少年法院（地方法院少年法庭）逕為裁定令入戒治處所施以強制戒治；無繼續施用毒品傾向者，法院或少年法院（地方法院少年法庭）應為免刑之判決或不付審理之裁定。\n3   依前項規定為不起訴之處分或免刑之判決或不付審理之裁定後，五年內再犯本條例第十條之罪者，依本條例第二十三條第二項規定處理。\n4   第一項情形，如受觀察、勒戒人經觀察、勒戒結果，無繼續施用毒品傾向，其觀察、勒戒期間屆滿者，除因他案依法應予羈押、留置、收容或移送執行者外，應即將受觀察、勒戒人釋放。",
+        "structureId": "chapter-7",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本條例中華民國八十七年五月二十日修正施行前犯肅清煙毒條例第九條第一項、第二項或麻醉藥品管理條例第十三條之一第二項第四款之罪，經送觀察或勒戒中之案件，原指定勒戒處所應繼續為觀察、勒戒，其期間合計不得逾二月，並就其觀察、勒戒情形出具有無繼續施用毒品傾向證明書。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   檢察官或法院應就前項受觀察、勒戒人經觀察、勒戒結果，分別依下列情形處理之："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、偵查中之案件：有繼續施用毒品傾向者，檢察官應聲請法院或少年法院（地方法院少年法庭）裁定令入戒治處所施以強制戒治；無繼續施用毒品傾向者，應為不起訴之處分。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、審理中之案件：有繼續施用毒品傾向者，由法院或少年法院（地方法院少年法庭）逕為裁定令入戒治處所施以強制戒治；無繼續施用毒品傾向者，法院或少年法院（地方法院少年法庭）應為免刑之判決或不付審理之裁定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   依前項規定為不起訴之處分或免刑之判決或不付審理之裁定後，五年內再犯本條例第十條之罪者，依本條例第二十三條第二項規定處理。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   第一項情形，如受觀察、勒戒人經觀察、勒戒結果，無繼續施用毒品傾向，其觀察、勒戒期間屆滿者，除因他案依法應予羈押、留置、收容或移送執行者外，應即將受觀察、勒戒人釋放。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-26",
+        "articleNumber": "26",
+        "displayNumber": "第 26 條",
+        "title": null,
+        "plainText": "1   本條例中華民國八十七年五月二十日修正施行前犯肅清煙毒條例第九條第一項、第二項或麻醉藥品管理條例第十三條之一第二項第四款之罪，未送觀察或勒戒之案件，應依下列規定辦理：\n一、偵查中之案件：應由檢察官向法院聲請裁定將被告送勒戒處所觀察、勒戒，並就觀察、勒戒結果分別依本條例第二十條第二項規定辦理之。\n二、審理中之案件：應由法院或少年法院（地方法院少年法庭）逕為裁定，將被告或少年送勒戒處所觀察、勒戒。經觀察、勒戒結果，無繼續施用毒品傾向者，法院或少年法院（地方法院少年法庭）應為免刑之判決或不付審理之裁定；有繼續施用毒品傾向者，應逕為裁定將被告或少年送戒治處所強制戒治。強制戒治期滿，法院或少年法院（地方法院少年法庭）應為免刑之判決或不付審理之裁定。\n2   依前項規定為不起訴之處分、免刑之判決或不付審理之裁定後，五年內再犯本條例第十條之罪者，依本條例第二十三條第二項之規定處理。",
+        "structureId": "chapter-7",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本條例中華民國八十七年五月二十日修正施行前犯肅清煙毒條例第九條第一項、第二項或麻醉藥品管理條例第十三條之一第二項第四款之罪，未送觀察或勒戒之案件，應依下列規定辦理："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、偵查中之案件：應由檢察官向法院聲請裁定將被告送勒戒處所觀察、勒戒，並就觀察、勒戒結果分別依本條例第二十條第二項規定辦理之。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、審理中之案件：應由法院或少年法院（地方法院少年法庭）逕為裁定，將被告或少年送勒戒處所觀察、勒戒。經觀察、勒戒結果，無繼續施用毒品傾向者，法院或少年法院（地方法院少年法庭）應為免刑之判決或不付審理之裁定；有繼續施用毒品傾向者，應逕為裁定將被告或少年送戒治處所強制戒治。強制戒治期滿，法院或少年法院（地方法院少年法庭）應為免刑之判決或不付審理之裁定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   依前項規定為不起訴之處分、免刑之判決或不付審理之裁定後，五年內再犯本條例第十條之罪者，依本條例第二十三條第二項之規定處理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      },
+      {
+        "id": "article-27",
+        "articleNumber": "27",
+        "displayNumber": "第 27 條",
+        "title": null,
+        "plainText": "1   本細則自發布日施行。\n2   中華民國九十三年一月九日修正發布之條文，自中華民國九十三年一月九日施行。\n3   本細則中華民國一百零二年五月三十一日修正發布之條文，自一百零二年六月一日施行。",
+        "structureId": "chapter-7",
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本細則自發布日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   中華民國九十三年一月九日修正發布之條文，自中華民國九十三年一月九日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   本細則中華民國一百零二年五月三十一日修正發布之條文，自一百零二年六月一日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 毒品危害防制條例施行細則（PDF：毒品危害防制條例施行細則.pdf）",
+          "lastModified": "2023-06-28"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "narcotics-hazard-prevention-framework",
+        "name": "毒品危害防制法律框架",
+        "description": "彙整毒品之分級、查緝、戒治及行政管理所涉之法規，包含毒品危害防制條例本文及其施行細則。",
+        "aliases": [
+          "毒品防制"
+        ],
+        "tags": [
+          "毒品",
+          "戒治"
+        ],
+        "role": "supporting",
+        "sortOrder": 1
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "conceptId": "narcotics-hazard-prevention-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用毒品危害防制條例",
+        "relationType": "authorization",
+        "conditionText": "本細則依毒品危害防制條例（以下簡稱本條例）第三十四條規定訂定之。",
+        "targetRegulationId": "tw-narcotics-hazard-prevention-act",
+        "targetRegulationNames": [
+          "毒品危害防制條例"
+        ],
+        "targetArticleNumber": "34",
+        "triggerTerms": [
+          "本細則依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-narcotics-hazard-prevention-act-enforcement-rules-cite-1",
+        "sortOrder": 0
+      }
+    ],
+    "definedTerms": []
+  }
+}

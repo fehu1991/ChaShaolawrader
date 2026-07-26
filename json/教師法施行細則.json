@@ -1,0 +1,852 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-teachers-act-enforcement-rules",
+    "code": "UNKNOWN",
+    "name": "教師法施行細則",
+    "shortName": "教師法施行細則",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-teachers-act-enforcement-rules-20240620",
+      "label": "修正日期：民國 113 年 06 月 20 日",
+      "promulgationDate": "2024-06-20",
+      "effectiveDate": "2024-06-22",
+      "effectiveDateNote": "本版本施行條文明定自公布（發布）日施行，依中央法規標準法第13條，自公布（發布）之日起算至第三日起發生效力，故施行日為公布（發布）日之後二日。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "本細則依教師法（以下簡稱本法）第五十二條規定訂定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則依教師法（以下簡稱本法）第五十二條規定訂定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "本法所稱初聘，指合格教師接受學校第一次聘約或離職後重新接受學校聘約者。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法所稱初聘，指合格教師接受學校第一次聘約或離職後重新接受學校聘約者。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "本法所稱續聘，指合格教師經學校初聘後，在同一學校繼續接受聘約者。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法所稱續聘，指合格教師經學校初聘後，在同一學校繼續接受聘約者。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "本法施行前依法派任及已取得教師資格之現任教師，依本法第十條第二項規定辦理聘任時，其原派、聘任年資應予併計。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法施行前依法派任及已取得教師資格之現任教師，依本法第十條第二項規定辦理聘任時，其原派、聘任年資應予併計。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "本法第十條第二項所稱服務成績優良者，指高級中等以下學校教師除履行本法第三十二條所規定之義務外，並應具有下列條件之一：\n一、品德良好且能發揚師道，有具體事蹟足為師生表率。\n二、擔任導師或行政職務，認真負責。\n三、積極參加與教學、輔導有關之專業發展活動，且教學及輔導學生有具體績效。\n四、參與前三款以外其他學術、行政工作及社會教育活動，負責盡職，圓滿達成任務，對學校有特殊貢獻。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十條第二項所稱服務成績優良者，指高級中等以下學校教師除履行本法第三十二條所規定之義務外，並應具有下列條件之一："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、品德良好且能發揚師道，有具體事蹟足為師生表率。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、擔任導師或行政職務，認真負責。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、積極參加與教學、輔導有關之專業發展活動，且教學及輔導學生有具體績效。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、參與前三款以外其他學術、行政工作及社會教育活動，負責盡職，圓滿達成任務，對學校有特殊貢獻。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "專科以上學校辦理本法第十二條之教師輔導遷調，應優先輔導至校內其他單位從事符合教師專長之教學工作；無適當教學工作者，得輔導至其他校內外單位工作。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "專科以上學校辦理本法第十二條之教師輔導遷調，應優先輔導至校內其他單位從事符合教師專長之教學工作；無適當教學工作者，得輔導至其他校內外單位工作。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "1   本法所稱解聘，指教師在聘約存續期間，經服務學校依規定程序終止聘約。\n2   本法所稱不續聘，指教師經服務學校依規定程序，於聘約期限屆滿時不予續聘。\n3   本法所稱終局停聘、當然暫時予以停聘、暫時予以停聘，其停聘指教師在聘約存續期間，經服務學校依規定程序，停止聘約之執行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法所稱解聘，指教師在聘約存續期間，經服務學校依規定程序終止聘約。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法所稱不續聘，指教師經服務學校依規定程序，於聘約期限屆滿時不予續聘。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   本法所稱終局停聘、當然暫時予以停聘、暫時予以停聘，其停聘指教師在聘約存續期間，經服務學校依規定程序，停止聘約之執行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "1   本法所稱體罰，指教師於教育過程中，基於處罰之目的，親自、責令學生自己或責令第三者對學生身體施加強制力，或責令學生採取特定身體動作，使學生身體客觀上受到痛苦或身心受到侵害之行為。\n2   本法所稱霸凌，指校園霸凌防制準則規定之霸凌。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法所稱體罰，指教師於教育過程中，基於處罰之目的，親自、責令學生自己或責令第三者對學生身體施加強制力，或責令學生採取特定身體動作，使學生身體客觀上受到痛苦或身心受到侵害之行為。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法所稱霸凌，指校園霸凌防制準則規定之霸凌。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "教師評審委員會審議解聘、不續聘、停聘、資遣案件時，應分別適用或準用行政程序法有關陳述意見及申請閱覽、抄寫、複印或攝影有關資料或卷宗之相關規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "教師評審委員會審議解聘、不續聘、停聘、資遣案件時，應分別適用或準用行政程序法有關陳述意見及申請閱覽、抄寫、複印或攝影有關資料或卷宗之相關規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "軍警校院及矯正學校確認本法第十四條第一項第四款至第六款或第十五條第一項第一款及第二款情形時，得由其他依法令組成之相關委員會辦理。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "軍警校院及矯正學校確認本法第十四條第一項第四款至第六款或第十五條第一項第一款及第二款情形時，得由其他依法令組成之相關委員會辦理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "教師評審委員會依本法第十五條第二項規定審議之事項，以議決該教師不得聘任為教師之一年至四年期間為限。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "教師評審委員會依本法第十五條第二項規定審議之事項，以議決該教師不得聘任為教師之一年至四年期間為限。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "學校於聘約中約定教師有一定違反聘約行為，即得予以解聘或不續聘者，於個案適用時，教師評審委員會仍應依本法第十六條第一項第二款情節重大規定，就相關事實予以認定，不得逕以教師有一定違反聘約行為，即予以解聘或不續聘。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "學校於聘約中約定教師有一定違反聘約行為，即得予以解聘或不續聘者，於個案適用時，教師評審委員會仍應依本法第十六條第一項第二款情節重大規定，就相關事實予以認定，不得逕以教師有一定違反聘約行為，即予以解聘或不續聘。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "1   本法第十六條第一項所稱其情節以資遣為宜者，指經教師評審委員會認定有該條第一項各款情形之一，且非出於教師本人之惡意者。\n2   前項教師評審委員會之認定，依本法第十六條第二項規定辦理。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第十六條第一項所稱其情節以資遣為宜者，指經教師評審委員會認定有該條第一項各款情形之一，且非出於教師本人之惡意者。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項教師評審委員會之認定，依本法第十六條第二項規定辦理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "1   本法第十八條第二項所稱不得在學校任教，指不得在任何學校從事兼任、代理、代課及其他教學或輔導工作。\n2   受終局停聘之教師於停聘期間辭職者，於該停聘六個月至三年期間，仍不得在學校任教，並應受本法第十九條第二項規定之限制。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第十八條第二項所稱不得在學校任教，指不得在任何學校從事兼任、代理、代課及其他教學或輔導工作。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   受終局停聘之教師於停聘期間辭職者，於該停聘六個月至三年期間，仍不得在學校任教，並應受本法第十九條第二項規定之限制。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "教師有本法第二十一條各款情事之一者，學校應提請教師評審委員會審議該教師是否已有本法第十四條第一項、第十五條第一項、第十六條第一項或第十八條第一項所定之情事，並另作解聘、不續聘或終局停聘之決定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "教師有本法第二十一條各款情事之一者，學校應提請教師評審委員會審議該教師是否已有本法第十四條第一項、第十五條第一項、第十六條第一項或第十八條第一項所定之情事，並另作解聘、不續聘或終局停聘之決定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "1   本法第二十二條第一項所稱知悉之日，指學校接獲通報教師疑似涉有本法第二十二條第一項各款情形之日。\n2   依本法第二十二條第一項前段規定審議暫時予以停聘未通過，嗣經學校性別平等教育委員會或依法組成之相關委員會調查發現新事實或新證據而有暫時予以停聘必要者，教師評審委員會應即審議通過暫時予以停聘。\n3   教師評審委員會未依前二項規定辦理時，主管機關得追究學校相關人員責任。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第二十二條第一項所稱知悉之日，指學校接獲通報教師疑似涉有本法第二十二條第一項各款情形之日。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   依本法第二十二條第一項前段規定審議暫時予以停聘未通過，嗣經學校性別平等教育委員會或依法組成之相關委員會調查發現新事實或新證據而有暫時予以停聘必要者，教師評審委員會應即審議通過暫時予以停聘。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   教師評審委員會未依前二項規定辦理時，主管機關得追究學校相關人員責任。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "1   本法第二十六條第五項所稱教師解聘、不續聘或終局停聘案尚在處理程序中，指學校受理教師疑似有解聘、不續聘或終局停聘案件之日起，至解聘、不續聘或終局停聘決定生效之前一日止。\n2   學校辦理本法第二十六條第五項暫時繼續聘任，免經教師評審委員會審議，其聘期自前次聘約期限屆滿之次日起至解聘、不續聘或終局停聘決定生效之前一日止。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第二十六條第五項所稱教師解聘、不續聘或終局停聘案尚在處理程序中，指學校受理教師疑似有解聘、不續聘或終局停聘案件之日起，至解聘、不續聘或終局停聘決定生效之前一日止。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   學校辦理本法第二十六條第五項暫時繼續聘任，免經教師評審委員會審議，其聘期自前次聘約期限屆滿之次日起至解聘、不續聘或終局停聘決定生效之前一日止。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-18",
+        "articleNumber": "18",
+        "displayNumber": "第 18 條",
+        "title": null,
+        "plainText": "1   經主管機關核定或命令停辦學校，因故無法組成校級教師評審委員會時，學校應請主管機關推薦校外人士，與校內人員共同組成，或全數由主管機關推薦校外人士組成教師評審委員會。\n2   學校財團法人已清算終結者，由主管機關籌組教師評審委員會。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   經主管機關核定或命令停辦學校，因故無法組成校級教師評審委員會時，學校應請主管機關推薦校外人士，與校內人員共同組成，或全數由主管機關推薦校外人士組成教師評審委員會。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   學校財團法人已清算終結者，由主管機關籌組教師評審委員會。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-19",
+        "articleNumber": "19",
+        "displayNumber": "第 19 條",
+        "title": null,
+        "plainText": "1   申請退休或資遣之教師涉有本法第十四條第一項、第十五條第一項、第十六條第一項或第十八條第一項所定情形時，學校應即召開教師評審委員會、性別平等教育委員會或依法組成之相關委員會，認定是否作成解聘、不續聘或終局停聘之決議；經認定，無須作成解聘、不續聘或終局停聘之決議，且同意受理其申請退休或資遣者，應於報主管機關核准退休案或資遣案時，敘明理由並檢送相關會議資料。\n2   前項教師評審委員會決議，經主管機關認有違法之虞者，應依本法第二十六條規定敘明理由交回學校復議。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   申請退休或資遣之教師涉有本法第十四條第一項、第十五條第一項、第十六條第一項或第十八條第一項所定情形時，學校應即召開教師評審委員會、性別平等教育委員會或依法組成之相關委員會，認定是否作成解聘、不續聘或終局停聘之決議；經認定，無須作成解聘、不續聘或終局停聘之決議，且同意受理其申請退休或資遣者，應於報主管機關核准退休案或資遣案時，敘明理由並檢送相關會議資料。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項教師評審委員會決議，經主管機關認有違法之虞者，應依本法第二十六條規定敘明理由交回學校復議。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-20",
+        "articleNumber": "20",
+        "displayNumber": "第 20 條",
+        "title": null,
+        "plainText": "本法第三十一條第一項所稱學校章則，指各級學校依法令或本於職權經學校校務會議通過，並按規定程序公告實施之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第三十一條第一項所稱學校章則，指各級學校依法令或本於職權經學校校務會議通過，並按規定程序公告實施之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-21",
+        "articleNumber": "21",
+        "displayNumber": "第 21 條",
+        "title": null,
+        "plainText": "1   本法所定聘約，得由各級主管機關訂定聘約準則。\n2   各級教師組織得依本法第四十條第二款規定，與各級主管機關協議聘約準則。\n3   教師聘約內容，應符合各級主管機關所定聘約準則之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法所定聘約，得由各級主管機關訂定聘約準則。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   各級教師組織得依本法第四十條第二款規定，與各級主管機關協議聘約準則。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   教師聘約內容，應符合各級主管機關所定聘約準則之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-22",
+        "articleNumber": "22",
+        "displayNumber": "第 22 條",
+        "title": null,
+        "plainText": "1   本法所稱學校教師會、地方教師會、全國教師會，其定義如下：\n一、學校教師會：指各級學校專任教師所組成之職業團體。\n二、地方教師會：指於直轄市、縣（市）區域內以學校教師會為會員所組成之職業團體。\n三、全國教師會：指由各地方教師會為會員所組成之職業團體。\n2   地方教師會及全國教師會均為聯合團體，其會員以團體為限。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法所稱學校教師會、地方教師會、全國教師會，其定義如下："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、學校教師會：指各級學校專任教師所組成之職業團體。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、地方教師會：指於直轄市、縣（市）區域內以學校教師會為會員所組成之職業團體。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、全國教師會：指由各地方教師會為會員所組成之職業團體。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   地方教師會及全國教師會均為聯合團體，其會員以團體為限。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-23",
+        "articleNumber": "23",
+        "displayNumber": "第 23 條",
+        "title": null,
+        "plainText": "1   學校教師會由同一學校（包括附設幼兒園）專任教師三十人以上依人民團體法規定設立，並冠以學校名稱。\n2   學校（包括附設幼兒園）班級數少於二十班時，學校教師會得由同級學校專任教師三十人以上跨校、跨區（鄉、鎮），依人民團體法規定設立；其名稱由共同組成之學校教師協商訂定。\n3   依第一項規定設立學校教師會之學校，其教師不得再跨校、跨區（鄉、鎮）參加學校教師會。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   學校教師會由同一學校（包括附設幼兒園）專任教師三十人以上依人民團體法規定設立，並冠以學校名稱。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   學校（包括附設幼兒園）班級數少於二十班時，學校教師會得由同級學校專任教師三十人以上跨校、跨區（鄉、鎮），依人民團體法規定設立；其名稱由共同組成之學校教師協商訂定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   依第一項規定設立學校教師會之學校，其教師不得再跨校、跨區（鄉、鎮）參加學校教師會。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-24",
+        "articleNumber": "24",
+        "displayNumber": "第 24 條",
+        "title": null,
+        "plainText": "1   各級教師會應依人民團體相關規定，於成立大會後三十日內，檢具章程、會員名冊、選任職員簡歷冊，報請所在地人民團體主管機關立案。\n2   前項人民團體主管機關於各級教師會立案後，除發給立案證書及圖記外，並應通知本法之主管機關。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   各級教師會應依人民團體相關規定，於成立大會後三十日內，檢具章程、會員名冊、選任職員簡歷冊，報請所在地人民團體主管機關立案。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項人民團體主管機關於各級教師會立案後，除發給立案證書及圖記外，並應通知本法之主管機關。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-25",
+        "articleNumber": "25",
+        "displayNumber": "第 25 條",
+        "title": null,
+        "plainText": "地方教師會以直轄市、縣（市）為其組織區域，並冠以各該區域之名稱；全國教師會應冠以中華民國國號。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "地方教師會以直轄市、縣（市）為其組織區域，並冠以各該區域之名稱；全國教師會應冠以中華民國國號。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-26",
+        "articleNumber": "26",
+        "displayNumber": "第 26 條",
+        "title": null,
+        "plainText": "本法第三十九條第四項前段所稱行政區內半數以上學校教師會，指行政區內成立之教師會之半數以上。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第三十九條第四項前段所稱行政區內半數以上學校教師會，指行政區內成立之教師會之半數以上。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-27",
+        "articleNumber": "27",
+        "displayNumber": "第 27 條",
+        "title": null,
+        "plainText": "1   本法中華民國一百零九年六月三十日修正施行前之教師解聘、不續聘、停聘及資遣案尚未生效者，應依本法修正施行後之規定辦理。\n2   本法中華民國一百零九年六月三十日修正施行前，經學校認定有本法修正施行前之第十四條第一項第一款至第五款或第十款至第十三款規定之情事，且報經主管機關核准之暫時予以停聘案，其暫時停聘期間，為本法修正施行日起算至多三個月；必要時，得依本法第二十二條第二項延長停聘期間之規定辦理。\n3   本法中華民國一百零九年六月三十日修正施行前，經學校認定有本法修正施行前之第十四條第一項第八款、第九款規定之情事，且經教師評審委員會審議通過之暫時予以停聘案，其暫時停聘期間，為本法修正施行日起算至多六個月；必要時，得依本法第二十二條第一項規定延長停聘期間之規定辦理。\n4   本法中華民國一百零九年六月三十日修正施行前，經主管機關核准之教師終局停聘案，於本法修正施行日起，學校應依下列規定辦理：\n一、符合下列情形之一者，學校應予復聘：\n（一）終局停聘期間屆滿。\n（二）終局停聘期間執行滿三年。\n二、終局停聘期間未逾三年且未屆滿者：至屆滿後復聘。\n三、終局停聘期間逾三年且未屆滿者：至執行滿三年後復聘。\n四、終局停聘未定期間且執行未滿三年者：學校應即召開教師評審委員會，依本法第十八條第一項規定作成終局停聘期間之決議，於併計本法修正施行前已執行之期間至終局停聘期間屆滿後復聘。\n5   於本法修正施行後回復聘任者，其於本法中華民國一百零九年六月三十日修正施行前已執行之停聘期間本薪（年功薪）之補發，依本法修正施行前之第十四條之三規定辦理。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法中華民國一百零九年六月三十日修正施行前之教師解聘、不續聘、停聘及資遣案尚未生效者，應依本法修正施行後之規定辦理。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法中華民國一百零九年六月三十日修正施行前，經學校認定有本法修正施行前之第十四條第一項第一款至第五款或第十款至第十三款規定之情事，且報經主管機關核准之暫時予以停聘案，其暫時停聘期間，為本法修正施行日起算至多三個月；必要時，得依本法第二十二條第二項延長停聘期間之規定辦理。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   本法中華民國一百零九年六月三十日修正施行前，經學校認定有本法修正施行前之第十四條第一項第八款、第九款規定之情事，且經教師評審委員會審議通過之暫時予以停聘案，其暫時停聘期間，為本法修正施行日起算至多六個月；必要時，得依本法第二十二條第一項規定延長停聘期間之規定辦理。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   本法中華民國一百零九年六月三十日修正施行前，經主管機關核准之教師終局停聘案，於本法修正施行日起，學校應依下列規定辦理："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、符合下列情形之一者，學校應予復聘："
+          },
+          {
+            "type": "subitem",
+            "number": "一",
+            "text": "（一）終局停聘期間屆滿。"
+          },
+          {
+            "type": "subitem",
+            "number": "二",
+            "text": "（二）終局停聘期間執行滿三年。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、終局停聘期間未逾三年且未屆滿者：至屆滿後復聘。"
+          },
+          {
+            "type": "item",
+            "number": "三",
+            "text": "三、終局停聘期間逾三年且未屆滿者：至執行滿三年後復聘。"
+          },
+          {
+            "type": "item",
+            "number": "四",
+            "text": "四、終局停聘未定期間且執行未滿三年者：學校應即召開教師評審委員會，依本法第十八條第一項規定作成終局停聘期間之決議，於併計本法修正施行前已執行之期間至終局停聘期間屆滿後復聘。"
+          },
+          {
+            "type": "paragraph",
+            "number": "5",
+            "text": "5   於本法修正施行後回復聘任者，其於本法中華民國一百零九年六月三十日修正施行前已執行之停聘期間本薪（年功薪）之補發，依本法修正施行前之第十四條之三規定辦理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      },
+      {
+        "id": "article-28",
+        "articleNumber": "28",
+        "displayNumber": "第 28 條",
+        "title": null,
+        "plainText": "本細則自發布日施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則自發布日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 教師法施行細則（PDF：教師法施行細則.pdf）",
+          "lastModified": "2024-06-20"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "teacher-employment-framework",
+        "name": "教師任用與聘任法律框架",
+        "description": "彙整各級學校教師之資格、任用、聘任、解聘與不適任處理所涉之法規。",
+        "aliases": [
+          "教師任用"
+        ],
+        "tags": [
+          "教師",
+          "任用",
+          "聘任"
+        ],
+        "role": "supporting",
+        "sortOrder": 1
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "conceptId": "teacher-employment-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用教師法",
+        "relationType": "authorization",
+        "conditionText": "本細則依教師法（以下簡稱本法）第五十二條規定訂定之。",
+        "targetRegulationId": "tw-teachers-act",
+        "targetRegulationNames": [
+          "教師法"
+        ],
+        "targetArticleNumber": "52",
+        "triggerTerms": [
+          "本細則依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-teachers-act-enforcement-rules-cite-1",
+        "sortOrder": 0
+      },
+      {
+        "conceptId": "teacher-employment-framework",
+        "sourceArticleId": "article-9",
+        "label": "引用行政程序法",
+        "relationType": "application",
+        "conditionText": "教師評審委員會審議解聘、不續聘、停聘、資遣案件時，應分別適用或準用行政程序法有關陳述意見及申請閱覽、抄寫、複印或攝影有關資料或卷宗之相關規定。",
+        "targetRegulationId": "tw-administrative-procedure-act",
+        "targetRegulationNames": [
+          "行政程序法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "用或準用"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-teachers-act-enforcement-rules-cite-2",
+        "sortOrder": 1
+      }
+    ],
+    "definedTerms": [
+      {
+        "id": "tw-teachers-act-enforcement-rules-term-1",
+        "name": "初聘",
+        "aliases": [],
+        "definition": "合格教師接受學校第一次聘約或離職後重新接受學校聘約者。",
+        "definitionArticleId": "article-2",
+        "definitionText": "本法所稱初聘，指合格教師接受學校第一次聘約或離職後重新接受學校聘約者。",
+        "scope": "regulation",
+        "targetRegulationNames": [],
+        "sortOrder": 0
+      },
+      {
+        "id": "tw-teachers-act-enforcement-rules-term-2",
+        "name": "續聘",
+        "aliases": [],
+        "definition": "合格教師經學校初聘後，在同一學校繼續接受聘約者。",
+        "definitionArticleId": "article-3",
+        "definitionText": "本法所稱續聘，指合格教師經學校初聘後，在同一學校繼續接受聘約者。",
+        "scope": "regulation",
+        "targetRegulationNames": [],
+        "sortOrder": 1
+      },
+      {
+        "id": "tw-teachers-act-enforcement-rules-term-3",
+        "name": "解聘",
+        "aliases": [],
+        "definition": "教師在聘約存續期間，經服務學校依規定程序終止聘約。",
+        "definitionArticleId": "article-7",
+        "definitionText": "1   本法所稱解聘，指教師在聘約存續期間，經服務學校依規定程序終止聘約。",
+        "scope": "regulation",
+        "targetRegulationNames": [],
+        "sortOrder": 2
+      },
+      {
+        "id": "tw-teachers-act-enforcement-rules-term-4",
+        "name": "不續聘",
+        "aliases": [],
+        "definition": "教師經服務學校依規定程序，於聘約期限屆滿時不予續聘。",
+        "definitionArticleId": "article-7",
+        "definitionText": "2   本法所稱不續聘，指教師經服務學校依規定程序，於聘約期限屆滿時不予續聘。",
+        "scope": "regulation",
+        "targetRegulationNames": [],
+        "sortOrder": 3
+      },
+      {
+        "id": "tw-teachers-act-enforcement-rules-term-5",
+        "name": "體罰",
+        "aliases": [],
+        "definition": "教師於教育過程中，基於處罰之目的，親自、責令學生自己或責令第三者對學生身體施加強制力，或責令學生採取特定身體動作，使學生身體客觀上受到痛苦或身心受到侵害之行為。",
+        "definitionArticleId": "article-8",
+        "definitionText": "1   本法所稱體罰，指教師於教育過程中，基於處罰之目的，親自、責令學生自己或責令第三者對學生身體施加強制力，或責令學生採取特定身體動作，使學生身體客觀上受到痛苦或身心受到侵害之行為。",
+        "scope": "regulation",
+        "targetRegulationNames": [],
+        "sortOrder": 4
+      },
+      {
+        "id": "tw-teachers-act-enforcement-rules-term-6",
+        "name": "霸凌",
+        "aliases": [],
+        "definition": "校園霸凌防制準則規定之霸凌。",
+        "definitionArticleId": "article-8",
+        "definitionText": "2   本法所稱霸凌，指校園霸凌防制準則規定之霸凌。",
+        "scope": "regulation",
+        "targetRegulationNames": [],
+        "sortOrder": 5
+      }
+    ]
+  }
+}

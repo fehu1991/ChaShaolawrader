@@ -1,0 +1,1253 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-civil-code-rights-in-rem-enforcement-act",
+    "code": "UNKNOWN",
+    "name": "民法物權編施行法",
+    "shortName": "民法物權編施行法",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-civil-code-rights-in-rem-enforcement-act-20100203",
+      "label": "修正日期：民國 99 年 02 月 03 日",
+      "promulgationDate": "2010-02-03",
+      "effectiveDate": "2010-08-03",
+      "effectiveDateNote": "依第24條第2項，民法物權編修正條文及本施行法修正條文自公布後六個月施行；本版本公布日為民國99年2月3日，故施行日為2010-08-03。第1項另定本施行法自民法物權編施行之日施行。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "物權在民法物權編施行前發生者，除本施行法有特別規定外，不適用民法物權編之規定；其在修正施行前發生者，除本施行法有特別規定外，亦不適用修正施行後之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "物權在民法物權編施行前發生者，除本施行法有特別規定外，不適用民法物權編之規定；其在修正施行前發生者，除本施行法有特別規定外，亦不適用修正施行後之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "民法物權編所定之物權，在施行前發生者，其效力自施行之日起，依民法物權編之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法物權編所定之物權，在施行前發生者，其效力自施行之日起，依民法物權編之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "1   民法物權編所規定之登記，另以法律定之。\n2   物權於未能依前項法律登記前，不適用民法物權編關於登記之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法物權編所規定之登記，另以法律定之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   物權於未能依前項法律登記前，不適用民法物權編關於登記之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "1   民法物權編施行前，依民法物權編之規定，消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起，一年內行使請求權。但自其時效完成後，至民法物權編施行時，已逾民法物權編所定時效期間二分之一者，不在此限。\n2   前項規定，於依民法物權編修正施行後規定之消滅時效業已完成，或其時效期間尚有殘餘不足一年者，準用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法物權編施行前，依民法物權編之規定，消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起，一年內行使請求權。但自其時效完成後，至民法物權編施行時，已逾民法物權編所定時效期間二分之一者，不在此限。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項規定，於依民法物權編修正施行後規定之消滅時效業已完成，或其時效期間尚有殘餘不足一年者，準用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "1   民法物權編施行前，無時效性質之法定期間已屆滿者，其期間為屆滿。\n2   民法物權編施行前已進行之期間，依民法物權編所定之無時效性質之法定期間，於施行時尚未完成者，其已經過之期間與施行後之期間，合併計算。\n3   前項規定，於取得時效準用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法物權編施行前，無時效性質之法定期間已屆滿者，其期間為屆滿。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法物權編施行前已進行之期間，依民法物權編所定之無時效性質之法定期間，於施行時尚未完成者，其已經過之期間與施行後之期間，合併計算。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   前項規定，於取得時效準用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "前條規定，於民法物權編修正施行後所定無時效性質之法定期間準用之。但其法定期間不滿一年者，如在修正施行時尚未屆滿，其期間自修正施行之日起算。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "前條規定，於民法物權編修正施行後所定無時效性質之法定期間準用之。但其法定期間不滿一年者，如在修正施行時尚未屆滿，其期間自修正施行之日起算。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "民法物權編施行前占有動產而具備民法第七百六十八條之條件者，於施行之日取得其所有權。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法物權編施行前占有動產而具備民法第七百六十八條之條件者，於施行之日取得其所有權。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "民法物權編施行前占有不動產而具備民法第七百六十九條或第七百七十條之條件者，自施行之日起，得請求登記為所有人。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法物權編施行前占有不動產而具備民法第七百六十九條或第七百七十條之條件者，自施行之日起，得請求登記為所有人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-8-1",
+        "articleNumber": "8-1",
+        "displayNumber": "第 8-1 條",
+        "title": null,
+        "plainText": "修正之民法第七百八十二條規定，於民法物權編修正施行前水源地或井之所有人，對於他人因工事杜絕、減少或污染其水，而得請求損害賠償或並得請求回復原狀者，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第七百八十二條規定，於民法物權編修正施行前水源地或井之所有人，對於他人因工事杜絕、減少或污染其水，而得請求損害賠償或並得請求回復原狀者，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-8-2",
+        "articleNumber": "8-2",
+        "displayNumber": "第 8-2 條",
+        "title": null,
+        "plainText": "修正之民法第七百八十八條第二項規定，於民法物權編修正施行前有通行權人開設道路，致通行地損害過鉅者，亦適用之。但以未依修正前之規定支付償金者為限。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第七百八十八條第二項規定，於民法物權編修正施行前有通行權人開設道路，致通行地損害過鉅者，亦適用之。但以未依修正前之規定支付償金者為限。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-8-3",
+        "articleNumber": "8-3",
+        "displayNumber": "第 8-3 條",
+        "title": null,
+        "plainText": "修正之民法第七百九十六條及第七百九十六條之一規定，於民法物權編修正施行前土地所有人建築房屋逾越地界，鄰地所有人請求移去或變更其房屋時，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第七百九十六條及第七百九十六條之一規定，於民法物權編修正施行前土地所有人建築房屋逾越地界，鄰地所有人請求移去或變更其房屋時，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-8-4",
+        "articleNumber": "8-4",
+        "displayNumber": "第 8-4 條",
+        "title": null,
+        "plainText": "修正之民法第七百九十六條之二規定，於民法物權編修正施行前具有與房屋價值相當之其他建築物，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第七百九十六條之二規定，於民法物權編修正施行前具有與房屋價值相當之其他建築物，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-8-5",
+        "articleNumber": "8-5",
+        "displayNumber": "第 8-5 條",
+        "title": null,
+        "plainText": "1   同一區分所有建築物之區分所有人間為使其共有部分或基地之應有部分符合修正之民法第七百九十九條第四項規定之比例而為移轉者，不受修正之民法同條第五項規定之限制。\n2   民法物權編修正施行前，區分所有建築物之專有部分與其所屬之共有部分及其基地之權利，已分屬不同一人所有或已分別設定負擔者，其物權之移轉或設定負擔，不受修正之民法第七百九十九條第五項規定之限制。\n3   區分所有建築物之基地，依前項規定有分離出賣之情形時，其專有部分之所有人無基地應有部分或應有部分不足者，於按其專有部分面積比例計算其基地之應有部分範圍內，有依相同條件優先承買之權利，其權利並優先於其他共有人。\n4   前項情形，有數人表示優先承買時，應按專有部分比例買受之。但另有約定者，從其約定。\n5   區分所有建築物之專有部分，依第二項規定有分離出賣之情形時，其基地之所有人無專有部分者，有依相同條件優先承買之權利。\n6   前項情形，有數人表示優先承買時，以抽籤定之。但另有約定者，從其約定。\n7   區分所有建築物之基地或專有部分之所有人依第三項或第五項規定出賣基地或專有部分時，應在該建築物之公告處或其他相當處所公告五日。優先承買權人不於最後公告日起十五日內表示優先承買者，視為拋棄其優先承買權。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   同一區分所有建築物之區分所有人間為使其共有部分或基地之應有部分符合修正之民法第七百九十九條第四項規定之比例而為移轉者，不受修正之民法同條第五項規定之限制。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法物權編修正施行前，區分所有建築物之專有部分與其所屬之共有部分及其基地之權利，已分屬不同一人所有或已分別設定負擔者，其物權之移轉或設定負擔，不受修正之民法第七百九十九條第五項規定之限制。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   區分所有建築物之基地，依前項規定有分離出賣之情形時，其專有部分之所有人無基地應有部分或應有部分不足者，於按其專有部分面積比例計算其基地之應有部分範圍內，有依相同條件優先承買之權利，其權利並優先於其他共有人。"
+          },
+          {
+            "type": "paragraph",
+            "number": "4",
+            "text": "4   前項情形，有數人表示優先承買時，應按專有部分比例買受之。但另有約定者，從其約定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "5",
+            "text": "5   區分所有建築物之專有部分，依第二項規定有分離出賣之情形時，其基地之所有人無專有部分者，有依相同條件優先承買之權利。"
+          },
+          {
+            "type": "paragraph",
+            "number": "6",
+            "text": "6   前項情形，有數人表示優先承買時，以抽籤定之。但另有約定者，從其約定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "7",
+            "text": "7   區分所有建築物之基地或專有部分之所有人依第三項或第五項規定出賣基地或專有部分時，應在該建築物之公告處或其他相當處所公告五日。優先承買權人不於最後公告日起十五日內表示優先承買者，視為拋棄其優先承買權。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "依法得請求登記為所有人者，如第三條第一項所定之登記機關尚未設立，於得請求登記之日，視為所有人。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "依法得請求登記為所有人者，如第三條第一項所定之登記機關尚未設立，於得請求登記之日，視為所有人。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "民法物權編施行前，占有動產，而具備民法第八百零一條或第八百八十六條之條件者，於施行之日，取得其所有權或質權。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法物權編施行前，占有動產，而具備民法第八百零一條或第八百八十六條之條件者，於施行之日，取得其所有權或質權。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "民法物權編施行前，拾得遺失物、漂流物或沈沒物，而具備民法第八百零三條及第八百零七條之條件者，於施行之日，取得民法第八百零七條所定之權利。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法物權編施行前，拾得遺失物、漂流物或沈沒物，而具備民法第八百零三條及第八百零七條之條件者，於施行之日，取得民法第八百零七條所定之權利。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "民法物權編施行前，依民法第八百零八條或第八百十一條至第八百十四條之規定，取得所有權者，於施行之日，取得其所有權。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法物權編施行前，依民法第八百零八條或第八百十一條至第八百十四條之規定，取得所有權者，於施行之日，取得其所有權。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "1   民法物權編施行前，以契約訂有共有物不分割之期限者，如其殘餘期限，自施行日起算，較民法第八百二十三條第二項所定之期限為短者，依其期限，較長者，應自施行之日起，適用民法第八百二十三條第二項規定。\n2   修正之民法第八百二十三條第三項規定，於民法物權編修正施行前契約訂有不分割期限者，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法物權編施行前，以契約訂有共有物不分割之期限者，如其殘餘期限，自施行日起算，較民法第八百二十三條第二項所定之期限為短者，依其期限，較長者，應自施行之日起，適用民法第八百二十三條第二項規定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   修正之民法第八百二十三條第三項規定，於民法物權編修正施行前契約訂有不分割期限者，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-13-1",
+        "articleNumber": "13-1",
+        "displayNumber": "第 13-1 條",
+        "title": null,
+        "plainText": "修正之民法第八百三十三條之一規定，於民法物權編中華民國九十九年一月五日修正之條文施行前未定有期限之地上權，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第八百三十三條之一規定，於民法物權編中華民國九十九年一月五日修正之條文施行前未定有期限之地上權，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-13-2",
+        "articleNumber": "13-2",
+        "displayNumber": "第 13-2 條",
+        "title": null,
+        "plainText": "1   民法物權編中華民國九十九年一月五日修正之條文施行前發生之永佃權，其存續期限縮短為自修正施行日起二十年。\n2   前項永佃權仍適用修正前之規定。\n3   第一項永佃權存續期限屆滿時，永佃權人得請求變更登記為農育權。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   民法物權編中華民國九十九年一月五日修正之條文施行前發生之永佃權，其存續期限縮短為自修正施行日起二十年。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項永佃權仍適用修正前之規定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   第一項永佃權存續期限屆滿時，永佃權人得請求變更登記為農育權。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "1   修正之民法第八百七十五條之一至第八百七十五條之四之規定，於抵押物為債務人以外之第三人所有，而其上之抵押權成立於民法物權編修正施行前者，亦適用之。\n2   修正之民法第八百七十五條之四第二款之規定，於其後次序抵押權成立於民法物權編修正施行前者，亦同。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   修正之民法第八百七十五條之一至第八百七十五條之四之規定，於抵押物為債務人以外之第三人所有，而其上之抵押權成立於民法物權編修正施行前者，亦適用之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   修正之民法第八百七十五條之四第二款之規定，於其後次序抵押權成立於民法物權編修正施行前者，亦同。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "修正之民法第八百七十九條關於為債務人設定抵押權之第三人對保證人行使權利之規定，於民法物權編修正施行前已成立保證之情形，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第八百七十九條關於為債務人設定抵押權之第三人對保證人行使權利之規定，於民法物權編修正施行前已成立保證之情形，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "民法物權編施行前，以抵押權擔保之債權，依民法之規定，其請求權消滅時效已完成者，民法第八百八十條所規定抵押權之消滅期間，自施行日起算。但自請求權消滅時效完成後，至施行之日已逾十年者，不得行使抵押權。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法物權編施行前，以抵押權擔保之債權，依民法之規定，其請求權消滅時效已完成者，民法第八百八十條所規定抵押權之消滅期間，自施行日起算。但自請求權消滅時效完成後，至施行之日已逾十年者，不得行使抵押權。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "修正之民法第八百八十一條之一至第八百八十一條之十七之規定，除第八百八十一條之一第二項、第八百八十一條之四第二項、第八百八十一條之七之規定外，於民法物權編修正施行前設定之最高限額抵押權，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第八百八十一條之一至第八百八十一條之十七之規定，除第八百八十一條之一第二項、第八百八十一條之四第二項、第八百八十一條之七之規定外，於民法物權編修正施行前設定之最高限額抵押權，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-18",
+        "articleNumber": "18",
+        "displayNumber": "第 18 條",
+        "title": null,
+        "plainText": "修正之民法第八百八十三條之規定，於民法物權編修正施行前以地上權或典權為標的物之抵押權及其他抵押權，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第八百八十三條之規定，於民法物權編修正施行前以地上權或典權為標的物之抵押權及其他抵押權，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-19",
+        "articleNumber": "19",
+        "displayNumber": "第 19 條",
+        "title": null,
+        "plainText": "民法第八百九十二條第一項及第八百九十三條第一項所定之拍賣質物，除聲請法院拍賣者外，在拍賣法未公布施行前，得照市價變賣，並應經公證人或商業團體之證明。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法第八百九十二條第一項及第八百九十三條第一項所定之拍賣質物，除聲請法院拍賣者外，在拍賣法未公布施行前，得照市價變賣，並應經公證人或商業團體之證明。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-20",
+        "articleNumber": "20",
+        "displayNumber": "第 20 條",
+        "title": null,
+        "plainText": "民法物權編修正前關於質權之規定，於當舖或其他以受質為營業者，不適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法物權編修正前關於質權之規定，於當舖或其他以受質為營業者，不適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-21",
+        "articleNumber": "21",
+        "displayNumber": "第 21 條",
+        "title": null,
+        "plainText": "修正之民法第九百零六條之一之規定，於民法物權編修正施行前為質權標的物之債權，其清償期已屆至者，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第九百零六條之一之規定，於民法物權編修正施行前為質權標的物之債權，其清償期已屆至者，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-22",
+        "articleNumber": "22",
+        "displayNumber": "第 22 條",
+        "title": null,
+        "plainText": "民法物權編施行前，定有期限之典權，依舊法規得回贖者，仍適用舊法規。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "民法物權編施行前，定有期限之典權，依舊法規得回贖者，仍適用舊法規。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-23",
+        "articleNumber": "23",
+        "displayNumber": "第 23 條",
+        "title": null,
+        "plainText": "修正之民法第九百三十二條之一之規定，於民法物權編修正施行前留置物存有所有權以外之物權者，亦適用之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "修正之民法第九百三十二條之一之規定，於民法物權編修正施行前留置物存有所有權以外之物權者，亦適用之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      },
+      {
+        "id": "article-24",
+        "articleNumber": "24",
+        "displayNumber": "第 24 條",
+        "title": null,
+        "plainText": "1   本施行法自民法物權編施行之日施行。\n2   民法物權編修正條文及本施行法修正條文，自公布後六個月施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本施行法自民法物權編施行之日施行。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   民法物權編修正條文及本施行法修正條文，自公布後六個月施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 民法物權編施行法（PDF：民法物權編施行法.pdf）",
+          "lastModified": "2010-02-03"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "civil-code-framework",
+        "name": "民法及其施行法框架",
+        "description": "彙整民法各編本文及其對應施行法，供查考各編修正條文之適用與施行日期規定。",
+        "aliases": [
+          "民法體系"
+        ],
+        "tags": [
+          "民法",
+          "施行法"
+        ],
+        "role": "supporting",
+        "sortOrder": 3
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-1",
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": null,
+        "label": "所施行之本法",
+        "relationType": "application",
+        "conditionText": "本施行法規定民法物權編之施行日期及新舊法適用關係。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "民法物權編"
+        ],
+        "linkMode": "automatic",
+        "sortOrder": 0
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "物權在民法物權編施行前發生者，除本施行法有特別規定外，不適用民法物權編之規定；其在修正施行前發生者，除本施行法有特別規定外，亦不適用修正施行後之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "物權在"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-2",
+        "sortOrder": 1
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-2",
+        "label": "引用民法",
+        "relationType": "authorization",
+        "conditionText": "民法物權編所定之物權，在施行前發生者，其效力自施行之日起，依民法物權編之規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-3",
+        "sortOrder": 2
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-3",
+        "label": "引用民法",
+        "relationType": "authorization",
+        "conditionText": "1   民法物權編所規定之登記，另以法律定之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-4",
+        "sortOrder": 3
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-4",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法物權編施行前，依民法物權編之規定，消滅時效業已完成，或其時效期間尚有殘餘不足一年者，得於施行之日起，一年內行使請求權。但自其時效完成後，至民法物權編施行時，已逾民法物權編所定時效期間二分之一者，不在此限。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-5",
+        "sortOrder": 4
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-5",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法物權編施行前，無時效性質之法定期間已屆滿者，其期間為屆滿。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-6",
+        "sortOrder": 5
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-6",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "前條規定，於民法物權編修正施行後所定無時效性質之法定期間準用之。但其法定期間不滿一年者，如在修正施行時尚未屆滿，其期間自修正施行之日起算。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "規定，於"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-7",
+        "sortOrder": 6
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-7",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法物權編施行前占有動產而具備民法第七百六十八條之條件者，於施行之日取得其所有權。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "768",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-8",
+        "sortOrder": 7
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-8",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法物權編施行前占有不動產而具備民法第七百六十九條或第七百七十條之條件者，自施行之日起，得請求登記為所有人。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "769",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-9",
+        "sortOrder": 8
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-8-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第七百八十二條規定，於民法物權編修正施行前水源地或井之所有人，對於他人因工事杜絕、減少或污染其水，而得請求損害賠償或並得請求回復原狀者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "782",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-10",
+        "sortOrder": 9
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-8-2",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第七百八十八條第二項規定，於民法物權編修正施行前有通行權人開設道路，致通行地損害過鉅者，亦適用之。但以未依修正前之規定支付償金者為限。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "788",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-11",
+        "sortOrder": 10
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-8-3",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第七百九十六條及第七百九十六條之一規定，於民法物權編修正施行前土地所有人建築房屋逾越地界，鄰地所有人請求移去或變更其房屋時，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "796",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-12",
+        "sortOrder": 11
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-8-4",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第七百九十六條之二規定，於民法物權編修正施行前具有與房屋價值相當之其他建築物，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "796",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-13",
+        "sortOrder": 12
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-8-5",
+        "label": "引用民法",
+        "relationType": "authorization",
+        "conditionText": "1   同一區分所有建築物之區分所有人間為使其共有部分或基地之應有部分符合修正之民法第七百九十九條第四項規定之比例而為移轉者，不受修正之民法同條第五項規定之限制。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "799",
+        "triggerTerms": [
+          "合修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-14",
+        "sortOrder": 13
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-10",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法物權編施行前，占有動產，而具備民法第八百零一條或第八百八十六條之條件者，於施行之日，取得其所有權或質權。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "801",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-15",
+        "sortOrder": 14
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-11",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法物權編施行前，拾得遺失物、漂流物或沈沒物，而具備民法第八百零三條及第八百零七條之條件者，於施行之日，取得民法第八百零七條所定之權利。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "803",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-16",
+        "sortOrder": 15
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-12",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法物權編施行前，依民法第八百零八條或第八百十一條至第八百十四條之規定，取得所有權者，於施行之日，取得其所有權。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "808",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-17",
+        "sortOrder": 16
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-13",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法物權編施行前，以契約訂有共有物不分割之期限者，如其殘餘期限，自施行日起算，較民法第八百二十三條第二項所定之期限為短者，依其期限，較長者，應自施行之日起，適用民法第八百二十三條第二項規定。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "823",
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-18",
+        "sortOrder": 17
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-13-1",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第八百三十三條之一規定，於民法物權編中華民國九十九年一月五日修正之條文施行前未定有期限之地上權，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "833",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-19",
+        "sortOrder": 18
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-13-2",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   民法物權編中華民國九十九年一月五日修正之條文施行前發生之永佃權，其存續期限縮短為自修正施行日起二十年。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "1   "
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-20",
+        "sortOrder": 19
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-14",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   修正之民法第八百七十五條之一至第八百七十五條之四之規定，於抵押物為債務人以外之第三人所有，而其上之抵押權成立於民法物權編修正施行前者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "875",
+        "triggerTerms": [
+          " 修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-21",
+        "sortOrder": 20
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-15",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第八百七十九條關於為債務人設定抵押權之第三人對保證人行使權利之規定，於民法物權編修正施行前已成立保證之情形，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "879",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-22",
+        "sortOrder": 21
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-16",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法物權編施行前，以抵押權擔保之債權，依民法之規定，其請求權消滅時效已完成者，民法第八百八十條所規定抵押權之消滅期間，自施行日起算。但自請求權消滅時效完成後，至施行之日已逾十年者，不得行使抵押權。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "880",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-23",
+        "sortOrder": 22
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-17",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第八百八十一條之一至第八百八十一條之十七之規定，除第八百八十一條之一第二項、第八百八十一條之四第二項、第八百八十一條之七之規定外，於民法物權編修正施行前設定之最高限額抵押權，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "881",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-24",
+        "sortOrder": 23
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-18",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第八百八十三條之規定，於民法物權編修正施行前以地上權或典權為標的物之抵押權及其他抵押權，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "883",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-25",
+        "sortOrder": 24
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-19",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法第八百九十二條第一項及第八百九十三條第一項所定之拍賣質物，除聲請法院拍賣者外，在拍賣法未公布施行前，得照市價變賣，並應經公證人或商業團體之證明。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "892",
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-26",
+        "sortOrder": 25
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-20",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法物權編修正前關於質權之規定，於當舖或其他以受質為營業者，不適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-27",
+        "sortOrder": 26
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-21",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第九百零六條之一之規定，於民法物權編修正施行前為質權標的物之債權，其清償期已屆至者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "906",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-28",
+        "sortOrder": 27
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-22",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "民法物權編施行前，定有期限之典權，依舊法規得回贖者，仍適用舊法規。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-29",
+        "sortOrder": 28
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-23",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "修正之民法第九百三十二條之一之規定，於民法物權編修正施行前留置物存有所有權以外之物權者，亦適用之。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": "932",
+        "triggerTerms": [
+          "修正之"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-30",
+        "sortOrder": 29
+      },
+      {
+        "conceptId": "civil-code-framework",
+        "sourceArticleId": "article-24",
+        "label": "引用民法",
+        "relationType": "application",
+        "conditionText": "1   本施行法自民法物權編施行之日施行。",
+        "targetRegulationId": "tw-civil-code",
+        "targetRegulationNames": [
+          "民法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "施行法自"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-civil-code-rights-in-rem-enforcement-act-cite-31",
+        "sortOrder": 30
+      }
+    ],
+    "definedTerms": []
+  }
+}

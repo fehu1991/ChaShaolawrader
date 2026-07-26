@@ -1,0 +1,783 @@
+{
+  "schemaVersion": "1.3.0",
+  "processing": {
+    "normalizedBy": "ai",
+    "processedAt": "2026-07-22T00:00:00Z",
+    "sourceType": "document",
+    "warnings": [
+      "來源 PDF未載明主管機關，authority 依規範填「未提供」。",
+      "來源 PDF未印出官方法規代碼，code 依規範填「UNKNOWN」。",
+      "以下法規經條文明文引用，但未包含於本次匯入批次，targetRegulationId 暫留 null，待該等法規匯入後可依名稱自動或人工連結：師資培育法。"
+    ]
+  },
+  "regulation": {
+    "id": "tw-university-act-enforcement-rules",
+    "code": "UNKNOWN",
+    "name": "大學法施行細則",
+    "shortName": "大學法施行細則",
+    "jurisdiction": "TW",
+    "authority": "未提供",
+    "aliases": [],
+    "version": {
+      "id": "tw-university-act-enforcement-rules-20240624",
+      "label": "修正日期：民國 113 年 06 月 24 日",
+      "promulgationDate": "2024-06-24",
+      "effectiveDate": "2024-06-26",
+      "effectiveDateNote": "本版本施行條文明定自公布（發布）日施行，依中央法規標準法第13條，自公布（發布）之日起算至第三日起發生效力，故施行日為公布（發布）日之後二日。",
+      "status": "effective"
+    },
+    "structure": [],
+    "articles": [
+      {
+        "id": "article-1",
+        "articleNumber": "1",
+        "displayNumber": "第 1 條",
+        "title": null,
+        "plainText": "本細則依大學法（以下簡稱本法）第四十一條規定訂定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則依大學法（以下簡稱本法）第四十一條規定訂定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-2",
+        "articleNumber": "2",
+        "displayNumber": "第 2 條",
+        "title": null,
+        "plainText": "1   本法第二條所定大學，含獨立學院。獨立學院下設學系或單獨設研究所。\n2   獨立學院符合相關教育法令規定者，得申請改名大學，並依本法第四條第二項規定辦理。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第二條所定大學，含獨立學院。獨立學院下設學系或單獨設研究所。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   獨立學院符合相關教育法令規定者，得申請改名大學，並依本法第四條第二項規定辦理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-3",
+        "articleNumber": "3",
+        "displayNumber": "第 3 條",
+        "title": null,
+        "plainText": "本法第六條所稱跨校研究中心，指二所以上之大學為發展重點研究領域共同合作，集中人力資源、設備所成立之研究組織。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第六條所稱跨校研究中心，指二所以上之大學為發展重點研究領域共同合作，集中人力資源、設備所成立之研究組織。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-4",
+        "articleNumber": "4",
+        "displayNumber": "第 4 條",
+        "title": null,
+        "plainText": "1   大學間進行合併，由合併後存續或新設立之學校，繼受合併前原有學校之權利義務。\n2   大學與設有先修班辦理先修教育之學校，於合併後為確保原有先修班之特質及功能，必要時得經教育部（以下簡稱本部）核准設立學科。\n3   大學合併後新設立之大學，國立者，由本部指派人員，直轄市立、縣（市）立者，由各該所屬直轄市、縣（市）政府指派人員，私立者，由董事會指派人員，代理校長職務至學校依本法第十條規定產生校長為止。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   大學間進行合併，由合併後存續或新設立之學校，繼受合併前原有學校之權利義務。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   大學與設有先修班辦理先修教育之學校，於合併後為確保原有先修班之特質及功能，必要時得經教育部（以下簡稱本部）核准設立學科。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   大學合併後新設立之大學，國立者，由本部指派人員，直轄市立、縣（市）立者，由各該所屬直轄市、縣（市）政府指派人員，私立者，由董事會指派人員，代理校長職務至學校依本法第十條規定產生校長為止。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-5",
+        "articleNumber": "5",
+        "displayNumber": "第 5 條",
+        "title": null,
+        "plainText": "本法第八條第一項所定大學副校長，得以契約方式進用校外人士擔任。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第八條第一項所定大學副校長，得以契約方式進用校外人士擔任。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-6",
+        "articleNumber": "6",
+        "displayNumber": "第 6 條",
+        "title": null,
+        "plainText": "（刪除）",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "（刪除）"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-7",
+        "articleNumber": "7",
+        "displayNumber": "第 7 條",
+        "title": null,
+        "plainText": "1   大學依本法第十一條第一項規定單獨設研究所，須該大學未設相同或性質相近之學院、學系。\n2   學院依本法第十一條第一項規定下設之學系，包括與該學系相同或性質相近之碩士班及博士班。\n3   學院依本法第十一條第一項規定下設研究所，須該學院未設相同或性質相近之學系。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   大學依本法第十一條第一項規定單獨設研究所，須該大學未設相同或性質相近之學院、學系。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   學院依本法第十一條第一項規定下設之學系，包括與該學系相同或性質相近之碩士班及博士班。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   學院依本法第十一條第一項規定下設研究所，須該學院未設相同或性質相近之學系。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-8",
+        "articleNumber": "8",
+        "displayNumber": "第 8 條",
+        "title": null,
+        "plainText": "1   本法第十一條第二項所稱學分學程，指發給學分證明之跨系、所、院專業領域之課程設計及組合；所稱學位學程，指授予學位之跨系、所、院專業領域之課程設計及組合。\n2   大學設學分學程或學位學程，應有相關系、所、院為基礎，並得由系、所、院提供授課師資、教學設備空間等資源。\n3   教育學程，依師資培育法及其相關法規規定辦理。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第十一條第二項所稱學分學程，指發給學分證明之跨系、所、院專業領域之課程設計及組合；所稱學位學程，指授予學位之跨系、所、院專業領域之課程設計及組合。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   大學設學分學程或學位學程，應有相關系、所、院為基礎，並得由系、所、院提供授課師資、教學設備空間等資源。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   教育學程，依師資培育法及其相關法規規定辦理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-9",
+        "articleNumber": "9",
+        "displayNumber": "第 9 條",
+        "title": null,
+        "plainText": "1   大學依本法第十一條第二項規定設學分學程，應經教務相關之校級會議通過實施；涉及政府相關部門所定人力培育總量管制機制之特殊專業領域學分學程，並應報本部備查。\n2   學分學程之應修學分數，由各大學考量課程設計之完整性定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   大學依本法第十一條第二項規定設學分學程，應經教務相關之校級會議通過實施；涉及政府相關部門所定人力培育總量管制機制之特殊專業領域學分學程，並應報本部備查。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   學分學程之應修學分數，由各大學考量課程設計之完整性定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-10",
+        "articleNumber": "10",
+        "displayNumber": "第 10 條",
+        "title": null,
+        "plainText": "1   大學依本法第十一條第二項規定設學位學程，其方式如下：\n一、直接對外招生或以校、院對外招生之學位學程，應納入各校增設及調整院、系、所、學程與招生名額規劃，報本部核定後實施。\n二、對內提供在學學生轉入或雙主修之學位學程，應經校務會議通過實施，並報本部備查。但涉及政府相關部門所定人力培育總量管制機制之特殊專業領域之學位學程，應報本部核定後實施。\n2   學位學程之畢業應修學分數及其他應遵行事項，應符合各級學位之規定。\n3   大學應於學位學程證書登載學位學程名稱，或所跨之系、所、院名稱。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   大學依本法第十一條第二項規定設學位學程，其方式如下："
+          },
+          {
+            "type": "item",
+            "number": "一",
+            "text": "一、直接對外招生或以校、院對外招生之學位學程，應納入各校增設及調整院、系、所、學程與招生名額規劃，報本部核定後實施。"
+          },
+          {
+            "type": "item",
+            "number": "二",
+            "text": "二、對內提供在學學生轉入或雙主修之學位學程，應經校務會議通過實施，並報本部備查。但涉及政府相關部門所定人力培育總量管制機制之特殊專業領域之學位學程，應報本部核定後實施。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   學位學程之畢業應修學分數及其他應遵行事項，應符合各級學位之規定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   大學應於學位學程證書登載學位學程名稱，或所跨之系、所、院名稱。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-11",
+        "articleNumber": "11",
+        "displayNumber": "第 11 條",
+        "title": null,
+        "plainText": "大學依本法第十二條增設及調整院、系、所、對外招生之學位學程與招生名額，應報本部核定；其規劃及執行結果，由本部進行追蹤考核，並作為核定之依據。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "大學依本法第十二條增設及調整院、系、所、對外招生之學位學程與招生名額，應報本部核定；其規劃及執行結果，由本部進行追蹤考核，並作為核定之依據。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-12",
+        "articleNumber": "12",
+        "displayNumber": "第 12 條",
+        "title": null,
+        "plainText": "1   本法第十三條第三項所定達一定規模、學務繁重之學院、系、所及學位學程，其認定基準，由各大學組織規程定之。\n2   本法第十四條第三項所稱達一定規模、業務繁重之單位，指大學校內一級行政單位；其認定基準，由本部定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第十三條第三項所定達一定規模、學務繁重之學院、系、所及學位學程，其認定基準，由各大學組織規程定之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法第十四條第三項所稱達一定規模、業務繁重之單位，指大學校內一級行政單位；其認定基準，由本部定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-13",
+        "articleNumber": "13",
+        "displayNumber": "第 13 條",
+        "title": null,
+        "plainText": "大學依其組織規程設軍訓室者，置主任一人、軍訓教官、護理教師若干人，主任由校長自職級相當人員或本部推薦之軍訓教官二人至三人中擇聘之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "大學依其組織規程設軍訓室者，置主任一人、軍訓教官、護理教師若干人，主任由校長自職級相當人員或本部推薦之軍訓教官二人至三人中擇聘之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-14",
+        "articleNumber": "14",
+        "displayNumber": "第 14 條",
+        "title": null,
+        "plainText": "大學教職員之員額編制，由各大學擬訂員額編制表，國立、私立者，報本部核定後實施；直轄市立、縣（市）立者，依各該所屬直轄市、縣（市）政府規定辦理。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "大學教職員之員額編制，由各大學擬訂員額編制表，國立、私立者，報本部核定後實施；直轄市立、縣（市）立者，依各該所屬直轄市、縣（市）政府規定辦理。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-15",
+        "articleNumber": "15",
+        "displayNumber": "第 15 條",
+        "title": null,
+        "plainText": "（刪除）",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "（刪除）"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-16",
+        "articleNumber": "16",
+        "displayNumber": "第 16 條",
+        "title": null,
+        "plainText": "1   本法第十五條所定大學校務會議，由校長召開並主持之。\n2   本法第十五條第一項所定其餘出、列席人員，包括學術與行政主管代表；其產生方式及名額比率，於各大學組織規程定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第十五條所定大學校務會議，由校長召開並主持之。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   本法第十五條第一項所定其餘出、列席人員，包括學術與行政主管代表；其產生方式及名額比率，於各大學組織規程定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-17",
+        "articleNumber": "17",
+        "displayNumber": "第 17 條",
+        "title": null,
+        "plainText": "本法第十八條所定長期聘任，其聘期由各大學定之，並應依教師法及本法第二十一條教師評鑑規定，明定解聘、停聘、不續聘之規定。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本法第十八條所定長期聘任，其聘期由各大學定之，並應依教師法及本法第二十一條教師評鑑規定，明定解聘、停聘、不續聘之規定。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-17-1",
+        "articleNumber": "17-1",
+        "displayNumber": "第 17-1 條",
+        "title": null,
+        "plainText": "1   經主管機關核定或命令停辦學校，因故無法組成校級教師評審委員會時，學校應請主管機關推薦校外人士，與校內人員共同組成，或全數由主管機關推薦校外人士組成教師評審委員會。\n2   學校財團法人已清算終結者，由主管機關籌組教師評審委員會。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   經主管機關核定或命令停辦學校，因故無法組成校級教師評審委員會時，學校應請主管機關推薦校外人士，與校內人員共同組成，或全數由主管機關推薦校外人士組成教師評審委員會。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   學校財團法人已清算終結者，由主管機關籌組教師評審委員會。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-18",
+        "articleNumber": "18",
+        "displayNumber": "第 18 條",
+        "title": null,
+        "plainText": "大學專任教師之基本授課時數，由各大學定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "大學專任教師之基本授課時數，由各大學定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-19",
+        "articleNumber": "19",
+        "displayNumber": "第 19 條",
+        "title": null,
+        "plainText": "1   大學應依本法第二十四條第一項所定事項，擬訂招生規定，報本部核定後，訂定招生簡章。\n2   前項招生規定及涉及考生權益事項，應於招生簡章中明定。\n3   大學招生委員會或聯合會依本法第二十四條第二項規定委託學術專業團體或財團法人辦理考試相關業務，應以契約為之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   大學應依本法第二十四條第一項所定事項，擬訂招生規定，報本部核定後，訂定招生簡章。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項招生規定及涉及考生權益事項，應於招生簡章中明定。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   大學招生委員會或聯合會依本法第二十四條第二項規定委託學術專業團體或財團法人辦理考試相關業務，應以契約為之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-20",
+        "articleNumber": "20",
+        "displayNumber": "第 20 條",
+        "title": null,
+        "plainText": "1   大學招收已取得學士或副學士學位者修讀學士學位，得依本法第二十六條第二項規定縮短其修業年限。\n2   修讀學士學位學生，在規定修業期限內修滿畢業應修學分數且成績優異者，大學得依本法第二十六條第二項規定准其提前畢業。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   大學招收已取得學士或副學士學位者修讀學士學位，得依本法第二十六條第二項規定縮短其修業年限。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   修讀學士學位學生，在規定修業期限內修滿畢業應修學分數且成績優異者，大學得依本法第二十六條第二項規定准其提前畢業。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-21",
+        "articleNumber": "21",
+        "displayNumber": "第 21 條",
+        "title": null,
+        "plainText": "大學依本法第二十六條第一項至第四項所定各級學位修業期限與其修業期限得縮短或延長之資格條件及申請程序，應列入學則。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "大學依本法第二十六條第一項至第四項所定各級學位修業期限與其修業期限得縮短或延長之資格條件及申請程序，應列入學則。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-22",
+        "articleNumber": "22",
+        "displayNumber": "第 22 條",
+        "title": null,
+        "plainText": "1   本法第二十六條第五項所定學士學位畢業應修學分數，於學士學位修業期限為四年者，不得少於一百二十八學分；修業期限非四年者，應依修業期限酌予增減。\n2   大學為辦理教育實驗，得專案報本部核准調減前項畢業應修學分數。\n3   前二項有關畢業應修學分數及畢業條件，各大學應列入學則。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第二十六條第五項所定學士學位畢業應修學分數，於學士學位修業期限為四年者，不得少於一百二十八學分；修業期限非四年者，應依修業期限酌予增減。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   大學為辦理教育實驗，得專案報本部核准調減前項畢業應修學分數。"
+          },
+          {
+            "type": "paragraph",
+            "number": "3",
+            "text": "3   前二項有關畢業應修學分數及畢業條件，各大學應列入學則。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-23",
+        "articleNumber": "23",
+        "displayNumber": "第 23 條",
+        "title": null,
+        "plainText": "1   本法第二十六條第五項所定大學學分之計算，原則以授課滿十八小時為一學分。\n2   實習或實驗學分之計算，由各大學定之。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   本法第二十六條第五項所定大學學分之計算，原則以授課滿十八小時為一學分。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   實習或實驗學分之計算，由各大學定之。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-24",
+        "articleNumber": "24",
+        "displayNumber": "第 24 條",
+        "title": null,
+        "plainText": "1   大學得依其發展特色規劃課程，經教務相關之校級會議通過後實施，並應定期檢討或修正。\n2   各校召開課程規劃會議時，應有學生代表參與相關議案之討論；其討論之課程修正案有影響本法第二十六條第五項所定畢業應修學分數及學分之計算者，應公告學生周知。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   大學得依其發展特色規劃課程，經教務相關之校級會議通過後實施，並應定期檢討或修正。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   各校召開課程規劃會議時，應有學生代表參與相關議案之討論；其討論之課程修正案有影響本法第二十六條第五項所定畢業應修學分數及學分之計算者，應公告學生周知。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-25",
+        "articleNumber": "25",
+        "displayNumber": "第 25 條",
+        "title": null,
+        "plainText": "1   學生修讀他校輔系、雙主修、學程、跨校選修課程，應經本校及他校之同意。\n2   大學得就學生修讀輔系、雙主修、學分學程、跨校選修課程，自行訂定收費基準。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   學生修讀他校輔系、雙主修、學程、跨校選修課程，應經本校及他校之同意。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   大學得就學生修讀輔系、雙主修、學分學程、跨校選修課程，自行訂定收費基準。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-26",
+        "articleNumber": "26",
+        "displayNumber": "第 26 條",
+        "title": null,
+        "plainText": "1   學生會依本法第三十三條第三項規定向其會員收取之會費，應以處理學生在校學習、生活及與其權益直接有關之事項為限。\n2   學生會收取會費或學校依學生會請求代收會費，不得列為完成註冊程序之必要條件。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   學生會依本法第三十三條第三項規定向其會員收取之會費，應以處理學生在校學習、生活及與其權益直接有關之事項為限。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   學生會收取會費或學校依學生會請求代收會費，不得列為完成註冊程序之必要條件。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-27",
+        "articleNumber": "27",
+        "displayNumber": "第 27 條",
+        "title": null,
+        "plainText": "1   大學為依本法第三十九條規定主動公開校務資訊，應訂定校務資訊公開之事項、方式及人民申請提供之程序，且應於學校網頁建置校務公開專區，並指定單位或專人，辦理校務資訊之定期更新及管理。\n2   前項校務資訊，包括基本數據及趨勢、辦學特色及發展願景、績效表現及各類評鑑結果、畢業生流向及校友表現、財務資訊及學雜費、各類就學補助資訊等事項。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": "1",
+            "text": "1   大學為依本法第三十九條規定主動公開校務資訊，應訂定校務資訊公開之事項、方式及人民申請提供之程序，且應於學校網頁建置校務公開專區，並指定單位或專人，辦理校務資訊之定期更新及管理。"
+          },
+          {
+            "type": "paragraph",
+            "number": "2",
+            "text": "2   前項校務資訊，包括基本數據及趨勢、辦學特色及發展願景、績效表現及各類評鑑結果、畢業生流向及校友表現、財務資訊及學雜費、各類就學補助資訊等事項。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      },
+      {
+        "id": "article-28",
+        "articleNumber": "28",
+        "displayNumber": "第 28 條",
+        "title": null,
+        "plainText": "本細則自發布日施行。",
+        "structureId": null,
+        "content": [
+          {
+            "type": "paragraph",
+            "number": null,
+            "text": "本細則自發布日施行。"
+          }
+        ],
+        "metadata": {
+          "source": "全國法規資料庫 大學法施行細則（PDF：大學法施行細則.pdf）",
+          "lastModified": "2024-06-24"
+        }
+      }
+    ],
+    "legalConcepts": [
+      {
+        "id": "teacher-employment-framework",
+        "name": "教師任用與聘任法律框架",
+        "description": "彙整各級學校教師之資格、任用、聘任、解聘與不適任處理所涉之法規。",
+        "aliases": [
+          "教師任用"
+        ],
+        "tags": [
+          "教師",
+          "任用",
+          "聘任"
+        ],
+        "role": "related",
+        "sortOrder": 0
+      }
+    ],
+    "crossRegulationLinks": [
+      {
+        "conceptId": "teacher-employment-framework",
+        "sourceArticleId": "article-1",
+        "label": "引用大學法",
+        "relationType": "authorization",
+        "conditionText": "本細則依大學法（以下簡稱本法）第四十一條規定訂定之。",
+        "targetRegulationId": "tw-university-act",
+        "targetRegulationNames": [
+          "大學法"
+        ],
+        "targetArticleNumber": "41",
+        "triggerTerms": [
+          "本細則依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-university-act-enforcement-rules-cite-1",
+        "sortOrder": 0
+      },
+      {
+        "conceptId": "teacher-employment-framework",
+        "sourceArticleId": "article-8",
+        "label": "引用師資培育法",
+        "relationType": "application",
+        "conditionText": "3   教育學程，依師資培育法及其相關法規規定辦理。",
+        "targetRegulationId": null,
+        "targetRegulationNames": [
+          "師資培育法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "依"
+        ],
+        "linkMode": "automatic_or_manual",
+        "id": "link-tw-university-act-enforcement-rules-cite-2",
+        "sortOrder": 1
+      },
+      {
+        "conceptId": "teacher-employment-framework",
+        "sourceArticleId": "article-17",
+        "label": "引用教師法",
+        "relationType": "authorization",
+        "conditionText": "本法第十八條所定長期聘任，其聘期由各大學定之，並應依教師法及本法第二十一條教師評鑑規定，明定解聘、停聘、不續聘之規定。",
+        "targetRegulationId": "tw-teachers-act",
+        "targetRegulationNames": [
+          "教師法"
+        ],
+        "targetArticleNumber": null,
+        "triggerTerms": [
+          "，並應依"
+        ],
+        "linkMode": "automatic",
+        "id": "link-tw-university-act-enforcement-rules-cite-3",
+        "sortOrder": 2
+      }
+    ],
+    "definedTerms": []
+  }
+}
