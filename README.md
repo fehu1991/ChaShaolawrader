@@ -8,14 +8,27 @@
 - `json/` 資料夾內已依工具格式整理的法規 JSON。
 - 使用、下載、安全性與資料說明。
 
-**本儲存庫不包含應用程式原始碼、開發專案、建置腳本或其他安裝包。** GitHub Release 自動顯示的 Source code 壓縮檔只會包含本下載儲存庫的 README 與法規 JSON，不是工具原始碼。
+**本儲存庫不包含應用程式原始碼、開發專案、建置腳本或其他安裝包。** GitHub 自動產生的 Source code 壓縮檔只會包含這個下載儲存庫內的 EXE、README 與法規 JSON，不是工具原始碼。
 
 ## 下載工具
 
-1. 前往 [Releases](https://github.com/fehu1991/ChaShaolawrader/releases)。
-2. 下載最新版本的 `ChaShao-Law-Reader-版本號.exe`。
-3. 核對發布頁公布的 SHA-256。
-4. 直接執行 EXE；不需要安裝，也不會另外建立 MSI 或其他安裝程式。
+1. 直接下載儲存庫根目錄的 [ChaShao-Law-Reader-1.26.0.exe](https://github.com/fehu1991/ChaShaolawrader/raw/refs/heads/main/ChaShao-Law-Reader-1.26.0.exe)。
+2. 核對下方公布的 SHA-256。
+3. 直接執行 EXE；不需要安裝，也不會另外建立 MSI 或其他安裝程式。
+
+檔案大小：19,596,288 bytes（約 18.7 MB）
+
+SHA-256：
+
+```text
+FBD4DE727B2751C67919461D71EEBA8B7762918B7426FF82A9E33005261B2607
+```
+
+PowerShell 驗證方式：
+
+```powershell
+Get-FileHash .\ChaShao-Law-Reader-1.26.0.exe -Algorithm SHA256
+```
 
 ### Windows 安全性提醒
 
@@ -67,4 +80,4 @@
 
 最新正式版本：**1.26.0**
 
-詳細修正、檔案雜湊與下載資訊請查看 [v1.26.0 Release](https://github.com/fehu1991/ChaShaolawrader/releases/tag/v1.26.0)。
+Windows 執行檔已放在儲存庫根目錄，可由本頁直接下載。版本修正內容仍可參考 [v1.26.0 說明](https://github.com/fehu1991/ChaShaolawrader/releases/tag/v1.26.0)。
