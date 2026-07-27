@@ -224,3 +224,6 @@ Get-FileHash .\ChaShao-Law-Reader-1.27.0.exe -Algorithm SHA256
 本版本修正跨法規簡稱及接續條號可能無法正確連結的問題；新增資料庫一鍵重新關聯、未解析引用人工指定，以及名詞解釋、法條要件與相關筆記的整合查看視窗。人工指定的引用關聯不會被自動重算覆蓋。
 
 版本修正內容可參考本儲存庫的[提交紀錄](https://github.com/fehu1991/ChaShaolawrader/commits/main)。
+
+
+1.27.0 的完整新增功能、問題修正與使用提醒，請參閱 [1.27.0 更新歷程](./CHANGELOG.md)。
